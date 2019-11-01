@@ -3,3 +3,4 @@
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Neural baby talk **#cvpr2018**
+* Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
