@@ -1,3 +1,4 @@
+* On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Contrastive Multiview Coding **#arxiv2019**
 * Deep Image Prior **#bayes #cvpr2018**
@@ -14,11 +15,16 @@
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Deep Mutual Learning **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
+* Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
+* Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
+* Universal Correspondence Network **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
+* The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
+* Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * What’s the point: Semantic segmentation with point supervision **#eccv2016**
 * Fast dropout training **#icml2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
