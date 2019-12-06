@@ -8,6 +8,7 @@
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
+* Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
@@ -17,6 +18,7 @@
 * Learning Spread-out Local Feature Descriptors **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
+* Sketch Me That Shoe **#cvpr2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Universal Correspondence Network **#nips2016**
