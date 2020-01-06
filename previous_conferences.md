@@ -21,11 +21,13 @@
 * Sketch Me That Shoe **#cvpr2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
-* Universal Correspondence Network **#nips2016**
+* Universal Correspondence Network **#nips2016** 
+* Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
+* FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * What’s the point: Semantic segmentation with point supervision **#eccv2016**
