@@ -10,8 +10,10 @@
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
 * Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
+* Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
+* Focal Loss for Dense Object Detection **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Deep Mutual Learning **nips2017**
@@ -21,6 +23,7 @@
 * Sketch Me That Shoe **#cvpr2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
+* Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
