@@ -1,6 +1,7 @@
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Contrastive Multiview Coding **#arxiv2019**
+* Spreading vectors for similarity search **#iclr2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
@@ -12,13 +13,18 @@
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
+* The Singular Values of Convolutional Layers **#arxiv2018**
+* Learning Low-Rank Representations **#arxiv2018**
+* Stabilizing Gradients for Deep Neural Networks via Efficient SVDParameterization **#arxiv2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **iccv2017**
+* Deep Metric Learning with Angular Loss **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Deep Mutual Learning **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
+* TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
 * Ask Me Anything:
