@@ -8,6 +8,7 @@
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
+* Local descriptors optimized for average precision **#cvpr2018**
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
 * Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
@@ -19,18 +20,25 @@
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **iccv2017**
 * Deep Metric Learning with Angular Loss **iccv2017**
+* Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
+* Universal Adversarial Perturbations **cvpr2017**
 * Deep Mutual Learning **nips2017**
+* Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
+* DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
+* Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
+* Adversarially Learned Inference **#arxiv2016** 
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
