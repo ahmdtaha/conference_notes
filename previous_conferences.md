@@ -36,11 +36,13 @@
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
+* Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
+* Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Adversarially Learned Inference **#arxiv2016** 
