@@ -39,6 +39,7 @@
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
+* Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
