@@ -17,6 +17,7 @@
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
+* SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
 * Learning Low-Rank Representations **#arxiv2018**
 * Stabilizing Gradients for Deep Neural Networks via Efficient SVDParameterization **#arxiv2018**
@@ -26,6 +27,7 @@
 * Deep Metric Learning with Angular Loss **iccv2017**
 * Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
+* Adversarial feature learning **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
 * Deep Mutual Learning **nips2017**
