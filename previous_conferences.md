@@ -7,6 +7,7 @@
 * Improvements to context based self-supervised learning **#cvpr2018**
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
+* Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
 * Local descriptors optimized for average precision **#cvpr2018**
 * Mining on Manifolds: Metric Learning without Labels **#cvpr2018**
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
