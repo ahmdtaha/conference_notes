@@ -8,6 +8,7 @@
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
 * Local descriptors optimized for average precision **#cvpr2018**
+* Mining on Manifolds: Metric Learning without Labels **#cvpr2018**
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Rise: Randomized input sampling for explanation of black-box models  **#bmvc2018#**
@@ -24,6 +25,7 @@
 * Top-down neural attention by excitation backprop **#ijcv2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **iccv2017**
+* SVDNet for Pedestrian Retrieval **iccv2017**
 * Deep Metric Learning with Angular Loss **iccv2017**
 * Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
@@ -37,18 +39,21 @@
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
+* Unsupervised learning by predicting noise. **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
 * Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
+* Colorful Image Colorization **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Adversarially Learned Inference **#arxiv2016** 
+* Data-dependent initializations of convolutional neural networks **#iclr2016** 
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
