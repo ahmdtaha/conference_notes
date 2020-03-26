@@ -34,6 +34,7 @@
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
 * Deep Mutual Learning **nips2017**
+* VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
@@ -41,6 +42,7 @@
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
+* A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
@@ -52,8 +54,10 @@
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
+* Improved techniques for training GANs **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Adversarially Learned Inference **#arxiv2016** 
+* Unrolled generative adversarial networks **#iclr2016** 
 * Data-dependent initializations of convolutional neural networks **#iclr2016** 
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
