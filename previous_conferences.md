@@ -1,6 +1,7 @@
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Contrastive Multiview Coding **#arxiv2019**
+* Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -8,7 +9,9 @@
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
 * Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
+* Boosting Self-Supervised Learning via Knowledge Transfer **#cvpr2018**
 * Local descriptors optimized for average precision **#cvpr2018**
+* Cleannet: Transfer learning for scalable image classifier training with label noise. **#cvpr2018**
 * Mining on Manifolds: Metric Learning without Labels **#cvpr2018**
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
@@ -34,6 +37,7 @@
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
 * Deep Mutual Learning **nips2017**
+* Dual Discriminator Generative Adversarial Nets **nips2017**
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
@@ -47,6 +51,7 @@
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
+* Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Colorful Image Colorization **#eccv2016**
@@ -56,21 +61,25 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
+* Conditional image generation with pixelcnn decoders **#nips2016** 
 * Adversarially Learned Inference **#arxiv2016** 
+* Understanding intermediate layers using linear classifier probes **#arxiv2016** 
 * Unrolled generative adversarial networks **#iclr2016** 
 * Data-dependent initializations of convolutional neural networks **#iclr2016** 
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
+* What’s the point: Semantic segmentation with point supervision **#eccv2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
-* What’s the point: Semantic segmentation with point supervision **#eccv2016**
+* Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Fast dropout training **#icml2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Measuring the objectness of image windows **#pami2012**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
+* On random weights and unsupervised feature learning **#icml2011**
 
 
