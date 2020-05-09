@@ -21,10 +21,12 @@
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Sanity checks for saliency maps. **#nips2018**
+* Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
 * Learning Low-Rank Representations **#arxiv2018**
+* Label refinery: Improving imagenet classification through label progression **#arxiv2018**
 * Stabilizing Gradients for Deep Neural Networks via Efficient SVDParameterization **#arxiv2018**
 * Top-down neural attention by excitation backprop **#ijcv2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
@@ -62,7 +64,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Improved techniques for training GANs **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Conditional image generation with pixelcnn decoders **#nips2016** 
+* convolutional neural networks with low-rank regularization **#iclr2016** 
 * Adversarially Learned Inference **#arxiv2016** 
+* Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
 * Unrolled generative adversarial networks **#iclr2016** 
 * Data-dependent initializations of convolutional neural networks **#iclr2016** 
