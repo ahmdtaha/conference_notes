@@ -81,12 +81,15 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
+* Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
+* Fitnets: Hints for thin deep nets **#iclr2015**
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Fast dropout training **#icml2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Measuring the objectness of image windows **#pami2012**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
 * On random weights and unsupervised feature learning **#icml2011**
+* Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
 
 
