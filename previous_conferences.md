@@ -10,6 +10,7 @@
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
 * Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
 * Boosting Self-Supervised Learning via Knowledge Transfer **#cvpr2018**
+* Separating Style and Content for Generalized Style Transfer **#cvpr2018**
 * Local descriptors optimized for average precision **#cvpr2018**
 * Cleannet: Transfer learning for scalable image classifier training with label noise. **#cvpr2018**
 * Mining on Manifolds: Metric Learning without Labels **#cvpr2018**
@@ -76,6 +77,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * What’s the point: Semantic segmentation with point supervision **#eccv2016**
+* Bayesian representation learning with oracle constraints. **#iclr2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
@@ -91,5 +93,6 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
 * On random weights and unsupervised feature learning **#icml2011**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
+* Separating Style and Content **#nips1997**
 
 
