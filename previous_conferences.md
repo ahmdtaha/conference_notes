@@ -69,6 +69,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Universal Correspondence Network **#nips2016** 
 * Conditional image generation with pixelcnn decoders **#nips2016** 
 * convolutional neural networks with low-rank regularization **#iclr2016** -- [code](https://github.com/chengtaipu/lowrankcnn)
+* All you need is a good init **#iclr2016**
 * Adversarially Learned Inference **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
@@ -93,6 +94,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
 * On random weights and unsupervised feature learning **#icml2011**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
+* What is the best multi-stage architecture for object recognition? **#iccv2009**
 * Separating Style and Content **#nips1997**
 
 
