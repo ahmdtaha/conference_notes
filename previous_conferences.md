@@ -3,6 +3,7 @@
 * Contrastive Multiview Coding **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
+* Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
@@ -47,11 +48,13 @@
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
+* Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
+* Prototypical networks for few-shot learning **#nips2017**
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
@@ -94,6 +97,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
 * On random weights and unsupervised feature learning **#icml2011**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
+* Why does unsupervised pre-training help deep learning **#jmlr2010**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
 * Separating Style and Content **#nips1997**
 
