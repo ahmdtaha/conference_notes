@@ -1,5 +1,7 @@
+* When does label smoothing help? **#nips2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
+* The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
