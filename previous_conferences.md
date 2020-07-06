@@ -12,6 +12,7 @@
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
 * Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
+* Between-class learning for image classification **#cvpr2018**
 * Boosting Self-Supervised Learning via Knowledge Transfer **#cvpr2018**
 * Separating Style and Content for Generalized Style Transfer **#cvpr2018**
 * Local descriptors optimized for average precision **#cvpr2018**
