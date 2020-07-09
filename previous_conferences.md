@@ -5,6 +5,7 @@
 * Contrastive Multiview Coding **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
+* Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
