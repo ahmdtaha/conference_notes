@@ -68,6 +68,7 @@
 * Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Colorful Image Colorization **#eccv2016**
+* Learning without Forgetting **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
