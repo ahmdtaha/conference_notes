@@ -1,3 +1,4 @@
+* Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases **#arxiv2020**
 * Supervised Contrastive Learning **#arxiv2020**
 * Supermasks in superposition **#arxiv2020**
 * Dynamic Sampling for Deep Metric Learning **#arxiv2020**
@@ -8,3 +9,4 @@
 * Stabilizing the Lottery Ticket Hypothesis **#arxiv2019**
 * INTRIGUING PROPERTIES OF LEARNED REPRESENTATIONS **#openreview2019-ICLR**
 * Unsupervised Representation Learning by Predicting Image Rotations **#arxiv2018**
+

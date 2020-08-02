@@ -10,6 +10,7 @@
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
+* “Zero-Shot” Super-Resolution using Deep Internal Learning **#cvpr2018**
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
 * Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
@@ -47,6 +48,7 @@
 * Adversarial feature learning **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
+* iCaRL: Incremental classifier and representation learning **cvpr2017**
 * Deep Mutual Learning **nips2017**
 * Dual Discriminator Generative Adversarial Nets **nips2017**
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
