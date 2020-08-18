@@ -1,7 +1,9 @@
 * When does label smoothing help? **#nips2019**
+* Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
+* IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
@@ -10,6 +12,7 @@
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
+* Large-scale distance metric learning with uncertainty **#cvpr2018**
 * “Zero-Shot” Super-Resolution using Deep Internal Learning **#cvpr2018**
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
@@ -106,6 +109,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
+* Measuring Invariances in Deep Networks **#nips2009**
 * Separating Style and Content **#nips1997**
 
 
