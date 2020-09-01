@@ -11,11 +11,13 @@
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * Neural baby talk **#cvpr2018**
+* Interpret neural networks by identifying critical data routing paths **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
 * Large-scale distance metric learning with uncertainty **#cvpr2018**
 * “Zero-Shot” Super-Resolution using Deep Internal Learning **#cvpr2018**
 * Joint optimization framework for learning with noisy labels **#cvpr2018**
 * Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
+* Squeeze-and-Excitation Networks **#cvpr2018**
 * Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
 * Between-class learning for image classification **#cvpr2018**
 * Boosting Self-Supervised Learning via Knowledge Transfer **#cvpr2018**
@@ -32,6 +34,7 @@
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Born again neural networks. **#icml2018**
+* Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
@@ -49,8 +52,10 @@
 * Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Adversarial feature learning **#iclr2017**
+* Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
+* No fuss distance metric learning using proxies **cvpr2017**
 * iCaRL: Incremental classifier and representation learning **cvpr2017**
 * Deep Mutual Learning **nips2017**
 * Dual Discriminator Generative Adversarial Nets **nips2017**
