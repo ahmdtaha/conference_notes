@@ -1,4 +1,5 @@
 * Your Classifier Is Secretly An Energy Based Model And You Should Treat It Like One **#arxiv2020**
+* Architecture Disentanglement for Deep Neural Networks **#arxiv2020**
 * Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases **#arxiv2020**
 * Supervised Contrastive Learning **#arxiv2020**
 * Supermasks in superposition **#arxiv2020**
