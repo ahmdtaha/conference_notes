@@ -1,4 +1,5 @@
 * When does label smoothing help? **#nips2019**
+* Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
