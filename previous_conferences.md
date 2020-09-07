@@ -40,6 +40,7 @@
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding **#arxiv2018**
 * Large scale distributed neural network training through online distillation **#arxiv2018**
 * Learning Low-Rank Representations **#arxiv2018**
 * Label refinery: Improving imagenet classification through label progression **#arxiv2018**
