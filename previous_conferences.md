@@ -1,6 +1,7 @@
 * When does label smoothing help? **#nips2019**
 * Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
+* Res2net: A new multi-scale backbone architecture **#pami2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
@@ -30,6 +31,7 @@
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Rise: Randomized input sampling for explanation of black-box models  **#bmvc2018#**
 * Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
+* Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
@@ -40,6 +42,7 @@
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
+* Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer **#arxiv2018**
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding **#arxiv2018**
 * Large scale distributed neural network training through online distillation **#arxiv2018**
 * Learning Low-Rank Representations **#arxiv2018**
@@ -50,6 +53,7 @@
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **iccv2017**
 * SVDNet for Pedestrian Retrieval **iccv2017**
+* Learning efficient convolutional networks through network slimming. **iccv2017**
 * Deep Metric Learning with Angular Loss **iccv2017**
 * Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
@@ -74,6 +78,7 @@
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
+* Pruning filters for efficient convnets **#iclr2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
