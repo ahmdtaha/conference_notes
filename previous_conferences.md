@@ -95,6 +95,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Conditional image generation with pixelcnn decoders **#nips2016** 
 * convolutional neural networks with low-rank regularization **#iclr2016** -- [code](https://github.com/chengtaipu/lowrankcnn)
 * All you need is a good init **#iclr2016**
+* Reducing Overfitting In Deep Networks By Decorrelating Representations **#iclr2016**
 * Unifying distillation and privileged information **#iclr2016**
 * Adversarially Learned Inference **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**

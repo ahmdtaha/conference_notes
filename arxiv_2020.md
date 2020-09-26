@@ -11,5 +11,4 @@
 * Stabilizing the Lottery Ticket Hypothesis **#arxiv2019**
 * INTRIGUING PROPERTIES OF LEARNED REPRESENTATIONS **#openreview2019-ICLR**
 * Unsupervised Representation Learning by Predicting Image Rotations **#arxiv2018**
-* 
-
+* Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks  **#kdd2020**
