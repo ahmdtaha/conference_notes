@@ -12,7 +12,9 @@
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
+* CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
+* NISP: Pruning Networks Using Neuron Importance Score Propagation **#cvpr2018**
 * Interpret neural networks by identifying critical data routing paths **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
 * Large-scale distance metric learning with uncertainty **#cvpr2018**
@@ -69,6 +71,7 @@
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
 * Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **iccv2017**
+* Learning Efficient Convolutional Networks through Network Slimming **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
@@ -98,6 +101,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Reducing Overfitting In Deep Networks By Decorrelating Representations **#iclr2016**
 * Unifying distillation and privileged information **#iclr2016**
 * Adversarially Learned Inference **#arxiv2016** 
+* Pruning Filters For Efficient Convnets **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
 * Unrolled generative adversarial networks **#iclr2016** 
