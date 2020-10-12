@@ -95,8 +95,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
+* InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets **#nips2016** 
 * Conditional image generation with pixelcnn decoders **#nips2016** 
-* convolutional neural networks with low-rank regularization **#iclr2016** -- [code](https://github.com/chengtaipu/lowrankcnn)
+* Convolutional neural networks with low-rank regularization **#iclr2016** -- [code](https://github.com/chengtaipu/lowrankcnn)
 * All you need is a good init **#iclr2016**
 * Reducing Overfitting In Deep Networks By Decorrelating Representations **#iclr2016**
 * Unifying distillation and privileged information **#iclr2016**
@@ -105,6 +106,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
 * Unrolled generative adversarial networks **#iclr2016** 
+* Deep Compression: Compressing Deep Neural Networks With Pruning, Trained Quantization And Huffman Coding **#iclr2016** 
 * Data-dependent initializations of convolutional neural networks **#iclr2016** 
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
@@ -117,6 +119,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
 * Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
+* Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
 * Fitnets: Hints for thin deep nets **#iclr2015**
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Fast dropout training **#icml2013**
