@@ -70,6 +70,8 @@
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
 * Learning Spread-out Local Feature Descriptors **iccv2017**
+* Thinet: A filter level pruning method for deep neural network compression. **iccv2017**
+* Channel pruning for accelerating very deep neural networks. **iccv2017**
 * Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **iccv2017**
 * Learning Efficient Convolutional Networks through Network Slimming **iccv2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
@@ -95,6 +97,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
+* Learning Deep Parsimonious Representations **#nips2016** 
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets **#nips2016** 
 * Conditional image generation with pixelcnn decoders **#nips2016** 
 * Convolutional neural networks with low-rank regularization **#iclr2016** -- [code](https://github.com/chengtaipu/lowrankcnn)
