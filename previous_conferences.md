@@ -84,6 +84,7 @@
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Pruning filters for efficient convnets **#iclr2017**
+* Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
@@ -91,6 +92,7 @@
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Colorful Image Colorization **#eccv2016**
 * Learning without Forgetting **#eccv2016**
+* Less Is More: Towards Compact CNNs **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
