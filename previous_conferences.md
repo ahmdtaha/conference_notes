@@ -14,6 +14,7 @@
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
+* Blockdrop: Dynamic inference paths in residual networks **#cvpr2018**
 * NISP: Pruning Networks Using Neuron Importance Score Propagation **#cvpr2018**
 * Interpret neural networks by identifying critical data routing paths **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
@@ -87,6 +88,7 @@
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
+* Embedding Label Structures for Fine-Grained Feature Representation **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
