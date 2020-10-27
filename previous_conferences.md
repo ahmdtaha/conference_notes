@@ -99,6 +99,7 @@
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
+* Residual Networks Behave Like Ensembles of Relatively Shallow Networks **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Learning Deep Parsimonious Representations **#nips2016** 
@@ -112,6 +113,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Pruning Filters For Efficient Convnets **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
+* Adaptive Computation Time for Recurrent Neural Networks **#arxiv2016** 
 * Unrolled generative adversarial networks **#iclr2016** 
 * Deep Compression: Compressing Deep Neural Networks With Pruning, Trained Quantization And Huffman Coding **#iclr2016** 
 * Data-dependent initializations of convolutional neural networks **#iclr2016** 
