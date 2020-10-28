@@ -64,6 +64,7 @@
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
+* spatially adaptive computation time for residual networks **cvpr2017**
 * No fuss distance metric learning using proxies **cvpr2017**
 * iCaRL: Incremental classifier and representation learning **cvpr2017**
 * Deep Mutual Learning **nips2017**
@@ -104,6 +105,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Universal Correspondence Network **#nips2016** 
 * Learning Deep Parsimonious Representations **#nips2016** 
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets **#nips2016** 
+* PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions **#nips2016** 
 * Conditional image generation with pixelcnn decoders **#nips2016** 
 * Convolutional neural networks with low-rank regularization **#iclr2016** -- [code](https://github.com/chengtaipu/lowrankcnn)
 * All you need is a good init **#iclr2016**
@@ -125,6 +127,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
+* Spatial Transformer Network **#nips2015**
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
 * Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
