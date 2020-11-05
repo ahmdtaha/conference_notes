@@ -4,17 +4,20 @@
 * Res2net: A new multi-scale backbone architecture **#pami2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
+* Measuring Dataset Granularity **#arxiv2019**
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
+* Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
 * Blockdrop: Dynamic inference paths in residual networks **#cvpr2018**
+* Hydranets: Specialized dynamic architectures for efficient inference **#cvpr2018**
 * NISP: Pruning Networks Using Neuron Importance Score Propagation **#cvpr2018**
 * Interpret neural networks by identifying critical data routing paths **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
@@ -39,6 +42,7 @@
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Sanity checks for saliency maps. **#nips2018**
+* Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Born again neural networks. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
@@ -61,6 +65,7 @@
 * Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Adversarial feature learning **#iclr2017**
+* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **#iclr2017**
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
@@ -68,6 +73,7 @@
 * No fuss distance metric learning using proxies **cvpr2017**
 * iCaRL: Incremental classifier and representation learning **cvpr2017**
 * Deep Mutual Learning **nips2017**
+* Runtime neural pruning **nips2017**
 * Dual Discriminator Generative Adversarial Nets **nips2017**
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
@@ -122,6 +128,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Learning deep embeddings with histogram loss **#nips2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * What’s the point: Semantic segmentation with point supervision **#eccv2016**
+* Deep networks with stochastic depth **#eccv2016**
 * Bayesian representation learning with oracle constraints. **#iclr2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
@@ -133,6 +140,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
 * Fitnets: Hints for thin deep nets **#iclr2015**
+* Highway networks  **#arxiv2015**
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Fast dropout training **#icml2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
