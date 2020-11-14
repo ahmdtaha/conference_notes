@@ -1,6 +1,7 @@
 * When does label smoothing help? **#nips2019**
 * Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
+* Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
 * Res2net: A new multi-scale backbone architecture **#pami2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
@@ -105,6 +106,7 @@
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
+* Wide Residual Networks **#bmvc2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Residual Networks Behave Like Ensembles of Relatively Shallow Networks **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
