@@ -9,6 +9,7 @@
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
+* Efficient and Effective Dropout for Deep Convolutional Neural Networks **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
 * Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
@@ -47,6 +48,7 @@
 * Born again neural networks. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
+* Understanding Deep Convolutional Networks through Gestalt Theory **#ist2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
@@ -145,6 +147,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Highway networks  **#arxiv2015**
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Fast dropout training **#icml2013**
+* Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Measuring the objectness of image windows **#pami2012**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
