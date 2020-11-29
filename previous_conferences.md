@@ -138,6 +138,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
+* Efficient object localization using convolutional networks **#cvpr2015** 
 * Spatial Transformer Network **#nips2015**
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
 * Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
