@@ -15,6 +15,7 @@
 * Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
+* Fixing the train-test resolution discrepancy **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -157,6 +158,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
 * Measuring Invariances in Deep Networks **#nips2009**
+* The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Separating Style and Content **#nips1997**
 
 
