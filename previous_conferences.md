@@ -146,6 +146,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
 * Fitnets: Hints for thin deep nets **#iclr2015**
+* Understanding Locally Competitive Networks **#iclr2015**
 * Highway networks  **#arxiv2015**
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Fast dropout training **#icml2013**
@@ -160,5 +161,6 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Measuring Invariances in Deep Networks **#nips2009**
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Separating Style and Content **#nips1997**
+
 
 
