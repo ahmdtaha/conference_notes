@@ -1,3 +1,4 @@
+* Exploring Simple Siamese Representation Learning **#arxiv2020**
 * Curriculum by Smoothing -- `PI_Reading_Grp` **#nips2020**
 * An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale -- `PI_Reading_Grp` **#arxiv2020**
 * Are we done with ImageNet? **#arxiv2020**

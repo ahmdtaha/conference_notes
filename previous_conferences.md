@@ -153,7 +153,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Measuring the objectness of image windows **#pami2012**
-* Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
+* The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
@@ -161,6 +161,4 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Measuring Invariances in Deep Networks **#nips2009**
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Separating Style and Content **#nips1997**
-
-
-
+* Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
