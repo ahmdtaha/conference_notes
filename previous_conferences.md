@@ -47,6 +47,7 @@
 * Sanity checks for saliency maps. **#nips2018**
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Born again neural networks. **#icml2018**
+* Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Understanding Deep Convolutional Networks through Gestalt Theory **#ist2018**
