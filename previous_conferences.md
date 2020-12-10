@@ -16,6 +16,8 @@
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Fixing the train-test resolution discrepancy **#nips2019**
+* Adversarial Training for Free **#nips2019**
+* One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -46,6 +48,7 @@
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
+* Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
 * Born again neural networks. **#icml2018**
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
