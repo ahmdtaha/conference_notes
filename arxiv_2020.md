@@ -1,4 +1,5 @@
 * Exploring Simple Siamese Representation Learning **#arxiv2020**
+* Dissecting Image Crops -- `PI_Reading_Grp` **#arxiv2020**
 * An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale -- `PI_Reading_Grp` **#arxiv2020**
 * Are we done with ImageNet? **#arxiv2020**
 * Your Classifier Is Secretly An Energy Based Model And You Should Treat It Like One **#arxiv2020**

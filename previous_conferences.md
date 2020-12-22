@@ -131,6 +131,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Pruning Filters For Efficient Convnets **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
+* What makes ImageNet good for transfer learning? **#arxiv2016** 
 * Adaptive Computation Time for Recurrent Neural Networks **#arxiv2016** 
 * Unrolled generative adversarial networks **#iclr2016** 
 * Deep Compression: Compressing Deep Neural Networks With Pruning, Trained Quantization And Huffman Coding **#iclr2016** 
@@ -158,6 +159,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Measuring the objectness of image windows **#pami2012**
+* Unbiased Look at Dataset Bias **#cvpr2011**
 * The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
