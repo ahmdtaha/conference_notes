@@ -140,6 +140,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Hierarchical question-image co-attention for visual question answering. **#coattention** **#nips2016**
 * What’s the point: Semantic segmentation with point supervision **#eccv2016**
 * Deep networks with stochastic depth **#eccv2016**
+* Particular object retrieval with integral max-pooling of cnn activations **#iclr2016**
 * Bayesian representation learning with oracle constraints. **#iclr2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
@@ -167,5 +168,6 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
 * Measuring Invariances in Deep Networks **#nips2009**
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
+* Semi-supervised learning by entropy minimization **#nips2004** -- A simple and good idea but the notation! 
 * Separating Style and Content **#nips1997**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
