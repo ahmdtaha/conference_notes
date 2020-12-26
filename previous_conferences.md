@@ -106,6 +106,7 @@
 * Sketch Me That Shoe **#cvpr2016**
 * Embedding Label Structures for Fine-Grained Feature Representation **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
+* Factors in finetuning deep model for object detection with long-tail distribution **#cvpr2016**
 * Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Colorful Image Colorization **#eccv2016**
