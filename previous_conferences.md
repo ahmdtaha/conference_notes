@@ -12,12 +12,14 @@
 * Efficient and Effective Dropout for Deep Convolutional Neural Networks **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
+* Proxylessnas: Direct Neural Architecture Search On Target Task And Hardware **#iclr2019**
 * Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Fixing the train-test resolution discrepancy **#nips2019**
 * Adversarial Training for Free **#nips2019**
 * One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers **#nips2019**
+* Channel Gating Neural Networks **#nips2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -39,6 +41,7 @@
 * Cleannet: Transfer learning for scalable image classifier training with label noise. **#cvpr2018**
 * Mining on Manifolds: Metric Learning without Labels **#cvpr2018**
 * Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
+* Dynamic Deep Neural Networks: Optimizing Accuracy-Efficiency Trade-offs by Selective Execution **aaai2018**
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Rise: Randomized input sampling for explanation of black-box models  **#bmvc2018#**
 * Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
@@ -115,6 +118,7 @@
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
+* Dynamic Capacity Network **#icml2016**
 * Wide Residual Networks **#bmvc2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Residual Networks Behave Like Ensembles of Relatively Shallow Networks **#nips2016** 
