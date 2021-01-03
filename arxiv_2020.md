@@ -12,8 +12,9 @@
 * State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication **#arxiv2020**
 * A Simple Framework for Contrastive Learning of Visual Representations **#arxiv2020**
 	> Looks simple but use a batch_size=8192, trained for 100 epochs on imagenet.
-* * Adaptive Self-Training For Few-Shot Neural Sequence Labeling **#arxiv2020**
+* Adaptive Self-Training For Few-Shot Neural Sequence Labeling **#arxiv2020**
 * Stabilizing the Lottery Ticket Hypothesis **#arxiv2019**
+* Sparse Transfer Learning via Winning Lottery Tickets **#arxiv2019**
 * INTRIGUING PROPERTIES OF LEARNED REPRESENTATIONS **#openreview2019-ICLR**
 * Unsupervised Representation Learning by Predicting Image Rotations **#arxiv2018**
 

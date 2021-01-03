@@ -3,6 +3,7 @@
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
 * Res2net: A new multi-scale backbone architecture **#pami2019**
+* Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
@@ -174,5 +175,6 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Measuring Invariances in Deep Networks **#nips2009**
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Semi-supervised learning by entropy minimization **#nips2004** -- A simple and good idea but the notation! 
+* The Dynamic Representation of Scenes **#VisCog2000**
 * Separating Style and Content **#nips1997**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
