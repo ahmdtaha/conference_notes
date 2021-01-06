@@ -1,5 +1,3 @@
-* When does label smoothing help? **#nips2019**
-* Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
 * Res2net: A new multi-scale backbone architecture **#pami2019**
@@ -7,6 +5,7 @@
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
+* Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
@@ -21,6 +20,9 @@
 * Adversarial Training for Free **#nips2019**
 * One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers **#nips2019**
 * Channel Gating Neural Networks **#nips2019**
+* When does label smoothing help? **#nips2019**
+* Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
+* Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -173,6 +175,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
 * Measuring Invariances in Deep Networks **#nips2009**
+* Weighted sums of random kitchen sinks: Replacing minimization with randomization in learning **#nips2008**
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Semi-supervised learning by entropy minimization **#nips2004** -- A simple and good idea but the notation! 
 * The Dynamic Representation of Scenes **#VisCog2000**
