@@ -6,6 +6,7 @@
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
 * Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
+* Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
@@ -52,6 +53,7 @@
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
+* Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
@@ -80,6 +82,7 @@
 * Representation Learning by Learning to Count **iccv2017**
 * Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Adversarial feature learning **#iclr2017**
+* beta-vae: Learning basic visual concepts with a constrained variational framework **#iclr2017**
 * A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **#iclr2017**
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
