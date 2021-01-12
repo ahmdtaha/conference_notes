@@ -1,5 +1,6 @@
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
+* Convolutional networks with adaptive inference graphs **#ijcv2019** -- `Nice paper`
 * Res2net: A new multi-scale backbone architecture **#pami2019**
 * Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
@@ -8,7 +9,7 @@
 * Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
-* IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS **#iclr2019**
+* Imagenet-Trained Cnns Are Biased Towards Texture; Increasing Shape Bias Improves Accuracy And Robustness **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
 * Efficient and Effective Dropout for Deep Convolutional Neural Networks **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
@@ -77,13 +78,15 @@
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **iccv2017**
 * SVDNet for Pedestrian Retrieval **iccv2017**
+* Arbitrary style transfer in real-time with adaptive instance normalization. **iccv2017**
 * Learning efficient convolutional networks through network slimming. **iccv2017**
 * Deep Metric Learning with Angular Loss **iccv2017**
 * Representation Learning by Learning to Count **iccv2017**
-* Dynamic coattention networks for question answering **#coattention** **#iclr2017**
+* Dynamic coattention networks for question answering **#coattention** **iclr2017**
 * Adversarial feature learning **#iclr2017**
-* beta-vae: Learning basic visual concepts with a constrained variational framework **#iclr2017**
-* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **#iclr2017**
+* learned representation for artistic style. **iclr2017** 
+* beta-vae: Learning basic visual concepts with a constrained variational framework **iclr2017**
+* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **iclr2017**
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
