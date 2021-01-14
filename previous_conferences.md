@@ -103,6 +103,7 @@
 * Channel pruning for accelerating very deep neural networks. **iccv2017**
 * Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **iccv2017**
 * Learning Efficient Convolutional Networks through Network Slimming **iccv2017**
+* Demystifying Neural Style Transfer **ijcai2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
