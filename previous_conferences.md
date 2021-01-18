@@ -26,6 +26,7 @@
 * When does label smoothing help? **#nips2019**
 * Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
 * Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
+* Incremental learning in deep convolutional neural networks using partial network sharing **IEEEAccess2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -53,6 +54,7 @@
 * Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
 * Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
+* SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
