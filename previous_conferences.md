@@ -76,42 +76,45 @@
 * Learning Low-Rank Representations **#arxiv2018**
 * Label refinery: Improving imagenet classification through label progression **#arxiv2018**
 * Stabilizing Gradients for Deep Neural Networks via Efficient SVDParameterization **#arxiv2018**
+* Flexible deep neural network processing **#arxiv2018**
 * Deep Paper Gestalt **#arxiv2018**
 * Top-down neural attention by excitation backprop **#ijcv2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
-* Focal Loss for Dense Object Detection **iccv2017**
-* SVDNet for Pedestrian Retrieval **iccv2017**
-* Arbitrary style transfer in real-time with adaptive instance normalization. **iccv2017**
-* Learning efficient convolutional networks through network slimming. **iccv2017**
-* Deep Metric Learning with Angular Loss **iccv2017**
-* Representation Learning by Learning to Count **iccv2017**
-* Dynamic coattention networks for question answering **#coattention** **iclr2017**
+* Focal Loss for Dense Object Detection **#iccv2017**
+* SVDNet for Pedestrian Retrieval **#iccv2017**
+* Arbitrary style transfer in real-time with adaptive instance normalization. **#iccv2017**
+* Learning efficient convolutional networks through network slimming. **#iccv2017**
+* Deep Metric Learning with Angular Loss **#iccv2017**
+* Representation Learning by Learning to Count **#iccv2017**
+* Dynamic coattention networks for question answering **#coattention** **#iclr2017**
 * Adversarial feature learning **#iclr2017**
-* learned representation for artistic style. **iclr2017** 
-* beta-vae: Learning basic visual concepts with a constrained variational framework **iclr2017**
-* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **iclr2017**
+* learned representation for artistic style. **#iclr2017** 
+* beta-vae: Learning basic visual concepts with a constrained variational framework **#iclr2017**
+* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **#iclr2017**
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
 * spatially adaptive computation time for residual networks **cvpr2017**
 * No fuss distance metric learning using proxies **cvpr2017**
 * iCaRL: Incremental classifier and representation learning **cvpr2017**
-* Deep Mutual Learning **nips2017**
-* Runtime neural pruning **nips2017**
-* Dual Discriminator Generative Adversarial Nets **nips2017**
-* VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **nips2017**
-* Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **nips2017**
-* Learning Spread-out Local Feature Descriptors **iccv2017**
-* Thinet: A filter level pruning method for deep neural network compression. **iccv2017**
-* Channel pruning for accelerating very deep neural networks. **iccv2017**
-* Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **iccv2017**
-* Learning Efficient Convolutional Networks through Network Slimming **iccv2017**
-* Demystifying Neural Style Transfer **ijcai2017**
+* Deep Mutual Learning **#nips2017**
+* Runtime neural pruning **#nips2017**
+* Dynamic Routing Between Capsules **#nips2017**
+* Dual Discriminator Generative Adversarial Nets **#nips2017**
+* VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **#nips2017**
+* Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **#nips2017**
+* Learning Spread-out Local Feature Descriptors **#iccv2017**
+* Thinet: A filter level pruning method for deep neural network compression. **#iccv2017**
+* Channel pruning for accelerating very deep neural networks. **#iccv2017**
+* Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **#iccv2017**
+* Learning Efficient Convolutional Networks through Network Slimming **#iccv2017**
+* Demystifying Neural Style Transfer **#ijcai2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
+* SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization **#icml2017**
 * Prototypical networks for few-shot learning **#nips2017**
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
@@ -175,6 +178,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Understanding Locally Competitive Networks **#iclr2015**
 * Highway networks  **#arxiv2015**
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
+* Deep convolutional network cascade for facial point detection **#cvpr2013**
 * Fast dropout training **#icml2013**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
