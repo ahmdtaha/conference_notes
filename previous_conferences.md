@@ -79,6 +79,7 @@
 * Flexible deep neural network processing **#arxiv2018**
 * Deep Paper Gestalt **#arxiv2018**
 * Top-down neural attention by excitation backprop **#ijcv2018**
+* MonolithNet: Training monolithic deep neural networks via a partitioned training strategy **#jcvis2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **#iccv2017**
 * SVDNet for Pedestrian Retrieval **#iccv2017**
@@ -112,6 +113,7 @@
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
+* Neural Discrete Representation Learning **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
 * SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization **#icml2017**
@@ -177,6 +179,8 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Fitnets: Hints for thin deep nets **#iclr2015**
 * Understanding Locally Competitive Networks **#iclr2015**
 * Highway networks  **#arxiv2015**
+* Multi-path Convolutional Neural Networks for Complex Image Classification **#arxiv2015**
+	> very primitive but interesting
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Deep convolutional network cascade for facial point detection **#cvpr2013**
 * Fast dropout training **#icml2013**
