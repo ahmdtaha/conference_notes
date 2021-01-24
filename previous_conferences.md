@@ -26,6 +26,7 @@
 * When does label smoothing help? **#nips2019**
 * Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
 * Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
+* TriResNet: A Deep Triple-stream Residual Network for Histopathology Grading **#iciar2019**
 * Incremental learning in deep convolutional neural networks using partial network sharing **IEEEAccess2019**
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
