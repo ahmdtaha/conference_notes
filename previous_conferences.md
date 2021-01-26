@@ -55,6 +55,7 @@
 * Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
 * Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
+* Hierarchy of Alternating Specialist for Scene Recognition **#eccv2018**
 * SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
