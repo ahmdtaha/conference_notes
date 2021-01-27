@@ -5,6 +5,7 @@
 	> Technicalities
 * An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale -- `PI_Reading_Grp` **#arxiv2020**
 * Are we done with ImageNet? **#arxiv2020**
+* Learned Initializations for Optimizing Coordinate-Based Neural Representations **#arxiv2020**
 * Splitting Convolutional Neural Network Structures for Efficient Inference **#arxiv2020**
 * Your Classifier Is Secretly An Energy Based Model And You Should Treat It Like One **#arxiv2020**
 * Architecture Disentanglement for Deep Neural Networks **#arxiv2020**

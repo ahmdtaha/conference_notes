@@ -28,6 +28,7 @@
 * Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
 * TriResNet: A Deep Triple-stream Residual Network for Histopathology Grading **#iciar2019**
 * Incremental learning in deep convolutional neural networks using partial network sharing **IEEEAccess2019**
+* Language Models are Unsupervised Multitask Learners **open_ai2019** -- `GPT-2`
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
 * Neural baby talk **#cvpr2018**
@@ -154,6 +155,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Reducing Overfitting In Deep Networks By Decorrelating Representations **#iclr2016**
 * Unifying distillation and privileged information **#iclr2016**
 * Adversarially Learned Inference **#arxiv2016** 
+* Gaussian Error Linear Units (GELUs) **#arxiv2016** 
 * Pruning Filters For Efficient Convnets **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
 * Understanding intermediate layers using linear classifier probes **#arxiv2016** 
