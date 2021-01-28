@@ -1,1 +1,2 @@
 * Learning Transferable Visual Models From Natural Language Supervision **#openai2021**
+* LambdaNetworks: Modeling long-range Interactions without Attention **#openreview2021** -- Seems like a good idea, poorly written.
