@@ -12,6 +12,8 @@
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * Imagenet-Trained Cnns Are Biased Towards Texture; Increasing Shape Bias Improves Accuracy And Robustness **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
+* A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms **#arxiv2019**
+	> Heavy reading but it is worth it
 * Efficient and Effective Dropout for Deep Convolutional Neural Networks **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
 * Spreading vectors for similarity search **#iclr2019**
