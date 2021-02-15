@@ -9,6 +9,8 @@
 * Measuring Dataset Granularity **#arxiv2019**
 * Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
+* Semi-supervised Domain Adaptation via Minimax Entropy
+	> Interesting `PI_Reading_Grp`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * Imagenet-Trained Cnns Are Biased Towards Texture; Increasing Shape Bias Improves Accuracy And Robustness **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
