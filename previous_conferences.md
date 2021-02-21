@@ -14,6 +14,7 @@
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * Imagenet-Trained Cnns Are Biased Towards Texture; Increasing Shape Bias Improves Accuracy And Robustness **#iclr2019**
 * Contrastive Multiview Coding **#arxiv2019**
+* Recurrent independent mechanisms **#arxiv2019**
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms **#arxiv2019**
 	> Heavy reading but it is worth it
 * Efficient and Effective Dropout for Deep Convolutional Neural Networks **#arxiv2019**
@@ -66,11 +67,13 @@
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
 * Sanity checks for saliency maps. **#nips2018**
+* Neighbourhood Consensus Networks. **#nips2018**
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
 * Born again neural networks. **#icml2018**
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
+* Stochastic video generation with a learned prior **#pmlr2018** 
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Understanding Deep Convolutional Networks through Gestalt Theory **#ist2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
