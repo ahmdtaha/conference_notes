@@ -73,7 +73,7 @@
 * Born again neural networks. **#icml2018**
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
-* Stochastic video generation with a learned prior **#pmlr2018** 
+* Stochastic video generation with a learned prior **#pmlr2018** -- `PI_Reading_Grp`
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Understanding Deep Convolutional Networks through Gestalt Theory **#ist2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
@@ -81,6 +81,7 @@
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
 * Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer **#arxiv2018**
+* Stochastic Adversarial Video Prediction **#arxiv2018**
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding **#arxiv2018**
 * Large scale distributed neural network training through online distillation **#arxiv2018**
 * Learning Low-Rank Representations **#arxiv2018**
@@ -126,6 +127,7 @@
 * Neural Discrete Representation Learning **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
+* Learning to Generate Long-term Future via Hierarchical Prediction **#icml2017**
 * SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization **#icml2017**
 * Prototypical networks for few-shot learning **#nips2017**
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
