@@ -4,6 +4,7 @@
 * Res2net: A new multi-scale backbone architecture **pami2019**
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
 * Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019**
+* Generating Diverse High-Fidelity Images with VQ-VAE-2 **#arxiv2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
@@ -69,6 +70,7 @@
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
+* Meta-learning for semi-supervised few-shot classification **#iclr2018**
 * Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
 * Born again neural networks. **#icml2018**
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
