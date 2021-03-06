@@ -8,6 +8,7 @@
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
+* Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
 * Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
 * Semi-supervised Domain Adaptation via Minimax Entropy
@@ -96,6 +97,7 @@
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * Focal Loss for Dense Object Detection **#iccv2017**
 * SVDNet for Pedestrian Retrieval **#iccv2017**
+* Revisiting unreasonable effectiveness of data in deep learning era **#iccv2017**
 * Arbitrary style transfer in real-time with adaptive instance normalization. **#iccv2017**
 * Learning efficient convolutional networks through network slimming. **#iccv2017**
 * Deep Metric Learning with Angular Loss **#iccv2017**
@@ -214,4 +216,5 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Semi-supervised learning by entropy minimization **#nips2004** -- A simple and good idea but the notation! 
 * The Dynamic Representation of Scenes **#VisCog2000**
 * Separating Style and Content **#nips1997**
+* Training feedforward neural networks using genetic algorithms **#IJCAI1989**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
