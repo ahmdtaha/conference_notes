@@ -25,6 +25,7 @@
 * Proxylessnas: Direct Neural Architecture Search On Target Task And Hardware **#iclr2019**
 * Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
+* Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Fixing the train-test resolution discrepancy **#nips2019**
 * Adversarial Training for Free **#nips2019**
@@ -64,6 +65,7 @@
 * Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Hierarchy of Alternating Specialist for Scene Recognition **#eccv2018**
+* Exploring the Limits of Weakly Supervised Pretraining **#eccv2018**
 * SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
@@ -189,6 +191,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
 * Efficient object localization using convolutional networks **#cvpr2015** 
 * Spatial Transformer Network **#nips2015**
+* Deep visual analogy-making **#nips2015**
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
 * Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
