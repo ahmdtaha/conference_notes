@@ -222,3 +222,5 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Training feedforward neural networks using genetic algorithms **#IJCAI1989**
 * Simplifying neural networks by soft weight-sharing **#Neural computation 1992** -- I admire Hinton's writing style
 * Distributed Representation Geoffrey Hinton -- heavy reading but worth it **CMU 1984**
+* K-Lines: A Theory of Memory **Cognitive Science 1980**
+	> I like it. Yet, it felt more like a brain teaser than an academic paper.
