@@ -28,6 +28,7 @@
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Fixing the train-test resolution discrepancy **#nips2019**
+* SketchEmbedNet: Learning Novel Concepts by Imitating Drawings **#nips2019**
 * Adversarial Training for Free **#nips2019**
 * One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers **#nips2019**
 * Channel Gating Neural Networks **#nips2019**
