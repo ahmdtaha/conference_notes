@@ -12,6 +12,8 @@
 * Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases **#arxiv2020**
 * Supervised Contrastive Learning **#arxiv2020**
 * Supermasks in superposition **#arxiv2020**
+* Deep Adaptive Semantic Logic (DASL): Compiling Declarative Knowledge into Deep Neural Networks **#arxiv2020**
+	> Interesting topic. Should read more about it.
 * Dynamic Sampling for Deep Metric Learning **#arxiv2020**
 * Watching the World Go By: Representation Learning from Unlabeled Videos **#arxiv2020**
 * State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication **#arxiv2020**
