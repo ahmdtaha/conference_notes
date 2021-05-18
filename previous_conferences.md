@@ -71,6 +71,7 @@
 * SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
+* Compositional Learning for Human Object Interaction **#eccv2018** -- `PI_Reading_Grp`
 * Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
@@ -146,6 +147,7 @@
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
+* You Only Look Once: Unified, Real-Time Object Detection **#cvpr2016**
 * Embedding Label Structures for Fine-Grained Feature Representation **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Factors in finetuning deep model for object detection with long-tail distribution **#cvpr2016**
