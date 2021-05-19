@@ -1,5 +1,6 @@
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
+* Augmenting neural networks with first- order logic **#acl2019**
 * Convolutional networks with adaptive inference graphs **#ijcv2019** -- `Nice paper`
 * Res2net: A new multi-scale backbone architecture **pami2019**
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
