@@ -89,6 +89,7 @@
 * Dataset Distillation -- `BAIR` **#arxiv2018**
 * fastMRI: An Open Dataset and Benchmarks for Accelerated MRI -- `NYU` **#arxiv2018**
 * Learning a Variational Network for Reconstruction of Accelerated MRI Data -- `NYU` **Magnetic Resonance In Medicine**
+* Towards End-to-End Lane Detection: an Instance Segmentation Approach **IEEE intelligent vehicles symposium 2018**
 * SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
 * The Singular Values of Convolutional Layers **#arxiv2018**
 * Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer **#arxiv2018**
