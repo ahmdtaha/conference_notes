@@ -120,6 +120,7 @@
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
+* YOLO9000: Better, Faster, Stronger **cvpr2017**
 * spatially adaptive computation time for residual networks **cvpr2017**
 * No fuss distance metric learning using proxies **cvpr2017**
 * iCaRL: Incremental classifier and representation learning **cvpr2017**
@@ -213,6 +214,8 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 	> very primitive but interesting
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * Deep convolutional network cascade for facial point detection **#cvpr2013**
+* Write a Classifier: Zero-Shot Learning Using Purely Textual Description **#iccv2013**
+	> Heavy numerical optimization
 * Fast dropout training **#icml2013**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
