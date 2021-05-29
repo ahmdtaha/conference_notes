@@ -47,6 +47,7 @@
 * Hydranets: Specialized dynamic architectures for efficient inference **#cvpr2018**
 * NISP: Pruning Networks Using Neuron Importance Score Propagation **#cvpr2018**
 * Interpret neural networks by identifying critical data routing paths **#cvpr2018**
+* A Style-Based Generator Architecture for Generative Adversarial Networks **#cvpr2018**
 * Improvements to context based self-supervised learning **#cvpr2018**
 * Large-scale distance metric learning with uncertainty **#cvpr2018**
 * “Zero-Shot” Super-Resolution using Deep Internal Learning **#cvpr2018**
