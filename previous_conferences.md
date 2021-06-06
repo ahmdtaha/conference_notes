@@ -153,6 +153,7 @@
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
+* Convolutional Pose Machines **#cvpr2016**
 * You Only Look Once: Unified, Real-Time Object Detection **#cvpr2016**
 * Embedding Label Structures for Fine-Grained Feature Representation **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
@@ -214,6 +215,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Multi-path Convolutional Neural Networks for Complex Image Classification **#arxiv2015**
 	> very primitive but interesting
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
+* DeepPose: Human Pose Estimation via Deep Neural Networks **#cvpr2014**
 * Deep convolutional network cascade for facial point detection **#cvpr2013**
 * Write a Classifier: Zero-Shot Learning Using Purely Textual Description **#iccv2013**
 	> Heavy numerical optimization
