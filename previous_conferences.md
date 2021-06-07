@@ -146,6 +146,7 @@
 * Learning to Generate Long-term Future via Hierarchical Prediction **#icml2017**
 * SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization **#icml2017**
 * Prototypical networks for few-shot learning **#nips2017**
+* Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results **#nips2017**
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
