@@ -121,6 +121,7 @@
 * Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
+* Feature Pyramid Networks for Object Detection **cvpr2017**
 * YOLO9000: Better, Faster, Stronger **cvpr2017**
 * spatially adaptive computation time for residual networks **cvpr2017**
 * No fuss distance metric learning using proxies **cvpr2017**
