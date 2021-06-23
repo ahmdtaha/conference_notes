@@ -175,6 +175,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Residual Networks Behave Like Ensembles of Relatively Shallow Networks **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
+* Dynamic Filter Networks **#nips2016** 
 * Universal Correspondence Network **#nips2016** 
 * Learning Deep Parsimonious Representations **#nips2016** 
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets **#nips2016** 
