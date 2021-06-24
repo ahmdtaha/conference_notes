@@ -9,6 +9,7 @@
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
+* Objects as Points **#arxiv2019**
 * Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
 * Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
