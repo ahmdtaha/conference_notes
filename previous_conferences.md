@@ -70,6 +70,7 @@
 * Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Hierarchy of Alternating Specialist for Scene Recognition **#eccv2018**
+* CBAM: Convolutional Block Attention Module **#eccv2018**
 * Exploring the Limits of Weakly Supervised Pretraining **#eccv2018**
 * SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
 * Deep metric learning with hierarchical triplet loss **#eccv2018**
