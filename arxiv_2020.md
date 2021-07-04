@@ -4,6 +4,7 @@
 * Training data-efficient image transformers & distillation through attention -- `PI_Reading_Grp` :hash:industry :hash:FB **#arxiv2020**
 	> Technicalities
 * An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale -- `PI_Reading_Grp` **#arxiv2020**
+* Localization Uncertainty Estimation for Anchor-Free Object Detection -- `Gaussian FCOS` **#arxiv2020**
 * Are we done with ImageNet? **#arxiv2020**
 * Learned Initializations for Optimizing Coordinate-Based Neural Representations **#arxiv2020**
 * Splitting Convolutional Neural Network Structures for Efficient Inference **#arxiv2020**
