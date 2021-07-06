@@ -143,6 +143,7 @@
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
+* High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks -- `WR-AI` **#arxiv2017**
 * Large Batch Training of Convolutional Networks **#arxiv2017**
 * Neural Discrete Representation Learning **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
