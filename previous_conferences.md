@@ -190,7 +190,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Reducing Overfitting In Deep Networks By Decorrelating Representations **#iclr2016**
 * Unifying distillation and privileged information **#iclr2016**
 * Adversarially Learned Inference **#arxiv2016** 
-* ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation **#arxiv2016** 
+* ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation **#arxiv2016** `Arch_Design`
 * Gaussian Error Linear Units (GELUs) **#arxiv2016** 
 * Pruning Filters For Efficient Convnets **#arxiv2016** 
 * Understanding deep learning requires rethinking generalization **#arxiv2016**
