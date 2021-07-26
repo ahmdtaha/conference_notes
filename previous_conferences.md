@@ -28,6 +28,7 @@
 * Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Fixing the train-test resolution discrepancy **#nips2019**
 * MixMatch: A Holistic Approach to Semi-Supervised Learning **#nips2019**
