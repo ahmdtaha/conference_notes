@@ -178,6 +178,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Wide Residual Networks **#bmvc2016**
 * Adaptive convolutional neural network and its application in face recognition **NeuralProcessingLetters2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
+* Understanding the Effective Receptive Field in Deep Convolutional Neural Networks **#nips2016**  -- Nice
 * Residual Networks Behave Like Ensembles of Relatively Shallow Networks **#nips2016** 
 * Improved techniques for training GANs **#nips2016** 
 * Dynamic Filter Networks **#nips2016** 
