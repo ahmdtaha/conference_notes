@@ -41,6 +41,7 @@
 * Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
 * TriResNet: A Deep Triple-stream Residual Network for Histopathology Grading **#iciar2019**
 * Incremental learning in deep convolutional neural networks using partial network sharing **IEEEAccess2019**
+* The NYU Breast Cancer Screening Dataset v1.0 `NYU` **#2019**
 * Language Models are Unsupervised Multitask Learners **open_ai2019** -- `GPT-2`
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
