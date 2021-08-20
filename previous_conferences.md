@@ -42,6 +42,8 @@
 * TriResNet: A Deep Triple-stream Residual Network for Histopathology Grading **#iciar2019**
 * Incremental learning in deep convolutional neural networks using partial network sharing **IEEEAccess2019**
 * The NYU Breast Cancer Screening Dataset v1.0 `NYU` **#2019**
+* Screening Mammogram Classification with Prior Exams `NYU` **#midl2019**
+* Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening `NYU` **#IEEE Medical Imaging 2019**
 * Language Models are Unsupervised Multitask Learners **open_ai2019** -- `GPT-2`
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
@@ -72,6 +74,7 @@
 * Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
 * ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
 * Hierarchy of Alternating Specialist for Scene Recognition **#eccv2018**
+* Bisenet: Bilateral Segmentation Network For Real-Time Semantic Segmentation **#eccv2018**
 * CBAM: Convolutional Block Attention Module **#eccv2018**
 * Exploring the Limits of Weakly Supervised Pretraining **#eccv2018**
 * SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
