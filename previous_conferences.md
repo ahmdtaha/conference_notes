@@ -32,6 +32,8 @@
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
 * Fixing the train-test resolution discrepancy **#nips2019**
 * MixMatch: A Holistic Approach to Semi-Supervised Learning **#nips2019**
+* Consistency-based Semi-supervised Learning for Object Detection **#nips2019**
+	> Nice paper
 * SketchEmbedNet: Learning Novel Concepts by Imitating Drawings **#nips2019**
 * Adversarial Training for Free **#nips2019**
 * One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers **#nips2019**
