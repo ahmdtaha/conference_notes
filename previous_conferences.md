@@ -171,6 +171,7 @@
 * You Only Look Once: Unified, Real-Time Object Detection **#cvpr2016**
 * Embedding Label Structures for Fine-Grained Feature Representation **#cvpr2016**
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
+* Large Scale Semi-supervised Object Detection using Visual and Semantic Knowledge Transfer **#cvpr2016**
 * Factors in finetuning deep model for object detection with long-tail distribution **#cvpr2016**
 * Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
@@ -232,6 +233,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 	> very primitive but interesting
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * DeepPose: Human Pose Estimation via Deep Neural Networks **#cvpr2014**
+* LSDA: Large Scale Detection Through Adaptation **#nips2014**
 * Deep convolutional network cascade for facial point detection **#cvpr2013**
 * Write a Classifier: Zero-Shot Learning Using Purely Textual Description **#iccv2013**
 	> Heavy numerical optimization
