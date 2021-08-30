@@ -241,6 +241,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Measuring the objectness of image windows **#pami2012**
+* INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
 * Unbiased Look at Dataset Bias **#cvpr2011**
 * The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**

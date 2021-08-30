@@ -6,3 +6,4 @@
 * Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision **#arXiv2021** -- `PI_arXiv_Grp` Technicalities
 * MLP-Mixer: An all-MLP Architecture for Vision **#arXiv2021** `Arch_Design`
 * FNet: Mixing Tokens with Fourier Transforms **#arXiv2021** `Arch_Design`
+* Learning Open-World Object Proposals without Learning to Classify **#arXiv2021** `Detection`
