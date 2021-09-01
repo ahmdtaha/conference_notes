@@ -223,6 +223,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Spatial Transformer Network **#nips2015**
 * Deep visual analogy-making **#nips2015**
 * Wide-area image geolocalization with aerial reference imagery **#iccv2015**
+* Fast R-CNN **#iccv2015**
 * Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
@@ -233,6 +234,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 	> very primitive but interesting
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * DeepPose: Human Pose Estimation via Deep Neural Networks **#cvpr2014**
+* Rich Feature Hierarchies For Accurate Object Detection And Semantic Segmentation **#cvpr2014** `R-CNN`
 * LSDA: Large Scale Detection Through Adaptation **#nips2014**
 * Deep convolutional network cascade for facial point detection **#cvpr2013**
 * Write a Classifier: Zero-Shot Learning Using Purely Textual Description **#iccv2013**
