@@ -216,6 +216,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Particular object retrieval with integral max-pooling of cnn activations **#iclr2016**
 * Bayesian representation learning with oracle constraints. **#iclr2016**
 * The Sketchy Database: Learning to Retrieve Badly Drawn Bunnies -- **#acm2016**
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks **#tpami2016** -- `Anchors` and `RPN` origins
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
