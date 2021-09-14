@@ -30,6 +30,8 @@
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
+* Transfusion: Understanding Transfer Learning for Medical Imaging **#nips2019**
+	> Nice paper
 * Fixing the train-test resolution discrepancy **#nips2019**
 * MixMatch: A Holistic Approach to Semi-Supervised Learning **#nips2019**
 * Consistency-based Semi-supervised Learning for Object Detection **#nips2019**
