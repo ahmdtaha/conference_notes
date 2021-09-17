@@ -115,6 +115,7 @@
 * Deep Paper Gestalt **#arxiv2018**
 * Top-down neural attention by excitation backprop **#ijcv2018**
 * MonolithNet: Training monolithic deep neural networks via a partitioned training strategy **#jcvis2018**
+* Detecting and classifying lesions in mammograms with Deep Learning **#nature2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * From Red Wine to Red Tomato: Composition with Context **#cvpr2017**
 * Focal Loss for Dense Object Detection **#iccv2017**
