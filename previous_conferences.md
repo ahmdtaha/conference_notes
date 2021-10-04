@@ -33,6 +33,7 @@
 * Transfusion: Understanding Transfer Learning for Medical Imaging **#nips2019**
 	> Nice paper
 * Fixing the train-test resolution discrepancy **#nips2019**
+* Stand-Alone Self-Attention in Vision Models **#nips2019**
 * MixMatch: A Holistic Approach to Semi-Supervised Learning **#nips2019**
 * Consistency-based Semi-supervised Learning for Object Detection **#nips2019**
 	> Nice paper

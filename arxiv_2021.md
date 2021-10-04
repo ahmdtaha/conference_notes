@@ -7,4 +7,6 @@
 * MLP-Mixer: An all-MLP Architecture for Vision **#arXiv2021** `Arch_Design`
 * FNet: Mixing Tokens with Fourier Transforms **#arXiv2021** `Arch_Design`
 * Learning Open-World Object Proposals without Learning to Classify **#arXiv2021** `Detection`
-* nnFormer: Interleaved Transformer for Volumetric Segmentation **#arXiv2021** `Transformers`
+* nnFormer: Interleaved Transformer for Volumetric Segmentation **#arXiv2021** `Detection`
+* Early Convolutions Help Transformers See Better **#arXiv2021** `Transformer`
+* Efficient Training of Visual Transformers with Small-Size Datasets **#arXiv2021** `Transformer`
