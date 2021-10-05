@@ -10,3 +10,5 @@
 * nnFormer: Interleaved Transformer for Volumetric Segmentation **#arXiv2021** `Detection`
 * Early Convolutions Help Transformers See Better **#arXiv2021** `Transformer`
 * Efficient Training of Visual Transformers with Small-Size Datasets **#arXiv2021** `Transformer`
+* VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning **#arXiv2021** `SSL`
+* Swin transformer: Hierarchical vision transformer using shifted windows **#arXiv2021** `Transformer`
