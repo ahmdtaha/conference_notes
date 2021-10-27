@@ -233,6 +233,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
 * Fitnets: Hints for thin deep nets **#iclr2015**
+* NICE: Non-Linear Independent Components Estimation **#iclr2015**
 * Understanding Locally Competitive Networks **#iclr2015**
 * Highway networks  **#arxiv2015**
 * Multi-path Convolutional Neural Networks for Complex Image Classification **#arxiv2015**
