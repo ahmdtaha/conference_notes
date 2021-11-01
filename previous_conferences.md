@@ -7,6 +7,7 @@
 * Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019**
 * Generating Diverse High-Fidelity Images with VQ-VAE-2 **#arxiv2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
+* Faster Neural Network Training with Data Echoing **#arxiv2019** -- `Nice paper`
 * Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
 * Objects as Points **#arxiv2019**
@@ -144,6 +145,7 @@
 * Dynamic Routing Between Capsules **#nips2017**
 * Dual Discriminator Generative Adversarial Nets **#nips2017**
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **#nips2017**
+* The Reversible Residual Network: Backpropagation Without Storing Activations **#nips2017**
 * Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **#nips2017**
 * Learning Spread-out Local Feature Descriptors **#iccv2017**
 * Thinet: A filter level pruning method for deep neural network compression. **#iccv2017**
