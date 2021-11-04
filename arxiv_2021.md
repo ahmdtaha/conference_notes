@@ -13,3 +13,4 @@
 * VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning **#arXiv2021** `SSL`
 * Swin transformer: Hierarchical vision transformer using shifted windows **#arXiv2021** `Transformer`
 * ResNet strikes back: An improved training procedure in timm **#arXiv2021** 
+* Do Self-Supervised and Supervised Methods Learn Similar Visual Representations? **#arXiv2021** 
