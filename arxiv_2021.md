@@ -14,3 +14,5 @@
 * Swin transformer: Hierarchical vision transformer using shifted windows **#arXiv2021** `Transformer`
 * ResNet strikes back: An improved training procedure in timm **#arXiv2021** 
 * Do Self-Supervised and Supervised Methods Learn Similar Visual Representations? **#arXiv2021** 
+* Masked Autoencoders Are Scalable Vision Learners **#arXiv2021** `FAIR`
+	> Technicalities 
