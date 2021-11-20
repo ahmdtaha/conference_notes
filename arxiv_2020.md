@@ -26,6 +26,4 @@
 * Sparse Transfer Learning via Winning Lottery Tickets **#arxiv2019**
 * INTRIGUING PROPERTIES OF LEARNED REPRESENTATIONS **openreview2019-ICLR**
 * Unsupervised Representation Learning by Predicting Image Rotations **arxiv2018**
-
-
-
+* Self-EMD: Self-Supervised Object Detection without ImageNet **#arxiv2020**
