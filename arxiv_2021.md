@@ -9,6 +9,7 @@
 * Learning Open-World Object Proposals without Learning to Classify **#arXiv2021** `Detection`
 * nnFormer: Interleaved Transformer for Volumetric Segmentation **#arXiv2021** `Detection`
 * Early Convolutions Help Transformers See Better **#arXiv2021** `Transformer`
+* Escaping the Big Data Paradigm with Compact Transformers **#arXiv2021** `Transformer`
 * Efficient Training of Visual Transformers with Small-Size Datasets **#arXiv2021** `Transformer`
 * VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning **#arXiv2021** `SSL`
 * Swin transformer: Hierarchical vision transformer using shifted windows **#arXiv2021** `Transformer`
@@ -16,3 +17,4 @@
 * Do Self-Supervised and Supervised Methods Learn Similar Visual Representations? **#arXiv2021** 
 * Masked Autoencoders Are Scalable Vision Learners **#arXiv2021** `FAIR`
 	> Technicalities 
+* Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers `Google/DeepMind`
