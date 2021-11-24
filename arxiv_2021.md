@@ -18,3 +18,4 @@
 * Masked Autoencoders Are Scalable Vision Learners **#arXiv2021** `FAIR`
 	> Technicalities 
 * Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers `Google/DeepMind`
+* ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases `FAIR` `Transformer`
