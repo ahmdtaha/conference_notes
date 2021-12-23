@@ -89,6 +89,7 @@
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Compositional Learning for Human Object Interaction **#eccv2018** -- `PI_Reading_Grp`
 * Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
+* Self-Attention with Relative Position Representations **#naacl2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
