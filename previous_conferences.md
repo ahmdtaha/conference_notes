@@ -18,6 +18,8 @@
 	> Interesting `PI_Reading_Grp`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * Imagenet-Trained Cnns Are Biased Towards Texture; Increasing Shape Bias Improves Accuracy And Robustness **#iclr2019**
+* Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff `AAAI2019` 
+	> Well motivated paper!
 * Contrastive Multiview Coding **#arxiv2019**
 * Recurrent independent mechanisms **#arxiv2019**
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms **#arxiv2019**
