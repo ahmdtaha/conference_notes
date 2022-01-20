@@ -94,6 +94,7 @@
 * Self-Attention with Relative Position Representations **#naacl2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
+* Visualizing the Loss Landscape of Neural Nets **#nips2018** `Nice` `UMD`
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Meta-learning for semi-supervised few-shot classification **#iclr2018**
 * Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
