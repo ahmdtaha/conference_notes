@@ -18,6 +18,8 @@
 	> Interesting `PI_Reading_Grp`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
 * Imagenet-Trained Cnns Are Biased Towards Texture; Increasing Shape Bias Improves Accuracy And Robustness **#iclr2019**
+* Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff `AAAI2019` 
+	> Well motivated paper!
 * Contrastive Multiview Coding **#arxiv2019**
 * Recurrent independent mechanisms **#arxiv2019**
 * A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms **#arxiv2019**
@@ -67,6 +69,7 @@
 * Squeeze-and-Excitation Networks **#cvpr2018**
 * Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
 * Between-class learning for image classification **#cvpr2018**
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks **#cvpr2018**
 * Boosting Self-Supervised Learning via Knowledge Transfer **#cvpr2018**
 * Separating Style and Content for Generalized Style Transfer **#cvpr2018**
 * Local descriptors optimized for average precision **#cvpr2018**
@@ -88,8 +91,10 @@
 * Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
 * Compositional Learning for Human Object Interaction **#eccv2018** -- `PI_Reading_Grp`
 * Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
+* Self-Attention with Relative Position Representations **#naacl2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
+* Visualizing the Loss Landscape of Neural Nets **#nips2018** `Nice` `UMD`
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Meta-learning for semi-supervised few-shot classification **#iclr2018**
 * Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
@@ -235,7 +240,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
 * Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
 * Fitnets: Hints for thin deep nets **#iclr2015**
+* Flattened convolutional neural networks for feedforward acceleration **#iclr2015** `Workshop`
 * NICE: Non-Linear Independent Components Estimation **#iclr2015**
+* Training Deep Neural Networks on Noisy Labels with Bootstrapping **#iclr2015** `Workshop`
 * Understanding Locally Competitive Networks **#iclr2015**
 * Highway networks  **#arxiv2015**
 * Multi-path Convolutional Neural Networks for Complex Image Classification **#arxiv2015**
