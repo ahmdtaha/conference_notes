@@ -188,6 +188,7 @@
 * Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
 * Colorful Image Colorization **#eccv2016**
 * Learning without Forgetting **#eccv2016**
+* Identity Mappings in Deep Residual Networks **#eccv2016**
 * Less Is More: Towards Compact CNNs **#eccv2016**
 * Ask Me Anything:
 Dynamic Memory Networks for Natural Language Processing **#icml2016**
