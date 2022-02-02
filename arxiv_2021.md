@@ -20,3 +20,4 @@
 * Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers `Google/DeepMind`
 * ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases `FAIR` `Transformer`
 * Open-Set Recognition: A Good Closed-Set Classifier is All You Need
+* Extrapolating from a Single Image to a Thousand Classes using Distillation
