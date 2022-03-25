@@ -23,3 +23,4 @@
 * Open-Set Recognition: A Good Closed-Set Classifier is All You Need
 * Extrapolating from a Single Image to a Thousand Classes using Distillation
 * Are Large-scale Datasets Necessary for Self-Supervised Pre-training? `META` `arXiv`
+* Conditional Positional Encodings for Vision Transformers `arXiv` `Transformer` `Tricky`
