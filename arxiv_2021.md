@@ -24,3 +24,4 @@
 * Extrapolating from a Single Image to a Thousand Classes using Distillation
 * Are Large-scale Datasets Necessary for Self-Supervised Pre-training? `META` `arXiv`
 * MPViT : Multi-Path Vision Transformer for Dense Prediction `arXiv` `Transformer`
+* Conditional Positional Encodings for Vision Transformers `arXiv` `Transformer` `Tricky`
