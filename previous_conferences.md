@@ -99,6 +99,7 @@
 * Meta-learning for semi-supervised few-shot classification **#iclr2018**
 * Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
 * Born again neural networks. **#icml2018**
+* Similarity of Neural Network Representations Revisited **#icml2018**
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
 * Stochastic video generation with a learned prior **#pmlr2018** -- `PI_Reading_Grp`
