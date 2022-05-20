@@ -29,4 +29,5 @@
 * Unsupervised Representation Learning by Predicting Image Rotations **arxiv2018**
 * Self-EMD: Self-Supervised Object Detection without ImageNet **#arxiv2020**
 * MammoGANesis: Controlled Generation of High-Resolution Mammograms for Radiology Education `arXiv` `mammogram` `Medical`
+* Contrastive Learning of Medical Visual Representations from Paired Images and Text `Medical`
 * TResNet: High Performance GPU-Dedicated Architecture `Technicalities`
