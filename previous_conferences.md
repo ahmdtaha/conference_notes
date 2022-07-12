@@ -125,6 +125,7 @@
 * MonolithNet: Training monolithic deep neural networks via a partitioned training strategy **#jcvis2018**
 * Detecting and classifying lesions in mammograms with Deep Learning **#nature2018**
 * DeepLesion: Automated Deep Mining, Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations **#nlm2018**
+* GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification **Neurocomputing** **2018**
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases **#cvpr2017**
 * From Red Wine to Red Tomato: Composition with Context **#cvpr2017**
