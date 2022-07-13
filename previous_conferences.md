@@ -167,6 +167,7 @@
 * TRACE NORM REGULARIZATION AND FASTER INFER-ENCE FOR EMBEDDED SPEECH RECOGNITION RNNS **#arxiv2017**
 * SmoothGrad: removing noise by adding noise **#arxiv2017**
 * EmotioNet Challenge: Recognition of facial expressions of emotion in the wild **#arxiv2017**
+	> Motivation?
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour **#arxiv2017**
 * High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks -- `WR-AI` **#arxiv2017**
 * Large Batch Training of Convolutional Networks **#arxiv2017**
