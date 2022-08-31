@@ -151,6 +151,7 @@
 * iCaRL: Incremental classifier and representation learning **cvpr2017**
 * Deep Mutual Learning **#nips2017**
 * Runtime neural pruning **#nips2017**
+* Train longer, generalize better: closing the generalization gap in large batch training of neural networks **#nips2017**
 * Dynamic Routing Between Capsules **#nips2017**
 * Dual Discriminator Generative Adversarial Nets **#nips2017**
 * VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **#nips2017**
