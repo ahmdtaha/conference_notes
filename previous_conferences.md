@@ -106,6 +106,7 @@
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Understanding Deep Convolutional Networks through Gestalt Theory **#ist2018**
 * Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation **#corl2018**
+* Semantic Segmentation from Limited Training Data **#icra2018**
 * Representation Learning with Contrastive Predictive Coding **#arxiv2018**
 * Dataset Distillation -- `BAIR` **#arxiv2018**
 * fastMRI: An Open Dataset and Benchmarks for Accelerated MRI -- `NYU` **#arxiv2018**
