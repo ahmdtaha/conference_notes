@@ -173,7 +173,8 @@
 	> Motivation?
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour **#arxiv2017**
 * High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks -- `WR-AI` **#arxiv2017**
-* Large Batch Training of Convolutional Networks **#arxiv2017**
+* Large Batch Training of Convolutional Networks **#arxiv2017** `Nvidia`
+	> Nice and simple
 * Neural Discrete Representation Learning **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
