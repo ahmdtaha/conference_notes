@@ -270,6 +270,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Fast dropout training **#icml2013**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
+* AVA: A Large-Scale Database for Aesthetic Visual Analysis **#cvpr2012**
 * Measuring the objectness of image windows **#pami2012**
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
 * Unbiased Look at Dataset Bias **#cvpr2011**
