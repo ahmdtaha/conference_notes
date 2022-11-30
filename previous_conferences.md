@@ -164,6 +164,7 @@
 * Thinet: A filter level pruning method for deep neural network compression. **#iccv2017**
 * Channel pruning for accelerating very deep neural networks. **#iccv2017**
 * Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks. **#iccv2017**
+* Drone-based Object Counting by Spatially Regularized Regional Proposal Networks **#iccv2017**
 * Learning Efficient Convolutional Networks through Network Slimming **#iccv2017**
 * Demystifying Neural Style Transfer **#ijcai2017**
 * Working hard to know your neighbor’s margins: Local descriptor learning loss  -- Triplet Lifted Structure loss **nips2017**
