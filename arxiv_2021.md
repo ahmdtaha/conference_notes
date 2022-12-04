@@ -15,8 +15,6 @@
 * Swin transformer: Hierarchical vision transformer using shifted windows **#arXiv2021** `Transformer`
 * ResNet strikes back: An improved training procedure in timm **#arXiv2021** 
 * Do Self-Supervised and Supervised Methods Learn Similar Visual Representations? **#arXiv2021** 
-* Masked Autoencoders Are Scalable Vision Learners **#arXiv2021** `FAIR`
-	> Technicalities 
 * Self-supervised pretraining of visual features in the wild `FAIR`
 * Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers `Google/DeepMind`
 * ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases `FAIR` `Transformer`
