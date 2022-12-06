@@ -3,7 +3,6 @@
 * Meta Pseudo Labels **#arxiv2020**
 * Training data-efficient image transformers & distillation through attention -- `PI_Reading_Grp` :hash:industry :hash:FB **#arxiv2020**
 	> Technicalities
-* An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale -- `PI_Reading_Grp` **#arxiv2020**
 * A Simple Semi-Supervised Learning Framework for Object Detection **#arxiv2020** :hash:industry :hash:Google Brain
 * Localization Uncertainty Estimation for Anchor-Free Object Detection -- `Gaussian FCOS` **#arxiv2020**
 * Are we done with ImageNet? **#arxiv2020**
