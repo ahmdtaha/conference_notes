@@ -26,3 +26,5 @@
 * Masked Feature Prediction for Self-Supervised Visual Pre-Training `Video` `SSL` `Meta`
 * DeepViT: Towards Deeper Vision Transformer `ViT`
 	> Nice analysis
+* SCD: A Stacked Carton Dataset for Detection and Segmentation
+	> 16,136 (8401 online + 7735 collected) with 250,000 instance masks (semantic segmentation).
