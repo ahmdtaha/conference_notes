@@ -30,3 +30,5 @@
 * MammoGANesis: Controlled Generation of High-Resolution Mammograms for Radiology Education `arXiv` `mammogram` `Medical`
 * Contrastive Learning of Medical Visual Representations from Paired Images and Text `Medical`
 * TResNet: High Performance GPU-Dedicated Architecture `Technicalities`
+* RP2K: A Large-Scale Retail Product Dataset for Fine-Grained Image Classification 
+	> 14,368 high-resolution shelf images, on average, 37.1 objects per image, resulting in 533,633 images of individual objects. Each individual object image represents a product from in total of 2000 SKUs
