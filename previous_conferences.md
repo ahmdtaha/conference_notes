@@ -8,7 +8,6 @@
 * Generating Diverse High-Fidelity Images with VQ-VAE-2 **#arxiv2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Faster Neural Network Training with Data Echoing **#arxiv2019** -- `Nice paper`
-* Momentum Contrast for Unsupervised Visual Representation Learning **#arxiv2019**
 * Measuring Dataset Granularity **#arxiv2019**
 * Objects as Points **#arxiv2019**
 * Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
