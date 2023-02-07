@@ -51,6 +51,7 @@
 * The NYU Breast Cancer Screening Dataset v1.0 `NYU` **#2019**
 * Screening Mammogram Classification with Prior Exams `NYU` **#midl2019**
 * Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening `NYU` **#IEEE Medical Imaging 2019**
+* Improving Language Understanding by Generative Pre-Training **2018** -- `GPT-1` `OpenAI`
 * Language Models are Unsupervised Multitask Learners **2019** -- `GPT-2` `OpenAI`
 * Deep Image Prior **#bayes #cvpr2018**
 * CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
