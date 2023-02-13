@@ -21,6 +21,7 @@
 * Open-Set Recognition: A Good Closed-Set Classifier is All You Need
 * Extrapolating from a Single Image to a Thousand Classes using Distillation
 * Are Large-scale Datasets Necessary for Self-Supervised Pre-training? `META` `arXiv`
+* Zero-Shot Text-to-Image Generation `arXiv` `dall-e` `OpenAI` `dVAE` `Transformers`
 * MPViT : Multi-Path Vision Transformer for Dense Prediction `arXiv` `Transformer`
 * Conditional Positional Encodings for Vision Transformers `arXiv` `Transformer` `Tricky`
 * Masked Feature Prediction for Self-Supervised Visual Pre-Training `Video` `SSL` `Meta`
