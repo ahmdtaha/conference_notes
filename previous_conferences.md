@@ -11,6 +11,7 @@
 * Faster Neural Network Training with Data Echoing **#arxiv2019** -- `Nice paper`
 * Measuring Dataset Granularity **#arxiv2019**
 * Objects as Points **#arxiv2019**
+* On Empirical Comparisons of Optimizers for Deep Learning `Nice` `Google Brain` **#arxiv2019**
 * Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
 * Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
