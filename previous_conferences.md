@@ -3,6 +3,7 @@
 * Augmenting neural networks with first- order logic **#acl2019**
 * Convolutional networks with adaptive inference graphs **#ijcv2019** -- `Nice paper`
 * Res2net: A new multi-scale backbone architecture **pami2019**
+* Measuring the Effects of Data Parallelism on Neural Network Training **jmlr2019** `Nice` `Analysis` `Google`
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
 * Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019**
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach `Optimized` `BERT` `Meta` **#arxiv2019**
