@@ -28,3 +28,5 @@
 	> Nice analysis
 * SCD: A Stacked Carton Dataset for Detection and Segmentation
 	> 16,136 (8401 online + 7735 collected) with 250,000 instance masks (semantic segmentation).
+* Deep learning through the lens of example difficulty `Google` `Nice`
+	> the prediction depth
