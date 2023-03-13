@@ -183,6 +183,8 @@
 * Neural Discrete Representation Learning **#arxiv2017**
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications **#arxiv2017**
 * Unsupervised learning by predicting noise. **#icml2017**
+* A Closer Look at Memorization in Deep Networks **#icml2017** `Mila`
+	> Nice analysis
 * Learning to Generate Long-term Future via Hierarchical Prediction **#icml2017**
 * SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization **#icml2017**
 * Prototypical networks for few-shot learning **#nips2017**
