@@ -216,6 +216,8 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
 * Dynamic Capacity Network **#icml2016**
 * Wide Residual Networks **#bmvc2016**
+* Context Matters: Refining Object Detection in Video with Recurrent Neural Networks **#bmvc2016**
+	> Feeding B BBox (and their features) to GRU
 * Adaptive convolutional neural network and its application in face recognition **NeuralProcessingLetters2016**
 * Improved Deep Metric Learning withMulti-class N-pair Loss Objective **#nips2016** 
 * Understanding the Effective Receptive Field in Deep Convolutional Neural Networks **#nips2016**  -- Nice
