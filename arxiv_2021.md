@@ -30,3 +30,5 @@
 	> 16,136 (8401 online + 7735 collected) with 250,000 instance masks (semantic segmentation).
 * Deep learning through the lens of example difficulty `Google` `Nice`
 	> the prediction depth
+* An Attention Free Transformer `Apple`
+	> I am not sure if this scales beyond tiny models/inputs.
