@@ -32,3 +32,5 @@
 	> the prediction depth
 * An Attention Free Transformer `Apple`
 	> I am not sure if this scales beyond tiny models/inputs.
+* SA-GD: Improved Gradient Descent Learning Strategy with Simulated Annealing 
+	> Apply gradient ascent stochastically at later stage of training to escape local minima/saddle points.
