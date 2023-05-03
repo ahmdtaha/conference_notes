@@ -6,5 +6,7 @@
 * Axial attention in multidimensional transformers **#arxiv2019**
 * A novel task for fine-grained image understanding **#arxiv2019**
 * A Full-Image Full-Resolution End-to-End-Trainable CNN Framework for Image Forgery Detection **#arxiv2019**
+* Multigrain: a unified image embedding for classes and instances `Retrieval` `FAIR`
+	> PCA whitening + Generalized mean pooling (GeM)
 * Are All Layers Created Equal? **#arxiv2019**
 	> This is why I like Samy Bengio
