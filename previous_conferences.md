@@ -97,6 +97,8 @@
 * Self-Attention with Relative Position Representations **#naacl2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
+* Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels **#nips2018**
+	> 	Assumes a noisy dataset; propose a loss function that assigns low weights to noisy (hard) samples and high weights to correct (easy) samples.
 * Visualizing the Loss Landscape of Neural Nets **#nips2018** `Nice` `UMD`
 * Mixup: Beyond Empirical Risk Minimization **#iclr2018**
 * Meta-learning for semi-supervised few-shot classification **#iclr2018**
