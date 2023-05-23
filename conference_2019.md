@@ -8,5 +8,7 @@
 * A Full-Image Full-Resolution End-to-End-Trainable CNN Framework for Image Forgery Detection **#arxiv2019**
 * Multigrain: a unified image embedding for classes and instances `Retrieval` `FAIR`
 	> PCA whitening + Generalized mean pooling (GeM)
-* Are All Layers Created Equal? **#arxiv2019**
+* Are All Layers Created Equal? `arXiv`
 	> This is why I like Samy Bengio
+* Fine-tuning CNN image retrieval with no human annotation `PAMI` `Microsoft`
+	> SFM (postive and negative pairs) => Pretrained CNN => Generalized Pooling => Post-processing Whitening => \alpha-Query Expansion (??)
