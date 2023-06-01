@@ -294,6 +294,7 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
 * Measuring Invariances in Deep Networks **#nips2009**
 * Weighted sums of random kitchen sinks: Replacing minimization with randomization in learning **#nips2008**
+* Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval `ICCV2007`
 * Greedy Layer-Wise Training of Deep Networks **#nips2006**
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Semi-supervised learning by entropy minimization **#nips2004** -- A simple and good idea but the notation! 
