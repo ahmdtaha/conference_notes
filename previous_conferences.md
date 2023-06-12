@@ -5,7 +5,7 @@
 * Res2net: A new multi-scale backbone architecture **pami2019**
 * Measuring the Effects of Data Parallelism on Neural Network Training **jmlr2019** `Nice` `Analysis` `Google`
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
-* Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019**
+* Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019** `WS` `BCN`
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach `Optimized` `BERT` `Meta` **#arxiv2019**
 * Generating Diverse High-Fidelity Images with VQ-VAE-2 **#arxiv2019**
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
