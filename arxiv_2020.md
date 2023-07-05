@@ -32,3 +32,5 @@
 * TResNet: High Performance GPU-Dedicated Architecture `Technicalities`
 * RP2K: A Large-Scale Retail Product Dataset for Fine-Grained Image Classification 
 	> 14,368 high-resolution shelf images, on average, 37.1 objects per image, resulting in 533,633 images of individual objects. Each individual object image represents a product from in total of 2000 SKUs
+* Toward transformer-based object detection `Pinterest`
+	> Leverage Residual-blocks on top of ViT-features to enable Object detection with ViT-backbone.
