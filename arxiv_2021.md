@@ -34,3 +34,5 @@
 	> I am not sure if this scales beyond tiny models/inputs.
 * SA-GD: Improved Gradient Descent Learning Strategy with Simulated Annealing 
 	> Apply gradient ascent stochastically at later stage of training to escape local minima/saddle points.
+* Benchmarking detection transfer learning with vision transformers `Meta`
+	> MAE and BEiT pre-training benefit detection.
