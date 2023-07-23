@@ -13,3 +13,5 @@
 * Fine-tuning CNN image retrieval with no human annotation `PAMI` `Microsoft`
 	> SFM (postive and negative pairs) => Pretrained CNN => Generalized Pooling => Post-processing Whitening => \alpha-Query Expansion (??)
 * Luck Matters: Understanding Training Dynamics of Deep ReLU Networks `Meta`	> Nice paper, good idea, poorly written
+* A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark `Google`
+	> Visual Task Adaptation benchmark for evaluating different visual representation (fully supervised vs. self-supervised vs. generative, etc.)
