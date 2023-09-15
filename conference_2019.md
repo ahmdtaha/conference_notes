@@ -15,3 +15,5 @@
 * Luck Matters: Understanding Training Dynamics of Deep ReLU Networks `Meta`	> Nice paper, good idea, poorly written
 * A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark `Google`
 	> Visual Task Adaptation benchmark for evaluating different visual representation (fully supervised vs. self-supervised vs. generative, etc.)
+* Super-convergence: Very fast training of neural networks using large learning rates `Nice` `SPIE`
+	> Use large lr with cosine scheduler; lower weight decay; super convergence for small labaled datasets and shallow networks. We only care about Hessian curvature in direction of the gradient, i.e., the direction we plan to move in. High curvature => lower lr; smooth/low curvature => high lr.
