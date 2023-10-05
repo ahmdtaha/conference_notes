@@ -201,6 +201,8 @@
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Pruning filters for efficient convnets **#iclr2017**
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
+* Membership Inference Attacks against Machine Learning Models
+	> Overfitting models suffer membership attacks. Regularization helps mitigate this problem.
 * Rethinking Atrous Convolution for Semantic Image Segmentation **#arXiv2017** `Arch_Design`
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
