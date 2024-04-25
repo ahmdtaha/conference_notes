@@ -35,6 +35,8 @@
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
+* Lookahead Optimizer: k steps forward, 1 step back **#nips2019** `Nice`
+	> take k steps in optimizer direction, then weight-average the start and end points for a new weight initialization. Repeat; seems promising so far. Can be easily integrated on top of other optimizers (SGD, Adam).
 * Transfusion: Understanding Transfer Learning for Medical Imaging **#nips2019**
 	> Nice paper
 * Fixing the train-test resolution discrepancy **#nips2019**
