@@ -36,3 +36,5 @@
 	> Apply gradient ascent stochastically at later stage of training to escape local minima/saddle points.
 * Benchmarking detection transfer learning with vision transformers `Meta`
 	> MAE and BEiT pre-training benefit detection.
+* Rethinking Self-Supervised Learning: Small is Beautiful
+	> The paper promotes small dataset/resolution/arch learning to achieve competitive performance with limited compute. Not sure if the paper conclusions/findings are valid, but the SSL pre-training on combined small and large resolutions makes sense.
