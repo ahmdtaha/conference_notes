@@ -38,3 +38,5 @@
 	> MAE and BEiT pre-training benefit detection.
 * Rethinking Self-Supervised Learning: Small is Beautiful
 	> The paper promotes small dataset/resolution/arch learning to achieve competitive performance with limited compute. Not sure if the paper conclusions/findings are valid, but the SSL pre-training on combined small and large resolutions makes sense.
+* Vision Transformer Pruning
+	> Pruning ViT by learning an importance score for every dimension d durnig training. unimportant dimensions are pruned and a final fine-tuned stage is performance to recover lost accuracy. An l1-regularization is applied on importance score.
