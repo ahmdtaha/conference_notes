@@ -301,12 +301,14 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
-* Measuring Invariances in Deep Networks **#nips2009**
-* Weighted sums of random kitchen sinks: Replacing minimization with randomization in learning **#nips2008**
+* Measuring Invariances in Deep Networks `NIPS2009`
+* Weighted sums of random kitchen sinks: Replacing minimization with randomization in learning `NIPS2008`
 * Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval `ICCV2007`
-* Greedy Layer-Wise Training of Deep Networks **#nips2006**
+* How to Read a Paper `2007`
+	> First pass 5 mins, second pass 1 hr, third pass 4-5 hrs for beginners/1 hr for experienced
+* Greedy Layer-Wise Training of Deep Networks `NIPS2006`
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
-* Semi-supervised learning by entropy minimization **#nips2004** -- A simple and good idea but the notation! 
+* Semi-supervised learning by entropy minimization `NIPS2004` -- A simple and good idea but the notation! 
 * The Dynamic Representation of Scenes **#VisCog2000**
 * Separating Style and Content **#nips1997**
 * Training feedforward neural networks using genetic algorithms **#IJCAI1989**
