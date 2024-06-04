@@ -200,6 +200,8 @@
 * Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results **#nips2017**
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
+* Understanding deep learning requires rethinking generalization **#iclr2017**
+	> Regularizatin is not enough to explain generalization. Most networks can easily over-fit (zero-train loss) on large datasets even when images are assigned random labels.
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Pruning filters for efficient convnets **#iclr2017**
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
