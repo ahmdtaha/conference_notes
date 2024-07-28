@@ -8,6 +8,8 @@
 * Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019** `WS` `BCN`
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach `Optimized` `BERT` `Meta` **#arxiv2019**
 * Generating Diverse High-Fidelity Images with VQ-VAE-2 **#arxiv2019**
+* Fast Transformer Decoding: One Write-Head is All You Need **#arxiv2019** `Google`
+	> Tackle transformer inference cost problem. Intsead of multiple heads for query, key, value, the paper propose multiple-heads for the query only, i.e., a single head for key and value.
 * On Mutual Information Maximization for Representation Learning **#arxiv2019**
 * Faster Neural Network Training with Data Echoing **#arxiv2019** -- `Nice paper`
 * Measuring Dataset Granularity **#arxiv2019**
