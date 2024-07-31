@@ -25,8 +25,8 @@
 * Stabilizing the Lottery Ticket Hypothesis **#arxiv2019**
 * Sparse Transfer Learning via Winning Lottery Tickets **#arxiv2019**
 * INTRIGUING PROPERTIES OF LEARNED REPRESENTATIONS **openreview2019-ICLR**
-* Unsupervised Representation Learning by Predicting Image Rotations **arxiv2018**
-* Self-EMD: Self-Supervised Object Detection without ImageNet **#arxiv2020**
+* Unsupervised Representation Learning by Predicting Image Rotations
+* Self-EMD: Self-Supervised Object Detection without ImageNet
 * MammoGANesis: Controlled Generation of High-Resolution Mammograms for Radiology Education `arXiv` `mammogram` `Medical`
 * Contrastive Learning of Medical Visual Representations from Paired Images and Text `Medical`
 * TResNet: High Performance GPU-Dedicated Architecture `Technicalities`
@@ -34,3 +34,5 @@
 	> 14,368 high-resolution shelf images, on average, 37.1 objects per image, resulting in 533,633 images of individual objects. Each individual object image represents a product from in total of 2000 SKUs
 * Toward transformer-based object detection `Pinterest`
 	> Leverage Residual-blocks on top of ViT-features to enable Object detection with ViT-backbone.
+* Scaling Laws for Neural Language Models `OpenAI`
+	> The relation between loss and training resources (# parameters, training samples, GPUs) is covered by a power-law. It is better to train a large model on a small number of samples (with early stopping) than to train a small model on a large number of samples. The # parameters is more important for performance compared to the architecture itself (depth/width). Optimal Batch-size is related to loss function, with small batches at high loss and bigger batches at lower loss. Given more compute, use it to train bigger models and less on more data.
