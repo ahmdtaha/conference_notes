@@ -21,6 +21,8 @@
 * State-of-Art-Reviewing: A Radical Proposal to Improve Scientific Publication **#arxiv2020**
 * A Simple Framework for Contrastive Learning of Visual Representations **#arxiv2020**
 	> Looks simple but use a batch_size=8192, trained for 100 epochs on imagenet.
+* Scaling Laws for Neural Language Models `OpenAI`
+	> The relationship between loss and compute/#parameters/dataset follows power laws, i.e., L = x^\pow. These laws can identify compute optimal regime, how to scale parameters and dataset. Given more computational power, it is better to train a larger network on a small dataset (#iterations) than a smaller network on a bigger dataset (#iterations). The number of training -- non-Embedding -- parameters is more important compared to the architecture itself (width and high). It is recommended to use a small batch-size at early training stage when loss is high and a big batch-size at late stage when loss is small.
 * Adaptive Self-Training For Few-Shot Neural Sequence Labeling **#arxiv2020**
 * Stabilizing the Lottery Ticket Hypothesis **#arxiv2019**
 * Sparse Transfer Learning via Winning Lottery Tickets **#arxiv2019**
