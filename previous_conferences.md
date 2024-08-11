@@ -1,6 +1,8 @@
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
 * Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
 * Augmenting neural networks with first- order logic **#acl2019**
+* EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks `ACL2009`
+	> propose simple augmentation approaches for text dataset. This is particularly useful for small datasets (e.g., medical report datasets).
 * Convolutional networks with adaptive inference graphs **#ijcv2019** -- `Nice paper`
 * Res2net: A new multi-scale backbone architecture **pami2019**
 * Measuring the Effects of Data Parallelism on Neural Network Training **jmlr2019** `Nice` `Analysis` `Google`
