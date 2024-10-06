@@ -4,6 +4,8 @@
 * Bottleneck Transformers for Visual Recognition **#arXiv2021** -- `PI_Reading_Grp` Technicalities
 * Towards General Purpose Vision Systems **#arXiv2021** -- `PI_arXiv_Grp` Technicalities
 * Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision **#arXiv2021** -- `PI_arXiv_Grp` Technicalities
+* Learning Rate Grafting: Transferability of Optimizer Tuning
+	> Optimize using two optimizers: one optimizer provides the magnitude while the other provides the direction.
 * MLP-Mixer: An all-MLP Architecture for Vision **#arXiv2021** `Arch_Design`
 * FNet: Mixing Tokens with Fourier Transforms **#arXiv2021** `Arch_Design`
 * Learning Open-World Object Proposals without Learning to Classify **#arXiv2021** `Detection`
