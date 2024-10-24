@@ -38,14 +38,16 @@
 * Learning deep representations by mutual information estimation and maximization **#iclr2019**
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
-* Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask **#nips2019**
-* Lookahead Optimizer: k steps forward, 1 step back **#nips2019** `Nice`
+* Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask `NIPS2019`
+* Lookahead Optimizer: k steps forward, 1 step back `NIPS2019` `Nice`
 	> take k steps in optimizer direction, then weight-average the start and end points for a new weight initialization. Repeat; seems promising so far. Can be easily integrated on top of other optimizers (SGD, Adam).
-* Transfusion: Understanding Transfer Learning for Medical Imaging **#nips2019**
+* Transfusion: Understanding Transfer Learning for Medical Imaging `NIPS2019`
 	> Nice paper
-* Fixing the train-test resolution discrepancy **#nips2019**
-* Stand-Alone Self-Attention in Vision Models **#nips2019**
-* MixMatch: A Holistic Approach to Semi-Supervised Learning **#nips2019** `Google`
+* Fixing the train-test resolution discrepancy `NIPS2019`
+* Stand-Alone Self-Attention in Vision Models `NIPS2019`
+* Root Mean Square Layer Normalization `NIPS2019` `UK`
+	> Propose an alternative layernorm layer that skip the centering operation. The new layernorm (RMSNorm) only perform scaling operation. It forces the inputs into a sqrt(n)-scaled unit sphere. The paper shows that the scaling operation is more vital compared to centering operation.
+* MixMatch: A Holistic Approach to Semi-Supervised Learning `NIPS2019` `Google`
 	> Mixup + Semi-Supervised learning
 * Consistency-based Semi-supervised Learning for Object Detection **#nips2019**
 	> Nice paper
