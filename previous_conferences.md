@@ -49,17 +49,19 @@
 	> Propose an alternative layernorm layer that skip the centering operation. The new layernorm (RMSNorm) only perform scaling operation. It forces the inputs into a sqrt(n)-scaled unit sphere. The paper shows that the scaling operation is more vital compared to centering operation.
 * MixMatch: A Holistic Approach to Semi-Supervised Learning `NIPS2019` `Google`
 	> Mixup + Semi-Supervised learning
-* Consistency-based Semi-supervised Learning for Object Detection **#nips2019**
+* Consistency-based Semi-supervised Learning for Object Detection `NIPS2019`
 	> Nice paper
-* SketchEmbedNet: Learning Novel Concepts by Imitating Drawings **#nips2019**
-* Adversarial Training for Free **#nips2019**
-* One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers **#nips2019**
-* Channel Gating Neural Networks **#nips2019**
-* When does label smoothing help? **#nips2019**
-* Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks **#nips2019**
+* SketchEmbedNet: Learning Novel Concepts by Imitating Drawings `NIPS2019`
+* Adversarial Training for Free `NIPS2019`
+* One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers `NIPS2019`
+* Channel Gating Neural Networks `NIPS2019`
+* When does label smoothing help? `NIPS2019`
+* Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks `NIPS2019`
 * Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
 * TriResNet: A Deep Triple-stream Residual Network for Histopathology Grading **#iciar2019**
 * Incremental learning in deep convolutional neural networks using partial network sharing **IEEEAccess2019**
+* Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks `NeuroComputing2019`
+	> test-time augmentation for aleatoric uncertainty estimation for medical image segmentation.
 * The NYU Breast Cancer Screening Dataset v1.0 `NYU` **#2019**
 * Screening Mammogram Classification with Prior Exams `NYU` **#midl2019**
 * Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening `NYU` **#IEEE Medical Imaging 2019**
