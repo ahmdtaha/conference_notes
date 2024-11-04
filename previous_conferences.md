@@ -91,18 +91,20 @@
 * Dynamic Deep Neural Networks: Optimizing Accuracy-Efficiency Trade-offs by Selective Execution **aaai2018**
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Rise: Randomized input sampling for explanation of black-box models  **#bmvc2018#**
-* Compositing-aware image search **#eccv2018** :hash:industry :hash:adobe 
-* Progressive neural architecture search **#eccv2018** :hash:industry :hash:Google 
-* ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases **#eccv2018**
-* Hierarchy of Alternating Specialist for Scene Recognition **#eccv2018**
-* Bisenet: Bilateral Segmentation Network For Real-Time Semantic Segmentation **#eccv2018**
-* CBAM: Convolutional Block Attention Module **#eccv2018**
-* Exploring the Limits of Weakly Supervised Pretraining **#eccv2018**
-* SkipNet: Learning Dynamic Routing in Convolutional Networks **#eccv2018**
-* Deep metric learning with hierarchical triplet loss **#eccv2018**
-* Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper **#eccv2018**
-* Compositional Learning for Human Object Interaction **#eccv2018** -- `PI_Reading_Grp`
-* Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks **#wacv2018**
+* Compositing-aware image search `ECCV2018` :hash:industry :hash:adobe 
+* Progressive neural architecture search `ECCV2018` :hash:industry :hash:Google 
+* ConvNets and ImageNet Beyond Accuracy: Understanding Mistakes and Uncovering Biases `ECCV2018`
+* Hierarchy of Alternating Specialist for Scene Recognition `ECCV2018`
+* Bisenet: Bilateral Segmentation Network For Real-Time Semantic Segmentation `ECCV2018`
+* CBAM: Convolutional Block Attention Module `ECCV2018`
+* Exploring the Limits of Weakly Supervised Pretraining `ECCV2018`
+* SkipNet: Learning Dynamic Routing in Convolutional Networks `ECCV2018`
+* Deep metric learning with hierarchical triplet loss `ECCV2018`
+* Deep Clustering for Unsupervised Learning of Visual Features -- Nice Paper `ECCV2018`
+* Compositional Learning for Human Object Interaction `ECCV2018` -- `PI_Reading_Grp`
+* Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks `WACV2018`
+* Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks `MIDL2018`
+	> Use test-time augmentation for aleatoric uncertainty estimation with application in medical field.
 * Self-Attention with Relative Position Representations **#naacl2018**
 * Sanity checks for saliency maps. **#nips2018**
 * Neighbourhood Consensus Networks. **#nips2018**
