@@ -6,17 +6,17 @@
 * Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision **#arXiv2021** -- `PI_arXiv_Grp` Technicalities
 * Learning Rate Grafting: Transferability of Optimizer Tuning
 	> Optimize using two optimizers: one optimizer provides the magnitude while the other provides the direction.
-* MLP-Mixer: An all-MLP Architecture for Vision **#arXiv2021** `Arch_Design`
-* FNet: Mixing Tokens with Fourier Transforms **#arXiv2021** `Arch_Design`
-* Learning Open-World Object Proposals without Learning to Classify **#arXiv2021** `Detection`
-* nnFormer: Interleaved Transformer for Volumetric Segmentation **#arXiv2021** `Detection`
-* Early Convolutions Help Transformers See Better **#arXiv2021** `Transformer`
-* Escaping the Big Data Paradigm with Compact Transformers **#arXiv2021** `Transformer`
-* Efficient Training of Visual Transformers with Small-Size Datasets **#arXiv2021** `Transformer`
-* VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning **#arXiv2021** `SSL`
-* Swin transformer: Hierarchical vision transformer using shifted windows **#arXiv2021** `Transformer`
-* ResNet strikes back: An improved training procedure in timm **#arXiv2021** 
-* Do Self-Supervised and Supervised Methods Learn Similar Visual Representations? **#arXiv2021** 
+* MLP-Mixer: An all-MLP Architecture for Vision `Arch_Design`
+* FNet: Mixing Tokens with Fourier Transforms  `Arch_Design`
+* Learning Open-World Object Proposals without Learning to Classify `Detection`
+* nnFormer: Interleaved Transformer for Volumetric Segmentation `Detection`
+* Early Convolutions Help Transformers See Better  `Transformer`
+* Escaping the Big Data Paradigm with Compact Transformers `Transformer`
+* Efficient Training of Visual Transformers with Small-Size Datasets  `Transformer`
+* VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning `SSL`
+* Swin transformer: Hierarchical vision transformer using shifted windows `Transformer`
+* ResNet strikes back: An improved training procedure in timm 
+* Do Self-Supervised and Supervised Methods Learn Similar Visual Representations?
 * Self-supervised pretraining of visual features in the wild `FAIR`
 * Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers `Google/DeepMind`
 * ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases `FAIR` `Transformer`
@@ -42,3 +42,5 @@
 	> The paper promotes small dataset/resolution/arch learning to achieve competitive performance with limited compute. Not sure if the paper conclusions/findings are valid, but the SSL pre-training on combined small and large resolutions makes sense.
 * Vision Transformer Pruning
 	> Pruning ViT by learning an importance score for every dimension d durnig training. unimportant dimensions are pruned and a final fine-tuned stage is performance to recover lost accuracy. An l1-regularization is applied on importance score.
+* Bad Global Minima Exist and SGD Can Reach Them `Mila` `Canada` `Greece` `USA` `Academia`
+	> Bad minima can be reached by pre-training on noisy dataset (with noisy label) then using vanilla SGD without any augmentation or reguralization or momentum. During noisy pre-training, the network learns a complex features and a complex decision boundary. During the second training stage, SGD stays close to inferior initialization -- it doesn't generalize to test/val splits.
