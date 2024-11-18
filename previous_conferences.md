@@ -161,12 +161,14 @@
 * Learning efficient convolutional networks through network slimming. **#iccv2017**
 * Deep Metric Learning with Angular Loss **#iccv2017**
 * Representation Learning by Learning to Count **#iccv2017**
-* Dynamic coattention networks for question answering **#coattention** **#iclr2017**
-* Adversarial feature learning **#iclr2017**
-* learned representation for artistic style. **#iclr2017** 
-* beta-vae: Learning basic visual concepts with a constrained variational framework **#iclr2017**
-* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks **#iclr2017**
-* Sgdr: Stochastic gradient descent with warm restart **#iclr2017**
+* Dynamic coattention networks for question answering **#coattention** `ICLR2017`
+* Adversarial feature learning `ICLR2017`
+* learned representation for artistic style. `ICLR2017` 
+* beta-vae: Learning basic visual concepts with a constrained variational framework `ICLR2017`
+* A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks `ICLR2017`
+* Sgdr: Stochastic gradient descent with warm restart `ICLR2017`
+* Density Estimation using Real-NVP `Canada` `Mila` `Google` `ICLR2017`
+	> Propose a flow-based generative model that is non-volume preserving with efficient Jacobian determinant computation. The paper propose affine-coupling layers that are invertible. The paper propose and leverage multi-scale and BatchNorm within their layers for better expressivity
 * Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
 * Universal Adversarial Perturbations **cvpr2017**
 * Feature Pyramid Networks for Object Detection **cvpr2017**
