@@ -285,14 +285,16 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Fast R-CNN **#iccv2015**
 * Delving deep into rectifiers: Surpassing human-level performance on imagenet classification **#iccv2015**
 * Discriminative unsupervised feature learning with exemplar convolutional neural networks **#pami2015**
-* Learning both Weights and Connections for Efficient Neural Networks **#iclr2015**
-* Fitnets: Hints for thin deep nets **#iclr2015**
-* Flattened convolutional neural networks for feedforward acceleration **#iclr2015** `Workshop`
-* NICE: Non-Linear Independent Components Estimation **#iclr2015**
-* Training Deep Neural Networks on Noisy Labels with Bootstrapping **#iclr2015** `Workshop`
-* Understanding Locally Competitive Networks **#iclr2015**
-* Highway networks  **#arxiv2015**
-* Multi-path Convolutional Neural Networks for Complex Image Classification **#arxiv2015**
+* Learning both Weights and Connections for Efficient Neural Networks `ICLR2015`
+* Fitnets: Hints for thin deep nets `ICLR2015`
+* Flattened convolutional neural networks for feedforward acceleration `ICLR2015` `Workshop`
+* NICE: Non-Linear Independent Components Estimation `ICLR2015`
+* Training Deep Neural Networks on Noisy Labels with Bootstrapping `ICLR2015` `Workshop`
+* Understanding Locally Competitive Networks `ICLR2015`
+* Deeply-Supervised Nets `PMLR2015`
+	> Apply loss on intermediate features so it is more discriminative
+* Highway networks  `arXiv2015`
+* Multi-path Convolutional Neural Networks for Complex Image Classification `arXiv2015`
 	> very primitive but interesting
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * DeepPose: Human Pose Estimation via Deep Neural Networks **#cvpr2014**
