@@ -56,6 +56,8 @@
 * One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers `NIPS2019`
 * Channel Gating Neural Networks `NIPS2019`
 * When does label smoothing help? `NIPS2019`
+* Hidden stratification causes clinically meaningful failures in machine learning for medical imaging `NIPS2019` `ML4H` `Abstract`
+	> Hidden stratification exists in medical imaging. These can be dedicated through one of the following approaches (1) [full-manual] Schema Completion, (2) [partial-manual] Error Auditing, (3) Unsupervised Clustering
 * Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks `NIPS2019`
 * Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs **#nipsWorkshop2019**
 * TriResNet: A Deep Triple-stream Residual Network for Histopathology Grading **#iciar2019**
