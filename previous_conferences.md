@@ -310,6 +310,8 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Fast dropout training **#icml2013**
 * Adaptive dropout for training deep neural networks **#nips2013**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
+* Clinical Experience Sharing by Similar Case Retrieval `Turkey` `ACM` `Workshop` `MIIRH2013`
+	> Create a retrieval-based system for 3D liver volumes. The system uses both image and non-image modality. The paper motivates the system for clinical experience sharing. This can be utilized in for educational purposes and preventing "situations, where lack of medical experience might have negative effects on diagnosis". Unfortunately, the proposed system is never evaluated in a clinical settings. The proposal is evaluated only using a toy retrieval setup.
 * AVA: A Large-Scale Database for Aesthetic Visual Analysis **#cvpr2012**
 * Measuring the objectness of image windows **#pami2012**
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
