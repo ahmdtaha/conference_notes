@@ -317,6 +317,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * AVA: A Large-Scale Database for Aesthetic Visual Analysis **#cvpr2012**
 * Measuring the objectness of image windows **#pami2012**
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
+* Interactive Content-Based Image Retrieval (CBIR) Computer-Aided Diagnosis (CADx) System for Ultrasound Breast Masses using Relevance Feedback `MedicalImaging`
+	> Interactive query expansion for medical case retrieval using Rocchio relevance feedback (RRF) algorithm. No clinical studies; just evaluation for the impact of RRF.
+
 * Unbiased Look at Dataset Bias **#cvpr2011**
 * The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**
