@@ -32,10 +32,12 @@
 	> Heavy reading but it is worth it
 * Efficient and Effective Dropout for Deep Convolutional Neural Networks **#arxiv2019**
 * Visualizing deep similarity networks **#wacv2019**
-* Spreading vectors for similarity search **#iclr2019**
-* Proxylessnas: Direct Neural Architecture Search On Target Task And Hardware **#iclr2019**
-* Dynamic channel pruning: Feature boosting and suppression **#iclr2019**
-* Learning deep representations by mutual information estimation and maximization **#iclr2019**
+* Spreading vectors for similarity search `ICLR2019`
+* Proxylessnas: Direct Neural Architecture Search On Target Task And Hardware `ICLR2019`
+* Dynamic channel pruning: Feature boosting and suppression `ICLR2019`
+* Learning deep representations by mutual information estimation and maximization `ICLR2019`
+* Slimmable Neural Networks `ICLR2019` `Nice`
+	> Train neural network with different widths (switches) [1.0,0.5]. The key idea to use different BatchNorm layers for different switches. Slimmable networks brings multiple advantages: (1) Train a single network compared to multiple individual networks, (2) adjust the computational cost budget of a network during inference on the fly, (3) avoid downloading individual models to the deployment environment.
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask `NIPS2019`
