@@ -39,6 +39,8 @@
 * Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask `NIPS2019`
+* This Looks Like That: Deep Learning for Interpretable Image Recognition `NIPS2019`
+	> DL Interpretability paper. Learn m=10 prototypes per class. ProtoPNet goes through three stages. Stage 1: Train all layers including prototypes while fixed the weights of the final linear classifier layer; the linear classifier is _not_ randomly initialized but manually initialized to strengthen the connection between prototype p_k and class k, and weaken the connection between prototype p_k and class c!=k. Stage 2: project the learned prototype p_k to the nearest training image patches. Stage 3: tune the linear classifier layer while imposing a lasso regularizer.  
 * Lookahead Optimizer: k steps forward, 1 step back `NIPS2019` `Nice`
 	> take k steps in optimizer direction, then weight-average the start and end points for a new weight initialization. Repeat; seems promising so far. Can be easily integrated on top of other optimizers (SGD, Adam).
 * Transfusion: Understanding Transfer Learning for Medical Imaging `NIPS2019`
