@@ -291,6 +291,8 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 	> Interactive query expansion for medical case retrieval using Rocchio relevance feedback (RRF) algorithm. No clinical studies; just evaluation for the impact of RRF. 
 * Learning to compare image patches via convolutional neural networks **#cvpr2015**
 * Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
+* Understanding image representations by measuring their equivariance and equivalence **#cvpr2015** `Oxford`
+	> equivariance: A single model applied on two image variants should generate two representations that are equivalent through a matrix transformation. Equivalence: Two models applied on a single image should generate the similar/replacable representations such that the two models can be stitched on top of each other. 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
 * Efficient object localization using convolutional networks **#cvpr2015** 
 * Spatial Transformer Network **#nips2015**
