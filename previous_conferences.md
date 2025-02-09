@@ -165,6 +165,7 @@
 * Focal Loss for Dense Object Detection **#iccv2017**
 * Online Video Object Detection using Association LSTM **#iccv2017**
 	> Seems interesting but no code released!
+
 * SVDNet for Pedestrian Retrieval **#iccv2017**
 * Revisiting unreasonable effectiveness of data in deep learning era **#iccv2017**
 * Arbitrary style transfer in real-time with adaptive instance normalization. **#iccv2017**
@@ -229,7 +230,10 @@
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
 * Membership Inference Attacks against Machine Learning Models
 	> Overfitting models suffer membership attacks. Regularization helps mitigate this problem.
-* Rethinking Atrous Convolution for Semantic Image Segmentation **#arXiv2017** `Arch_Design`
+
+* Rethinking Atrous Convolution for Semantic Image Segmentation `arXiv2017` `Arch_Design`
+* Emotion Detection Using Noninvasive Low Cost Sensors `IT` `ACII2017`
+	> Use non-invasive sensors to classify emotions. The senors used are EEG for Brain waves, EMG for muscle contraction, and GSR for skin conductance. EMG seems to be less effective, but the sensor was attached to the participant arms. Classic classifier models (e.g., SVMs) are used. The dataset is, of course, tiny by today standards.
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
 * Sketch Me That Shoe **#cvpr2016**
 * Convolutional Pose Machines **#cvpr2016**
