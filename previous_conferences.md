@@ -71,10 +71,16 @@
 * The NYU Breast Cancer Screening Dataset v1.0 `NYU` **#2019**
 * Screening Mammogram Classification with Prior Exams `NYU` **#midl2019**
 * Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening `NYU` **#IEEE Medical Imaging 2019**
+
 * Can we reduce the workload of mammographic screening by automatic identification of normal exams with artificial intelligence? A feasibility study `EU` `Rad` `2019`
 	> pre-select exams for rads; reduce workload by 17% while missing 1% True positives; threshold tuned on an independent data sample. As a rule of thumb, a population has 7 cancers per 1000; 5 caught, 2 missed.
+
+* A Deep Learning Model to Triage Screening Mammograms: A Simulation Study `US` `Rad` `2019`
+	> Rule-out model developed to triage FFDMs. The development and study population are the same with a threshold tuned on a validation split.
+
 * Explainable artificial intelligence for breast cancer: A visual case-based reasoning approach `AI` `medicine` `Nice`
 	> The paper proposed two visualization approaches for case retrieval in medical images. The two approaches are : (1) polar scatter plots, (2) rainbow box. The paper ran a clinicial study with 11 participants to get feedback on their proposal.
+
 * Improving Language Understanding by Generative Pre-Training **2018** -- `GPT-1` `OpenAI`
 * Language Models are Unsupervised Multitask Learners **2019** -- `GPT-2` `OpenAI`
 * Deep Image Prior **#bayes #cvpr2018**
