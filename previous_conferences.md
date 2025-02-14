@@ -339,6 +339,10 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * AVA: A Large-Scale Database for Aesthetic Visual Analysis **#cvpr2012**
 * Measuring the objectness of image windows **#pami2012**
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
+
+* DEAP: A Database for Emotion Analysis using Physiological Signals `Affective Computing` `2012` `UK`
+	> A new dataset that records signals from respiration amplitude, skin temperature, electrocardiogram, blood volume by plethysmograph, electromyograms of Zygomaticus and Trapezius muscles, and electrooculogram (EOG). The paper's objective is to predict user's emotions while watching one-minute videos through the recorded physiological signals.
+
 * Unbiased Look at Dataset Bias **#cvpr2011**
 * The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**
