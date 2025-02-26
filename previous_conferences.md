@@ -343,6 +343,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * DEAP: A Database for Emotion Analysis using Physiological Signals `Affective Computing` `2012` `UK`
 	> A new dataset that records signals from respiration amplitude, skin temperature, electrocardiogram, blood volume by plethysmograph, electromyograms of Zygomaticus and Trapezius muscles, and electrooculogram (EOG). The paper's objective is to predict user's emotions while watching one-minute videos through the recorded physiological signals.
 
+* Multimodal behavioral analysis for non-invasive stress detection `ES` `PT` `Expert Systems with Applications` `2012`
+	> A dataset with multimodal signals for stress detection. These signals are not physiological, but more behavioral. For instance, the dataset tracks touch pattern on a touch screen, touch intensity and duration, etc. The paper uses a tree as a machine learning classification model.
+
 * Unbiased Look at Dataset Bias **#cvpr2011**
 * The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**
