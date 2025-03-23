@@ -349,6 +349,28 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Unbiased Look at Dataset Bias **#cvpr2011**
 * The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
 * On random weights and unsupervised feature learning **#icml2011**
+
+* Digital Mammography: Clinical Image Evaluation `Radiologic Clinics` `2010` `USA`
+	> Mammograph terminology: 
+	Most failures happen for for fatty breasts than for dense breasts.
+	Higher proportions of failures in dense breasts were related to deficiencies in compression.
+	anterior => in front of, posterior=> far deep.
+	"Postero-" => Behind or toward the back.
+	"Medial" => Toward the midline of the body.
+	Pectoralis muscle should be anterior convex.
+	The measurement of the PNL on the CC view should be within 1 cm of its length on the MLO view.
+	“Retro-” means “behind,” so retromammary fat refers to the fatty tissue located behind the mammary (breast) glandular tissue. This layer helps separate the breast from the underlying pectoralis muscle and chest wall.
+	“Retro-” => Behind (e.g., retromammary = behind the breast). 	“Infra-” => Below (e.g., inframammary = below the breast).
+	“Antero-” => In front (e.g., anterolateral = in front and to the side).
+	“Supra-” => Above (e.g., supramammary = above the breast).
+	The underlying image receptor device supports the breast on the CC position. Therefore, motion unsharpness caused by patient movement and/or inadequate compression is more commonly seen on the MLO view than on the CC view.
+	Underexposure has been shown to be a more frequent image deficiency than overexposure. overexposure is frequently a recoverable error. Underexposure is an unrecoverable error. 
+	Higher radiation dose => Reduces noise (better image quality).
+	Lower radiation dose => Increases noise (worse image quality).
+	Motion unsharpness in DM is caused by movement of the breast during exposure and is minimized by using a short exposure time and adequate breast compression.
+	
+	 
+	
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
 * What is the best multi-stage architecture for object recognition? **#iccv2009**
