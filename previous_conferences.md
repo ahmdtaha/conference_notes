@@ -164,6 +164,10 @@
 * Detecting and classifying lesions in mammograms with Deep Learning **#nature2018**
 * DeepLesion: Automated Deep Mining, Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations **#nlm2018**
 * GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification **Neurocomputing** **2018**
+
+* Improving Performance of Mammographic Breast Positioning in an Academic Radiology Practice `US` `AJR`
+	> Develop and implement an improvement programming (training) for technologist and radiologist to improve positioning in an academic practice. According to the paper, inadequate inframammary fold or small skin folds are considered minor issues. While literature agrees that positioning is the “most common cause for technical failure in mammography”, there is no agreement about which positioning issue — across practices — is the problem!
+	
 * Amazon Inventory Reconciliation Using AI `Github` `AMZN` `Dataset`
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases **#cvpr2017**
