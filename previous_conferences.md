@@ -241,6 +241,9 @@
 * Membership Inference Attacks against Machine Learning Models
 	> Overfitting models suffer membership attacks. Regularization helps mitigate this problem.
 
+* The impact of simulated motion blur on lesion detection performance in full-field digital mammography `BIR2017`
+	> The paper demostrate thet motion blur impacts both mass and calcifications in mammography. Yet, the impact on calcifications is more pronounced. Motion-blur can be responsible for ~90% of technical recalls. A free-response observer data denotes the annotations made by radiologist in a free-style environment, i.e., no constraint on how lesions were marked. Figure of merit (FOM) denotes the performance metric report, studied by the paper. `Lesions located within fibroglandular regions of high- density breast or those complicated by overlapping anatomical structures are more challenging to detect. Small calcification clusters with indefinite edges are considered the most difficult lesions to identify due to size and poor contrast.`
+	
 * Rethinking Atrous Convolution for Semantic Image Segmentation `arXiv2017` `Arch_Design`
 * Emotion Detection Using Noninvasive Low Cost Sensors `IT` `ACII2017`
 	> Use non-invasive sensors to classify emotions. The senors used are EEG for Brain waves, EMG for muscle contraction, and GSR for skin conductance. EMG seems to be less effective, but the sensor was attached to the participant arms. Classic classifier models (e.g., SVMs) are used. The dataset is, of course, tiny by today standards.
