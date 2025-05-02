@@ -71,6 +71,8 @@
 * The NYU Breast Cancer Screening Dataset v1.0 `NYU` **#2019**
 * Screening Mammogram Classification with Prior Exams `NYU` **#midl2019**
 * Deep Neural Networks Improve Radiologists’ Performance in Breast Cancer Screening `NYU` **#IEEE Medical Imaging 2019**
+* Comparison of screening full-field digital mammography and digital breast tomosynthesis technical recalls `JMI2019`
+	> The paper compares positioning issues on FFDM and DBT. Key findings: DBT exams had significantly less recalls compared to FFDM; Recalls for motion demonstrated the greatest decrease going from FFDM to DBT; Positioning remains a dominant factor for technical recall regardless of modality; Surprising insights: Perhaps, DBT and the SynM are not optimally suited to detect motion; the definition of artifacts spans many issues: artifacts, collimator issues, suboptimal tissue penetration, inadequate implant technique, deodorant artifact, and skin folds. 
 
 * Can we reduce the workload of mammographic screening by automatic identification of normal exams with artificial intelligence? A feasibility study `EU` `Rad` `2019`
 	> pre-select exams for rads; reduce workload by 17% while missing 1% True positives; threshold tuned on an independent data sample. As a rule of thumb, a population has 7 cancers per 1000; 5 caught, 2 missed.
