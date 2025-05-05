@@ -331,8 +331,13 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Deeply-Supervised Nets `PMLR2015`
 	> Apply loss on intermediate features so it is more discriminative
 * Highway networks  `arXiv2015`
+
 * Multi-path Convolutional Neural Networks for Complex Image Classification `arXiv2015`
 	> very primitive but interesting
+
+* Mammographic positioning quality of newly trained versus experienced radiographers in the Dutch breast cancer screening programme `European radiology` `NL`
+	> The papper Compare new (NR) vs. experienced (ER) radiographers performance in the Netherlands. NR seems superior to ERs which undermine the value of continuing medical education (CME) activities. "These results can possibly be explained by the fact that ER have a full schedule every day and, therefore, have less time for mammography examinations, compared to NR."
+	
 * Learning fine-grained image similarity with deep ranking **#cvpr2014**
 * DeepPose: Human Pose Estimation via Deep Neural Networks **#cvpr2014**
 * Rich Feature Hierarchies For Accurate Object Detection And Semantic Segmentation **#cvpr2014** `R-CNN`
