@@ -38,9 +38,15 @@
 * Learning deep representations by mutual information estimation and maximization `ICLR2019`
 * Slimmable Neural Networks `ICLR2019` `Nice`
 	> Train neural network with different widths (switches) [1.0,0.5]. The key idea to use different BatchNorm layers for different switches. Slimmable networks brings multiple advantages: (1) Train a single network compared to multiple individual networks, (2) adjust the computational cost budget of a network during inference on the fly, (3) avoid downloading individual models to the deployment environment.
-* Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation **#icml2019**
-* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks **#icml2019** `Arch_Design`
+* Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation `ICML` `2019`
+
+* Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks `ICML` `2019` `UK` `Nice`
+	> The paper propose multi-"global" tokens at encoder level to reduce the cost of self-attention on long sequences. The paper also propose multi-"summarization" tokens at the decoder level to deliver multi-output tokens at reduce cost. The paper is less-fancy version of perceiver-io paper. One cool idea from this paper is using poisson-regression to train a network that count objects.
+
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks `ICML` `2019` `Arch_Design`
+
 * Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask `NIPS2019`
+
 * This Looks Like That: Deep Learning for Interpretable Image Recognition `NIPS2019`
 	> DL Interpretability paper. Learn m=10 prototypes per class. ProtoPNet goes through three stages. Stage 1: Train all layers including prototypes while fixed the weights of the final linear classifier layer; the linear classifier is _not_ randomly initialized but manually initialized to strengthen the connection between prototype p_k and class k, and weaken the connection between prototype p_k and class c!=k. Stage 2: project the learned prototype p_k to the nearest training image patches. Stage 3: tune the linear classifier layer while imposing a lasso regularizer.  
 * Lookahead Optimizer: k steps forward, 1 step back `NIPS2019` `Nice`
