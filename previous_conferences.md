@@ -160,13 +160,17 @@
 * The Singular Values of Convolutional Layers **#arxiv2018**
 * Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer **#arxiv2018**
 * Stochastic Adversarial Video Prediction **#arxiv2018**
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding **#arxiv2018**
-* Large scale distributed neural network training through online distillation **#arxiv2018**
-* Learning Low-Rank Representations **#arxiv2018**
-* Label refinery: Improving imagenet classification through label progression **#arxiv2018**
-* Stabilizing Gradients for Deep Neural Networks via Efficient SVDParameterization **#arxiv2018**
-* Flexible deep neural network processing **#arxiv2018**
-* Deep Paper Gestalt **#arxiv2018**
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding `arXiv2018`
+* Large scale distributed neural network training through online distillation `arXiv2018`
+* Learning Low-Rank Representations `arXiv2018`
+* Label refinery: Improving imagenet classification through label progression `arXiv2018`
+* Stabilizing Gradients for Deep Neural Networks via Efficient SVDParameterization `arXiv2018`
+* Flexible deep neural network processing `arXiv2018`
+* Numerical Coordinate Regression with Convolutional Neural Networks `arXiv2018` 
+	> The paper propose a new non-trainable layer (DSNT) for coordinate regression. The non-trainable layer is differentiable, supports any FCN. The key idea is to normalize the output feature maps (e.g., using softmax) then compute a dot product between the normalized features and frozen X and Y coordinate maps. Besides the DSNT layer, the paper proposes a regularizer to manage (scale or shrink) the variance around the predicted keypoint. The proposed layer can be used for human pose estimation. 
+	
+	
+* Deep Paper Gestalt `arXiv2018`
 * Top-down neural attention by excitation backprop **#ijcv2018**
 * MonolithNet: Training monolithic deep neural networks via a partitioned training strategy **#jcvis2018**
 * Detecting and classifying lesions in mammograms with Deep Learning **#nature2018**
