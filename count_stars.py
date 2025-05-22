@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 import glob
 
 output_filename = 'star_counts.txt'
@@ -10,7 +11,7 @@ try:
             try:
                 with open(file_path, 'r') as infile:
                     content = infile.read()
-                    asterisk_count = len(re.findall(r'\b\*\b', content))
+                    asterisk_count = content.count('*')
                     outfile.write(f"{file_path}: {asterisk_count}\n")
             except FileNotFoundError:
                 print(f"Error: File not found at {file_path}")
