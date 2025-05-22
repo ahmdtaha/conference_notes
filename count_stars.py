@@ -10,7 +10,7 @@ try:
             try:
                 with open(file_path, 'r') as infile:
                     content = infile.read()
-                    asterisk_count = content.count('*')
+                    asterisk_count = len(re.findall(r'\b\*\b', content))
                     outfile.write(f"{file_path}: {asterisk_count}\n")
             except FileNotFoundError:
                 print(f"Error: File not found at {file_path}")
