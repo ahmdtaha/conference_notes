@@ -6,7 +6,7 @@ output_filename = 'star_counts.txt'
 
 try:
     with open(output_filename, 'w') as outfile:
-        for year in range(2021, 2026):
+        for year in range(2020, 2026):
             try:
                 file_path = f'conf_{year}.md'
                 with open(file_path, 'r') as infile:
