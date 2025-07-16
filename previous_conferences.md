@@ -146,20 +146,21 @@
 * Similarity of Neural Network Representations Revisited **#icml2018**
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
 * Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
-* Stochastic video generation with a learned prior **#pmlr2018** -- `PI_Reading_Grp`
+* Stochastic video generation with a learned prior `PMLR2018` `NYU` `Facebook` `PI_Reading_Grp`
+	> The paper propose a stochastic video generation model that depends on a latent variable z. The latent variable is learned during training from future frame "Teacher Forcing". Simultaneously, the model learns an approximation to z -- called z'-- using current/past frames only. During, inference,  z' guides the future frame generation. This learning process help capture the  full distribution of future frames and avoid blurry generations.
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
 * Understanding Deep Convolutional Networks through Gestalt Theory **#ist2018**
 * Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation **#corl2018**
 * Semantic Segmentation from Limited Training Data **#icra2018**
-* Representation Learning with Contrastive Predictive Coding **#arxiv2018**
-* Dataset Distillation -- `BAIR` **#arxiv2018**
-* fastMRI: An Open Dataset and Benchmarks for Accelerated MRI -- `NYU` **#arxiv2018**
+* Representation Learning with Contrastive Predictive Coding `arXiv2018`
+* Dataset Distillation -- `BAIR` `arXiv2018`
+* fastMRI: An Open Dataset and Benchmarks for Accelerated MRI -- `NYU` `arXiv2018`
 * Learning a Variational Network for Reconstruction of Accelerated MRI Data -- `NYU` **Magnetic Resonance In Medicine**
 * Towards End-to-End Lane Detection: an Instance Segmentation Approach **IEEE intelligent vehicles symposium 2018**
-* SpectralNet: Spectral Clustering using Deep Neural Networks **#arxiv2018**
-* The Singular Values of Convolutional Layers **#arxiv2018**
-* Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer **#arxiv2018**
-* Stochastic Adversarial Video Prediction **#arxiv2018**
+* SpectralNet: Spectral Clustering using Deep Neural Networks `arXiv2018`
+* The Singular Values of Convolutional Layers `arXiv2018`
+* Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer `arXiv2018`
+* Stochastic Adversarial Video Prediction `arXiv2018`
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding `arXiv2018`
 * Large scale distributed neural network training through online distillation `arXiv2018`
 * Learning Low-Rank Representations `arXiv2018`
