@@ -365,6 +365,10 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Clinical Experience Sharing by Similar Case Retrieval `Turkey` `ACM` `Workshop` `MIIRH2013`
 	> Create a retrieval-based system for 3D liver volumes. The system uses both image and non-image modality. The paper motivates the system for clinical experience sharing. This can be utilized in for educational purposes and preventing "situations, where lack of medical experience might have negative effects on diagnosis". Unfortunately, the proposed system is never evaluated in a clinical settings. The proposal is evaluated only using a toy retrieval setup.
+
+* Mammogram image quality as a potential contributor to disparities in breast cancer stage at diagnosis: an observational study `BMC Cancer` `2013` `USA`
+	> Study the relationship between image-quality and diagnosis bias in mammograms. Poor image-quality leads to missed or late stage diagnosis. The paper investigates if there is a correlation between race/ethnicity/socioeconomic and image quality. The paper finds that high income level increases the odd of high-image quality signficantly. Technologist-associated image quality  (TAIQ) indicators tend to be lower than machine associated image quality (MAIQ). So positioning, compression, sharpness tend to score lower than contrast, exposure, noise and artifacts. Digital mammograms have significantly higher quality compared to analog mammograms. Image Quality indicates are inversely associated with breast cancer stage at diagnosis.
+	
 * AVA: A Large-Scale Database for Aesthetic Visual Analysis **#cvpr2012**
 * Measuring the objectness of image windows **#pami2012**
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
