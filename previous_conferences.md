@@ -178,6 +178,9 @@
 * DeepLesion: Automated Deep Mining, Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations **#nlm2018**
 * GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification **Neurocomputing** **2018**
 
+* Clinical Image Quality and Sensitivity in an Organized Mammography Screening Program `Canadian Association of Radiologists Journal` `CA` `2018`
+	> The paper studies the impact of image qualit on mammography sensitivity. The paper find little association between image quality and mammography sensitivity. The study hired three rads to annotate image quality and -- as expected -- observed a high inter-reader variability. The study was done using film-screen mammograms, and not digital mammograms, which is a deprecated technology. The study found positioning to be the most image quality issue. The paper concludes thet MSQA has improved image quality standards which explains why image-quality is not longer impacting mammogram sensitivity. 
+	 
 * Improving Performance of Mammographic Breast Positioning in an Academic Radiology Practice `US` `AJR`
 	> Develop and implement an improvement programming (training) for technologist and radiologist to improve positioning in an academic practice. According to the paper, inadequate inframammary fold or small skin folds are considered minor issues. While literature agrees that positioning is the “most common cause for technical failure in mammography”, there is no agreement about which positioning issue — across practices — is the problem!
 	
