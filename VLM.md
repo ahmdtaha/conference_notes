@@ -25,3 +25,15 @@ BLIP leverages three training objectives:
 
 ![](./imgs/blip_salesforce.png)
 
+### 4. Bootstrapping Language-Image Pre-training-v2 (BLIP-2) by Salesforce
+Train VLM with minimal computatinal cost (both frozen vision and LLM). [arXiv](https://arxiv.org/abs/2301.12597)
+
+The paper trains a Q-former between a frozne vision encoder and an LLMs. The Q-former objective is to bridge the gap between the vision and text representation. To train Q-former, the paper propose a two-stage pipeline: The first stage uses BLIP three-objectives: ITC, ITM, and LM. The first stage objective is to align vision and text represnetations. The second stage is solely a generative language modeling (LM) stage. The second stage objective is to bootstrap vision-to-language generative learning. 
+
+Key observations: 
+1. The Q-former can be regarded as a non-linear projection layer between the vision and text embedding which is a common approach in recent literature when training VLMs. 
+2. BLIP-2 propose a two-stage training pipeline which was a new thing in 2023. Nowadays (2025), all VLMs employ a two-stage training pipeline but of course within different training objectives. The current two-stage training pipeline is usually pre-training on a large corpus of unlabeled data, before "fine-tuning" on instruction-following data.
+ 
+
+![](./imgs/blip2_1_salesforce.png)
+![](./imgs/blip2_2_salesforce.png)
