@@ -41,12 +41,17 @@ Key observations:
 
 ## Pre-training Datasets
 
-### 1.  Conceptual Captions 12M (CC12M) by Google [arXiv](https://arxiv.org/abs/2102.08981)
+### 1.  Conceptual Captions 3M/12M (CC12M) by Google [arXiv](https://arxiv.org/abs/2102.08981)
 
 A dataset with 12 million image-text pairs specifically meant to be used for visionand-language pre-training.
 
 ![](./imgs/cc12m_google.png)
 
+### 2. LAION-400M/5B by LAION.AI [arXiv](https://arxiv.org/abs/2210.08402)
+
+English Img-Txt Pairs dataset
+
+![](./imgs/laion_laion.png)
 
 ## Benchmarks
 
