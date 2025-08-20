@@ -18,7 +18,7 @@ Given a physical goal expressed in natural language, a model must choose the mos
 
 3. Social Intelligence QA (SIQA) by AI^2
 
-commonsense reasoning Question-answer benchmark about social situations. [arXiv](https://arxiv.org/abs/1904.09728)
+Commonsense reasoning Question-answer benchmark about social situations. [arXiv](https://arxiv.org/abs/1904.09728)
 
 
 ![](./imgs/siqa_ai2.png)

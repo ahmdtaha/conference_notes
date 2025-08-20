@@ -37,3 +37,14 @@ Key observations:
 
 ![](./imgs/blip2_1_salesforce.png)
 ![](./imgs/blip2_2_salesforce.png)
+
+
+
+## Benchmarks
+
+1. Science Question Answering (ScienceQA) by AI2
+
+Multimodal multiple choice questions with diverse science topics and annotations of their answers with corresponding lectures and explanations. [arXiv](https://arxiv.org/abs/2209.09513)
+
+
+![](./imgs/science_ai2.png)
