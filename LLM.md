@@ -1,5 +1,12 @@
 # LLM Review
 
+## Datasets
+
+#### 1. The Pile by EleutherAI [arXiv](https://arxiv.org/abs/2101.00027)
+A 825 GiB English text corpus targeted at training large-scale language models. The Pile is constructed from 22 diverse high-quality subsets—both existing and newly constructed—many of which derive from academic or professional sources.
+
+![](./imgs/pile_eleutheraI.png)
+
 ## Benchmarks
 
 ### Common Sense Reasoning

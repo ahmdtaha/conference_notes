@@ -61,3 +61,9 @@ Multimodal multiple choice questions with diverse science topics and annotations
 
 
 ![](./imgs/science_ai2.png)
+
+### 2. Raven IQ benchmark by Microsoft [arXiv](https://arxiv.org/abs/2302.14045)
+
+Evaluates the capability of nonverbal reasoning for MLLMs.
+
+![](./imgs/ravenIQ_microsoft.png)
