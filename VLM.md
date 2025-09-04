@@ -67,3 +67,25 @@ Multimodal multiple choice questions with diverse science topics and annotations
 Evaluates the capability of nonverbal reasoning for MLLMs.
 
 ![](./imgs/ravenIQ_microsoft.png)
+
+
+### 3. General VQAv2 benchmark by Virginia Tech, Georgia Institute of Technology [arXiv](https://arxiv.org/abs/1612.00837)
+
+Counter language priors for the task of Visual Question Answering (VQA) and make vision (the V in VQA) matter! Specifically. Balance VQAv1 by collecting complementary images such that every question is associated with a pair of similar images but two different answers to the question.
+
+![](./imgs/vqav2_vt.png)
+
+
+### 4. Document VQA benchmark by CVIT-India, Computer Vision Center-Spain [arXiv](https://arxiv.org/abs/2007.00398)
+
+Visual Question Answering (VQA) on document images
+
+![](./imgs/docVQA_cvit.png)
+
+
+### 5. MathVista benchmark by Microsoft and UCLA [arXiv](https://arxiv.org/abs/2310.02255)
+
+Combine mathematical and visual task. Completing these tasks requires fine-grained, deep visual understanding and compositional reasoning
+
+![](./imgs/mathVista_UCLA_microsoft.png)
+
