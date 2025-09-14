@@ -357,6 +357,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Rich Feature Hierarchies For Accurate Object Detection And Semantic Segmentation **#cvpr2014** `R-CNN`
 * LSDA: Large Scale Detection Through Adaptation **#nips2014**
 
+* ReferItGame: Referring to Objects in Photographs of Natural Scenes `USA`
+	> The paper builds a game to collect referring expression R for a target object P in a scene S. The game helps collected a RefCOCO dataset where an object is linked with referring expression annotation. The dataset was used to build a primative referring expression generation (REG) model that generates an expression for a give object P in a scene S. Thanks to Escalante et al., the dataset is accompanied by segmentations for each object (region). So, RefCOCO is a good datasets for  referring expression tasks such as generation, comprehension, and segmentation.
+
 * Breast Positioning during Mammography: Mistakes to be Avoided `IN` `2014` `Breast Cancer: Basic and Clinical Research`
 	> The paper looks into the major issues within mammography positioning. While the paper claims iadequate nipple position is the major issue, deeper analysis shows that pectoral muscle issues — when consolidated — become the primary issue.
 	
