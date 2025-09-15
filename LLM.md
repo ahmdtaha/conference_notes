@@ -7,6 +7,13 @@ A 825 GiB English text corpus targeted at training large-scale language models. 
 
 ![](./imgs/pile_eleutheraI.png)
 
+##### 2. Common Crawl (generic websites)
+
+##### 3. WebText2 (Reddit)
+
+##### 4. Wikipedia
+
+
 ## Benchmarks
 
 ### Common Sense Reasoning
