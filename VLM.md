@@ -100,3 +100,17 @@ Combine mathematical and visual task. Completing these tasks requires fine-grain
 
 ![](./imgs/mathVista_UCLA_microsoft.png)
 
+
+### 6. Visual Entailment benchmark by NEC Laboratories America [arXiv](https://arxiv.org/abs/1901.06706)
+
+Also known as Stanford Natural Language Inferenc-Visual Entailment (SNLI-VE) benchmark. The task is to predict whether the image semantically entails the text.
+
+![](./imgs/VE_nec.png)
+
+### 7. Natural Language Visual Reasoning for Real (NLVR2) by Cornell [arXiv](https://arxiv.org/abs/1811.00491)
+
+Each caption is paired with two images. The task is to predict if the caption is True or False. The examples require addressing challenging semantic phenomena, including resolving twice . . . as to counting and comparison of objects
+
+![](./imgs/NLVR2_cornell.png)
+
+
