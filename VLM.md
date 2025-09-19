@@ -38,6 +38,12 @@ Key observations:
 ![](./imgs/blip2_1_salesforce.png)
 ![](./imgs/blip2_2_salesforce.png)
 
+### 4. Contrastive Captioners are Image-Text Foundation Models (CoCa) by Google [arXiv](https://arxiv.org/abs/2205.01917)
+
+Image Encoder + **Text Decoder** trained with contrastive learning. Then, Multi-modal (image+text) **decoder** trained with a captioning task. CoCa is both a contrastive (text-decoder) and generative (multi-modal-decoder) architecture. Two tasks learned simultaneously.
+
+
+![](./imgs/coca_google.png)
 
 ## Pre-training Datasets
 
@@ -52,6 +58,11 @@ A dataset with 12 million image-text pairs specifically meant to be used for vis
 English Img-Txt Pairs dataset
 
 ![](./imgs/laion_laion.png)
+
+### 3. WebImageText (WIT)
+
+English Img-Txt Pairs dataset, proprietary by OpenAI, used to train CLIP model
+400 Img-Txt Pairs
 
 ## Benchmarks
 
