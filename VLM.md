@@ -40,10 +40,29 @@ Key observations:
 
 ### 4. Contrastive Captioners are Image-Text Foundation Models (CoCa) by Google [arXiv](https://arxiv.org/abs/2205.01917)
 
-Image Encoder + **Text Decoder** trained with contrastive learning. Then, Multi-modal (image+text) **decoder** trained with a captioning task. CoCa is both a contrastive (text-decoder) and generative (multi-modal-decoder) architecture. Two tasks learned simultaneously.
-
+CoCa is both a contrastive (text-decoder) and generative (multi-modal-decoder) architecture. Two tasks learned simultaneously. Image Encoder + **Text Decoder** trained with contrastive learning. Then, Multi-modal (image+text) **decoder** trained with a captioning task. 
 
 ![](./imgs/coca_google.png)
+
+### 5. A Jointly-Scaled Multilingual Language-Image Model (PALI) by Google [arXiv](https://arxiv.org/abs/2209.06794)
+
+Encoder-Decoder style -- like vanilla Attention Transformer -- that operates on both text and image inputs. PALI is trained using eight different supervision tasks!! This includes OCR, Captioning, VQA, Object Aware VQA, Object detection, etc.
+
+![](./imgs/pali_google.png)
+
+### 6. Flamingo: a Visual Language Model for Few-Shot Learning by Google [arXiv](https://arxiv.org/abs/2204.14198)
+
+First clear attempt for VLM models with a single pre-training objective (auto-regressive learning).
+This model is trained on all proprietary data.
+
+While CLIP align image and text pairs, Image-Bind align images with other modalities such as video, depth, audio, etc. In image-bind, the image modality is the central modality that clues all other modalities togethers.
+
+![](./imgs/flamingo_google.png)
+
+
+### 7. ImageBind: One Embedding Space To Bind Them All by Meta [arXiv](https://arxiv.org/abs/2305.05665)
+
+![](./imgs/imagebind_meta.png)
 
 ## Pre-training Datasets
 
