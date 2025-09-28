@@ -55,14 +55,22 @@ Encoder-Decoder style -- like vanilla Attention Transformer -- that operates on 
 First clear attempt for VLM models with a single pre-training objective (auto-regressive learning).
 This model is trained on all proprietary data.
 
-While CLIP align image and text pairs, Image-Bind align images with other modalities such as video, depth, audio, etc. In image-bind, the image modality is the central modality that clues all other modalities togethers.
-
 ![](./imgs/flamingo_google.png)
 
 
 ### 7. ImageBind: One Embedding Space To Bind Them All by Meta [arXiv](https://arxiv.org/abs/2305.05665)
 
+
+While CLIP align image and text pairs, Image-Bind align images with other modalities such as video, depth, audio, etc. In image-bind, the image modality is the central modality that clues all other modalities togethers.
+
 ![](./imgs/imagebind_meta.png)
+
+
+### 8. Visual Instruction Tuning by Microsoft [arXiv](https://arxiv.org/abs/2304.08485)
+
+Standard VLM with a projection layer aligning image to text (LLM) space. The paper uses multiple stages for fine-tuning: (1) Learning the projection layer, (2) fine-tuning the projection layer and LLM, (3) [optional] instruction tuning.
+
+![](./imgs/llava_microsoft.png)
 
 ## Pre-training Datasets
 
