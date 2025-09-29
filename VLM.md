@@ -91,6 +91,12 @@ English Img-Txt Pairs dataset
 English Img-Txt Pairs dataset, proprietary by OpenAI, used to train CLIP model
 400 Img-Txt Pairs
 
+### 4. YFCC100M: The New Data in Multimedia Research by Yahoo [arXiv](https://arxiv.org/abs/1503.01817)
+
+Flickr images collected by Yahoo that contains pairs of image and metadata (title, description, etc).
+
+![](./imgs/yfcc_yahoo.png)
+
 ## Benchmarks
 
 ### 1. Science Question Answering (ScienceQA) by AI2 [arXiv](https://arxiv.org/abs/2209.09513)
@@ -136,8 +142,14 @@ Also known as Stanford Natural Language Inferenc-Visual Entailment (SNLI-VE) ben
 
 ### 7. Natural Language Visual Reasoning for Real (NLVR2) by Cornell [arXiv](https://arxiv.org/abs/1811.00491)
 
-Each caption is paired with two images. The task is to predict if the caption is True or False. The examples require addressing challenging semantic phenomena, including resolving twice . . . as to counting and comparison of objects
+Each caption is paired with two images. The task is to predict if the caption is True or False. The examples require addressing challenging semantic phenomena, including resolving twice . . . as to counting and comparison of objects.
 
 ![](./imgs/NLVR2_cornell.png)
+
+### 8. FunQA: Towards Surprising Video Comprehension (FunQA) by Beijing University [arXiv](https://arxiv.org/abs/2306.14899)
+
+Video question answering (QA) dataset specifically designed to evaluate and enhance the depth of video reasoning based on counter-intuitive and fun videos.
+
+![](./imgs/funqa_beijing)
 
 
