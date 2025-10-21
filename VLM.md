@@ -28,7 +28,7 @@ BLIP leverages three training objectives:
 ### 4. Bootstrapping Language-Image Pre-training-v2 (BLIP-2) by Salesforce [arXiv](https://arxiv.org/abs/2301.12597)
 Train VLM with minimal computatinal cost (both frozen vision and LLM). 
 
-The paper trains a Q-former between a frozne vision encoder and an LLMs. The Q-former objective is to bridge the gap between the vision and text representation. To train Q-former, the paper propose a two-stage pipeline: The first stage uses BLIP three-objectives: ITC, ITM, and LM. The first stage objective is to align vision and text represnetations. The second stage is solely a generative language modeling (LM) stage. The second stage objective is to bootstrap vision-to-language generative learning. 
+The paper trains a Q-former between a frozne vision encoder and an LLMs. The Q-former objective is to bridge the gap between the vision and text representation. To train Q-former, the paper propose a two-stage pipeline: The first stage uses BLIP three-objectives: ITC, ITM, and LM. The first stage objective is to align vision and text represnetations. The second stage is solely a generative language modeling (LM) stage. The second stage objective is to bootstrap vision-to-language generative learning. Q-former contains two transformers that use a shared self-attention layer. The self-attention layer operates on both the learned queries and input text, but leverage different attention-masks depending on the training task (ITC, ITM, ITG).
 
 Key observations: 
 1. The Q-former can be regarded as a non-linear projection layer between the vision and text embedding which is a common approach in recent literature when training VLMs. 
@@ -150,6 +150,20 @@ Each caption is paired with two images. The task is to predict if the caption is
 
 Video question answering (QA) dataset specifically designed to evaluate and enhance the depth of video reasoning based on counter-intuitive and fun videos.
 
-![](./imgs/funqa_beijing)
+![](./imgs/funqa_beijing.png)
+
+### 9. From Recognition to Cognition: Visual Commonsense Reasoning (VCR) by AI2 [arXiv](https://arxiv.org/pdf/1811.10830)
+
+Given an image, a list of regions, and a question, a model must answer the question and provide a rationale explaining why its answer is right.
+
+![](./imgs/vcr_ai2.png)
+
+
+### 10. Localized, Compositional Video Question Answering (TVQA) by UNC [arXiv](https://arxiv.org/abs/1809.01696)
+
+A largescale video QA dataset based on 6 popular TV shows: The Big Bang Theory, How I Met Your Mother, Friends, Grey’s Anatomy, House, Castle.
+
+![](./imgs/vcr_ai2.png)
+
 
 
