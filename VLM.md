@@ -163,7 +163,14 @@ Given an image, a list of regions, and a question, a model must answer the quest
 
 A largescale video QA dataset based on 6 popular TV shows: The Big Bang Theory, How I Met Your Mother, Friends, Grey’s Anatomy, House, Castle.
 
-![](./imgs/vcr_ai2.png)
+![](./imgs/tvqa_unc.png)
+
+
+### 11. Point and Ask: Incorporating Pointing into Visual Question Answering (PointQA) by Princeton [arXiv](https://arxiv.org/abs/2011.13681)
+
+A point-input question-answer dataset as an extension of VQA.
+
+![](./imgs/pointqa_princeton.png)
 
 
 
