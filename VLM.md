@@ -173,4 +173,10 @@ A point-input question-answer dataset as an extension of VQA.
 ![](./imgs/pointqa_princeton.png)
 
 
+### 12. Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs (MMVP) by Meta [arXiv](https://arxiv.org/abs/2401.06209)
+
+* Multimodal Visual Patterns (MMVP) identify CLIP-blind pairs -- images with high CLIP similarity score, but low DINOv2 score. These images are used to evaluate VLMs in a standard a Visual Question Answering (VQA) manner.
+
+![](./imgs/mmvp_meta.png)
+
 
