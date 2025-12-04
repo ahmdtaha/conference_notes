@@ -179,4 +179,11 @@ A point-input question-answer dataset as an extension of VQA.
 
 ![](./imgs/mmvp_meta.png)
 
+### 13. OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge by AI2 [arXiv](https://arxiv.org/abs/1906.00067)
+
+* A VQA benchmark where the image content is not sufficient to answer the questions, encouraging methods that rely on external knowledge resources
+
+![](./imgs/ok_vqa_ai2.png)
+
+
 
