@@ -72,7 +72,7 @@ Standard VLM with a projection layer aligning image to text (LLM) space. The pap
 
 ![](./imgs/llava_microsoft.png)
 
-## Pre-training Datasets
+## Datasets
 
 ### 1.  Conceptual Captions 3M/12M (CC12M) by Google [arXiv](https://arxiv.org/abs/2102.08981)
 
