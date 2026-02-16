@@ -97,6 +97,13 @@ Flickr images collected by Yahoo that contains pairs of image and metadata (titl
 
 ![](./imgs/yfcc_yahoo.png)
 
+
+### 4. PixMO: Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models by Allen Institute for AI  [arXiv](https://arxiv.org/abs/2409.17146)
+
+A multi-modal open-source dataset for training VLMs without using any synthetic data from proprietary models. Besides the standard dense caption annotations, the dataset uses point-annotation to enable grounding and counting tasks cheaply -- without using bounding box and segmentation annotation.
+
+![](./imgs/pixmo_ai2.png)
+
 ## Benchmarks
 
 ### 1. Science Question Answering (ScienceQA) by AI2 [arXiv](https://arxiv.org/abs/2209.09513)
