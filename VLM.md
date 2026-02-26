@@ -209,3 +209,9 @@ MME evaluates MLLMs from both perception and cognition, including a total of 14 
 MM-Vet evaluates MLLMs on the integration of multiple core VL capabilities. These include recognition, OCR, knowledge, language generation, spatial awareness, and math.
 
 ![](./imgs/mmvet_microsoft.png)
+
+### 17. VizWiz Grand Challenge: Answering Visual Questions from Blind People by Texas Austin [arXiv](https://arxiv.org/abs/1802.08218)
+
+VizWiz contains visual questions from blind people, together with 10 crowdsourced answers per visual question. VizWiz differs from existing VQA datasets because (1) images are captured by blind photographers and so are often poor quality, (2) questions are spoken and so are more conversational, and (3) often visual questions cannot be answered.
+
+![](./imgs/vizwiz_texas.png)
