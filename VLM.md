@@ -192,5 +192,14 @@ A point-input question-answer dataset as an extension of VQA.
 
 ![](./imgs/ok_vqa_ai2.png)
 
+### 14. GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering by Stanford [arXiv](https://arxiv.org/abs/1902.09506)
 
+* A visual question-answering benchmark with with compositional Reasoning
 
+![](./imgs/gqa_stanford.png)
+
+### 15. MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models [arXiv](https://arxiv.org/abs/2306.13394)
+
+MME evaluates MLLMs from both perception and cognition, including a total of 14 subtasks. Each image corresponds to two questions whose answers are marked yes [Y] and no [N], respectively. The instruction consists of a question followed by “Please answer yes or no”. It is worth noting that all instructions are manually designed.
+
+![](./imgs/mme_tencent.png)
