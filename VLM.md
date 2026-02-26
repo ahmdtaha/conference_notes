@@ -215,3 +215,10 @@ MM-Vet evaluates MLLMs on the integration of multiple core VL capabilities. Thes
 VizWiz contains visual questions from blind people, together with 10 crowdsourced answers per visual question. VizWiz differs from existing VQA datasets because (1) images are captured by blind photographers and so are often poor quality, (2) questions are spoken and so are more conversational, and (3) often visual questions cannot be answered.
 
 ![](./imgs/vizwiz_texas.png)
+
+
+### 18. TextVQA: Towards VQA Models That Can Read by FAIR/Meta [arXiv](https://arxiv.org/pdf/1904.08920)
+
+TextVQA questions require VQA models to understand text embedded in the images to answer them correctly
+
+![](./imgs/textvqa_meta.png)
