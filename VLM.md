@@ -219,6 +219,27 @@ VizWiz contains visual questions from blind people, together with 10 crowdsource
 
 ### 18. TextVQA: Towards VQA Models That Can Read by FAIR/Meta [arXiv](https://arxiv.org/pdf/1904.08920)
 
-TextVQA questions require VQA models to understand text embedded in the images to answer them correctly
+TextVQA questions require VQA models to understand text embedded in the images to answer them correctly.
 
 ![](./imgs/textvqa_meta.png)
+
+
+### 19. MMBench: Is Your Multi-modal Model an All-around Player? by Shanghai AI Lab [arXiv](https://arxiv.org/abs/2307.06281)
+
+MMBench contains over 3000 multiple-choice questions covering 20 different ability dimensions, such as object localization and social reasoning, for evaluating vision-language models. MMBench is multilingual and uses CircularEval.
+
+![](./imgs/mmbench_shanghai.png)
+
+
+### 20. POPE: Evaluating Object Hallucination in Large Vision-Language Models by Gaoling School [arXiv](https://arxiv.org/abs/2305.10355)
+
+POPE evaluates a model's hallucination through a binary classification task by the probing about objects (e.g., Is there a car in the image?). POPE employs different sampling strategies (random, popular, adversarial) to control the difficulty of the benchmark.
+
+![](./imgs/pope_gaoling.png)
+
+
+### 21. SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension by Tencent [arXiv](https://arxiv.org/abs/2307.16125)
+
+SEED-Bench evaluates LMMs through QA pairs about images and videos across 12 evaluation dimensions.
+
+![](./imgs/seed_bench_tencent.png)
