@@ -198,8 +198,14 @@ A point-input question-answer dataset as an extension of VQA.
 
 ![](./imgs/gqa_stanford.png)
 
-### 15. MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models [arXiv](https://arxiv.org/abs/2306.13394)
+### 15. MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models by Tencent [arXiv](https://arxiv.org/abs/2306.13394)
 
 MME evaluates MLLMs from both perception and cognition, including a total of 14 subtasks. Each image corresponds to two questions whose answers are marked yes [Y] and no [N], respectively. The instruction consists of a question followed by “Please answer yes or no”. It is worth noting that all instructions are manually designed.
 
 ![](./imgs/mme_tencent.png)
+
+### 16. MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities by Microsoft [arXiv](https://arxiv.org/abs/2308.02490)
+
+MM-Vet evaluates MLLMs on the integration of multiple core VL capabilities. These include recognition, OCR, knowledge, language generation, spatial awareness, and math.
+
+![](./imgs/mmvet_microsoft.png)
