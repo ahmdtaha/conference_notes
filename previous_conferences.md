@@ -342,6 +342,11 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * NICE: Non-Linear Independent Components Estimation `ICLR2015`
 * Training Deep Neural Networks on Noisy Labels with Bootstrapping `ICLR2015` `Workshop`
 * Understanding Locally Competitive Networks `ICLR2015`
+* Generative Moment Matching Networks `CA` `Toronto` 
+	> Motivation: Train a generative network that is less complex compared to GANs
+	
+	> Method: The paper proposes Gaussian Moment Matching networks (GMMNs) that minimize a single objective -- instead of GANs' minimax. GMMNs minimize the maximum mean discrepancy (MMD) between the real and generated data distribution. The Maximum mean discrepancy is computationally expensive to compute in data space which it is high-dimensional. Accordingly, the paper trains an autoencoder first that learns a small-dimensional latent variable z, also known as a code. Then, a GMMN is trained to mimic the autoencoder code (the latent variable z). Once latent, the GMMN can be used to generate the code, which is then fed into the decoder network to generate an actual sample.
+	
 * Deeply-Supervised Nets `PMLR2015`
 	> Apply loss on intermediate features so it is more discriminative
 * Highway networks  `arXiv2015`
