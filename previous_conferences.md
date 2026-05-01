@@ -324,9 +324,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 	> Interactive query expansion for medical case retrieval using Rocchio relevance feedback (RRF) algorithm. No clinical studies; just evaluation for the impact of RRF. Seems to be a paper revision
 * Interactive Content-Based Image Retrieval (CBIR) Computer-Aided Diagnosis (CADx) System for Ultrasound Breast Masses using Relevance Feedback `MedicalImaging2011`
 	> Interactive query expansion for medical case retrieval using Rocchio relevance feedback (RRF) algorithm. No clinical studies; just evaluation for the impact of RRF. 
-* Learning to compare image patches via convolutional neural networks **#cvpr2015**
-* Matchnet: Unifying feature and metric learning for patch-based matching **#cvpr2015** **#industry** 
-* Understanding image representations by measuring their equivariance and equivalence **#cvpr2015** `Oxford`
+* Learning to compare image patches via convolutional neural networks `cvpr2015`
+* Matchnet: Unifying feature and metric learning for patch-based matching `cvpr2015` `industry` 
+* Understanding image representations by measuring their equivariance and equivalence `cvpr2015` `Oxford`
 	> equivariance: A single model applied on two image variants should generate two representations that are equivalent through a matrix transformation. Equivalence: Two models applied on a single image should generate the similar/replacable representations such that the two models can be stitched on top of each other. 
 * FaceNet: A unified embedding for face recognition and clustering **#cvpr2015** **#industry** 
 * Efficient object localization using convolutional networks **#cvpr2015** 
@@ -390,9 +390,11 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Multimodal behavioral analysis for non-invasive stress detection `ES` `PT` `Expert Systems with Applications` `2012`
 	> A dataset with multimodal signals for stress detection. These signals are not physiological, but more behavioral. For instance, the dataset tracks touch pattern on a touch screen, touch intensity and duration, etc. The paper uses a tree as a machine learning classification model.
 
-* Unbiased Look at Dataset Bias **#cvpr2011**
-* The Power of Comparative Reasoning -- `PI_Reading_Grp` **#iccv2011**
-* On random weights and unsupervised feature learning **#icml2011**
+* Unbiased Look at Dataset Bias `cvpr2011`
+* The Power of Comparative Reasoning -- `PI_Reading_Grp` `iccv2011`
+* On random weights and unsupervised feature learning `icml2011`
+* Reduced lung-cancer mortality with low-dose computed tomographic screening `New England Journal of Medicine` `2011`
+	> A National Lung Screening Trial (NLST) evaluating the utility of low-dose CT scans for screening lung cancer compared to traditional chest X-rays. The trial indicates catches more lung cancer compared to x-ray, but with more false positives. The low-dose CT scans led to higher rates of non-lung cancer findings (heart, kidney, bones related issues).
 
 * Digital Mammography: Clinical Image Evaluation `Radiologic Clinics` `2010` `USA`
 	> Mammograph terminology: 
