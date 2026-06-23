@@ -384,6 +384,9 @@ Dynamic Memory Networks for Natural Language Processing **#icml2016**
 * Measuring the objectness of image windows **#pami2012**
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
 
+* Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes `ACCV2012` `US` `GE` `CH`
+	> The paper automate template generation -- from 3D CAD models -- to have better view-point range, which enables better detection and pose estimation. Once templates are generated, the paper uses template matching and propose multiple post-processing steps to filter-out false matches (positives). The proposed post-processing steps include color-based and depth-based rejection criteria. The paper releases the standard LINEMOD dataset.
+
 * DEAP: A Database for Emotion Analysis using Physiological Signals `Affective Computing` `2012` `UK`
 	> A new dataset that records signals from respiration amplitude, skin temperature, electrocardiogram, blood volume by plethysmograph, electromyograms of Zygomaticus and Trapezius muscles, and electrooculogram (EOG). The paper's objective is to predict user's emotions while watching one-minute videos through the recorded physiological signals.
 
