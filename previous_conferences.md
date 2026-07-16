@@ -188,17 +188,20 @@
 * A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning **#distill #cvpr2017**
 * ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases **#cvpr2017**
 * From Red Wine to Red Tomato: Composition with Context **#cvpr2017**
-* Focal Loss for Dense Object Detection **#iccv2017**
-* Online Video Object Detection using Association LSTM **#iccv2017**
+* Focal Loss for Dense Object Detection `ICCV2017`
+* Online Video Object Detection using Association LSTM `ICCV2017`
 	> Seems interesting but no code released!
 
-* SVDNet for Pedestrian Retrieval **#iccv2017**
-* Revisiting unreasonable effectiveness of data in deep learning era **#iccv2017**
-* Arbitrary style transfer in real-time with adaptive instance normalization. **#iccv2017**
-* Learning efficient convolutional networks through network slimming. **#iccv2017**
-* Deep Metric Learning with Angular Loss **#iccv2017**
-* Representation Learning by Learning to Count **#iccv2017**
+* SVDNet for Pedestrian Retrieval `ICCV2017`
+* Revisiting unreasonable effectiveness of data in deep learning era `ICCV2017`
+* Arbitrary style transfer in real-time with adaptive instance normalization. `ICCV2017`
+* Learning efficient convolutional networks through network slimming. `ICCV2017`
+* Deep Metric Learning with Angular Loss `ICCV2017`
+* Representation Learning by Learning to Count `ICCV2017`
 * Dynamic coattention networks for question answering **#coattention** `ICLR2017`
+* Lossy Image Compression with Compressive Autoencoders `ICLR2017`
+	> The paper proposed an autoencoder (AE) used for compression. While a vanilla AE aims to reduce reconstruction loss (distortion loss) only, a compression AE reduces distortion while minimizing the number of quantization bits. Unlike a vanilla AE that uses a continuous latent embedding, a compression AE learns a discrete code to encode or decode an input (image).
+	 
 * Adversarial feature learning `ICLR2017`
 * learned representation for artistic style. `ICLR2017` 
 * beta-vae: Learning basic visual concepts with a constrained variational framework `ICLR2017`
