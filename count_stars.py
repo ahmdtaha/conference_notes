@@ -50,11 +50,12 @@ def plot_asterisk_counts(years_list, counts_list, plot_filename='asterisk_counts
         )
         return
 
+    total_count = sum(counts_list)
     plt.figure(figsize=(10, 6))
     plt.bar(years_list, counts_list, color='skyblue')
     plt.xlabel("Year")
     plt.ylabel("Number of Asterisks (*)")
-    plt.title("Asterisk Counts in Conference Files per Year")
+    plt.title(f"Asterisk Counts in Conference Files per Year (Total: {total_count})")
     plt.xticks(years_list)  # Ensure all years are displayed as ticks
     plt.grid(axis='y', linestyle='--')
 
