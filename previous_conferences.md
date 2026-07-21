@@ -252,8 +252,10 @@
 * Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results **#nips2017**
 * A closer look at memorization in deep networks -- Well written paper **#icml2017**
 * DSD: Dense-Sparse-Dense Training for Deep Neural Networks **#iclr2017**
+
 * Understanding deep learning requires rethinking generalization **#iclr2017**
 	> Regularizatin is not enough to explain generalization. Most networks can easily over-fit (zero-train loss) on large datasets even when images are assigned random labels.
+
 * Temporal ensembling for semisupervised learning **#iclr2017** -- Dropout Potential
 * Pruning filters for efficient convnets **#iclr2017**
 * Squeezenet: Alexnet-Level Accuracy With 50X Fewer Parameters And <0.5Mb Model Size **#iclr2017**
@@ -261,29 +263,33 @@
 	> Overfitting models suffer membership attacks. Regularization helps mitigate this problem.
 
 * The impact of simulated motion blur on lesion detection performance in full-field digital mammography `BIR2017`
-	> The paper demostrate thet motion blur impacts both mass and calcifications in mammography. Yet, the impact on calcifications is more pronounced. Motion-blur can be responsible for ~90% of technical recalls. A free-response observer data denotes the annotations made by radiologist in a free-style environment, i.e., no constraint on how lesions were marked. Figure of merit (FOM) denotes the performance metric report, studied by the paper. `Lesions located within fibroglandular regions of high- density breast or those complicated by overlapping anatomical structures are more challenging to detect. Small calcification clusters with indefinite edges are considered the most difficult lesions to identify due to size and poor contrast.`
+	> 1. The paper demostrate thet motion blur impacts both mass and calcifications in mammography. Yet, the impact on calcifications is more pronounced. Motion blur can be responsible for ~90% of technical recalls. Free-response observer data denotes the annotations made by radiologists in a free-style environment, i.e., no constraint on how lesions were marked. Figure of merit (FOM) denotes the performance metric report, studied by the paper. `Lesions located within fibroglandular regions of high- density breast or those complicated by overlapping anatomical structures are more challenging to detect. Small calcification clusters with indefinite edges are considered the most difficult lesions to identify due to size and poor contrast.`
 	
 * Rethinking Atrous Convolution for Semantic Image Segmentation `arXiv2017` `Arch_Design`
 * Emotion Detection Using Noninvasive Low Cost Sensors `IT` `ACII2017`
 	> Use non-invasive sensors to classify emotions. The senors used are EEG for Brain waves, EMG for muscle contraction, and GSR for skin conductance. EMG seems to be less effective, but the sensor was attached to the participant arms. Classic classifier models (e.g., SVMs) are used. The dataset is, of course, tiny by today standards.
-* Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
-* Sketch Me That Shoe **#cvpr2016**
-* Convolutional Pose Machines **#cvpr2016**
-* You Only Look Once: Unified, Real-Time Object Detection **#cvpr2016**
-* Embedding Label Structures for Fine-Grained Feature Representation **#cvpr2016**
-* Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions **#cvpr2016**
-* Large Scale Semi-supervised Object Detection using Visual and Semantic Knowledge Transfer **#cvpr2016**
-* Factors in finetuning deep model for object detection with long-tail distribution **#cvpr2016**
-* Joint unsupervised learning of deep representations and image clusters **#cvpr2016**
-* Unsupervised learning of visual representations by solving jigsaw puzzles **#eccv2016**
-* Colorful Image Colorization **#eccv2016**
-* Learning without Forgetting **#eccv2016**
-* Identity Mappings in Deep Residual Networks **#eccv2016**
-* Less Is More: Towards Compact CNNs **#eccv2016**
+* Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions `CVPR2016`
+* Sketch Me That Shoe `CVPR2016`
+* Convolutional Pose Machines `CVPR2016`
+* You Only Look Once: Unified, Real-Time Object Detection `CVPR2016`
+* Embedding Label Structures for Fine-Grained Feature Representation `CVPR2016`
+* Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions `CVPR2016`
+* Large Scale Semi-supervised Object Detection using Visual and Semantic Knowledge Transfer `CVPR2016`
+* Factors in finetuning deep model for object detection with long-tail distribution `CVPR2016`
+* Joint unsupervised learning of deep representations and image clusters `CVPR2016`
+* Unsupervised learning of visual representations by solving jigsaw puzzles `ECCV2016`
+* Colorful Image Colorization `ECCV2016`
+* Learning without Forgetting `ECCV2016`
+* Identity Mappings in Deep Residual Networks `ECCV2016`
+* Less Is More: Towards Compact CNNs `ECCV2016`
 * Ask Me Anything:
-Dynamic Memory Networks for Natural Language Processing **#icml2016**
-* Unsupervised Deep Embedding for Clustering Analysis **#icml2016**
-* Dynamic Capacity Network **#icml2016**
+Dynamic Memory Networks for Natural Language Processing `ICML2016`
+* Unsupervised Deep Embedding for Clustering Analysis `ICML2016`
+* Dynamic Capacity Network `ICML2016` 
+
+* Return of Frustratingly Easy Domain Adaptation `AAAI2016`  `US` `SG` `Academia` `Domain` `Adaptation`
+	> 1. The paper presents an easy approach to reduce the domain gap between source and target domains. The paper assumes the target data has no labels and aims to reduce the distance (discrepancy) between source and target features during training. The paper achieves this by minimizing the 2nd-order (covariance) distance between source and target domains. The paper proposes to whiten the source features' covariance and re-color using the target features' covariance. Interestingly, the paper highlights the difference between bridging between domains (e.g., their method) using asymmetric transformation versus using symmetric transformations (e.g., MMD) to find a space that ignore the differences between both domains.
+	
 * Wide Residual Networks **#bmvc2016**
 * Context Matters: Refining Object Detection in Video with Recurrent Neural Networks **#bmvc2016**
 	> Feeding B BBox (and their features) to GRU
