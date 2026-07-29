@@ -368,9 +368,9 @@ Dynamic Memory Networks for Natural Language Processing `ICML2016`
 * Mammographic positioning quality of newly trained versus experienced radiographers in the Dutch breast cancer screening programme `European radiology` `NL`
 	> The papper Compare new (NR) vs. experienced (ER) radiographers performance in the Netherlands. NR seems superior to ERs which undermine the value of continuing medical education (CME) activities. "These results can possibly be explained by the fact that ER have a full schedule every day and, therefore, have less time for mammography examinations, compared to NR."
 	
-* Learning fine-grained image similarity with deep ranking **#cvpr2014**
-* DeepPose: Human Pose Estimation via Deep Neural Networks **#cvpr2014**
-* Rich Feature Hierarchies For Accurate Object Detection And Semantic Segmentation **#cvpr2014** `R-CNN`
+* Learning fine-grained image similarity with deep ranking `CVPR` `2014`
+* DeepPose: Human Pose Estimation via Deep Neural Networks `CVPR` `2014`
+* Rich Feature Hierarchies For Accurate Object Detection And Semantic Segmentation `CVPR` `2014` `R-CNN`
 * LSDA: Large Scale Detection Through Adaptation **#nips2014**
 
 * ReferItGame: Referring to Objects in Photographs of Natural Scenes `USA`
@@ -391,9 +391,12 @@ Dynamic Memory Networks for Natural Language Processing `ICML2016`
 * Mammogram image quality as a potential contributor to disparities in breast cancer stage at diagnosis: an observational study `BMC Cancer` `2013` `USA`
 	> Study the relationship between image-quality and diagnosis bias in mammograms. Poor image-quality leads to missed or late stage diagnosis. The paper investigates if there is a correlation between race/ethnicity/socioeconomic and image quality. The paper finds that high income level increases the odd of high-image quality signficantly. Technologist-associated image quality  (TAIQ) indicators tend to be lower than machine associated image quality (MAIQ). So positioning, compression, sharpness tend to score lower than contrast, exposure, noise and artifacts. Digital mammograms have significantly higher quality compared to analog mammograms. Image Quality indicates are inversely associated with breast cancer stage at diagnosis.
 	
-* AVA: A Large-Scale Database for Aesthetic Visual Analysis **#cvpr2012**
-* Measuring the objectness of image windows **#pami2012**
+* AVA: A Large-Scale Database for Aesthetic Visual Analysis `CVPR` `2012`
+* Measuring the objectness of image windows `PAMI` `2012`
 * INbreast: Toward a Full-field Digital Mammographic Database **#nlm2012**
+
+* Random forests for real time 3D face analysis `DE` `Pose` `IJCV` `BE` `CH`
+	> The paper proposes a random forest approach for face pose detection ( & nose-tip localization). The paper uses depth maps (e.g., from Kinect) to train and eval the random forest approaches. Random forest approaches better utilized large labeled dataset becuase each decision tree is trained on a subset of data and features. T
 
 * Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes `ACCV2012` `US` `GE` `CH`
 	> The paper automate template generation -- from 3D CAD models -- to have better view-point range, which enables better detection and pose estimation. Once templates are generated, the paper uses template matching and propose multiple post-processing steps to filter-out false matches (positives). The proposed post-processing steps include color-based and depth-based rejection criteria. The paper releases the standard LINEMOD dataset.
