@@ -7,18 +7,21 @@
 * Res2net: A new multi-scale backbone architecture **pami2019**
 * Measuring the Effects of Data Parallelism on Neural Network Training **jmlr2019** `Nice` `Analysis` `Google`
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
-* Micro-Batch Training with Batch-Channel Normalization and Weight Standardization **#arxiv2019** `WS` `BCN`
-* RoBERTa: A Robustly Optimized BERT Pretraining Approach `Optimized` `BERT` `Meta` **#arxiv2019**
-* Generating Diverse High-Fidelity Images with VQ-VAE-2 **#arxiv2019**
-* Fast Transformer Decoding: One Write-Head is All You Need **#arxiv2019** `Google`
+* Micro-Batch Training with Batch-Channel Normalization and Weight Standardization `arXiv` `2019` `WS` `BCN`
+* RoBERTa: A Robustly Optimized BERT Pretraining Approach `Optimized` `BERT` `Meta` `arXiv` `2019`
+* Unsupervised Domain Adaptation through Self-Supervision `Efros` `Darrell` `US` `Berkeley` `arXiv` `2019`
+	> The paper usese self-supervised learning tasks -- besides fully supervised task -- to align target and source domains together. Instead of optimizing a min-max problem or minimizing a measurement of distribution alignment, the paper promotes a shared aligned embedding using multiple self-supervised heads learning from both source and target domains.
+	
+* Generating Diverse High-Fidelity Images with VQ-VAE-2 `arXiv` `2019`
+* Fast Transformer Decoding: One Write-Head is All You Need `arXiv` `2019` `Google`
 	> Tackle transformer inference cost problem. Intsead of multiple heads for query, key, value, the paper propose multiple-heads for the query only, i.e., a single head for key and value.
-* On Mutual Information Maximization for Representation Learning **#arxiv2019**
-* Faster Neural Network Training with Data Echoing **#arxiv2019** -- `Nice paper`
-* Measuring Dataset Granularity **#arxiv2019**
-* Objects as Points **#arxiv2019**
-* On Empirical Comparisons of Optimizers for Deep Learning `Nice` `Google Brain` **#arxiv2019**
+* On Mutual Information Maximization for Representation Learning `arXiv` `2019`
+* Faster Neural Network Training with Data Echoing `arXiv` `2019` -- `Nice paper`
+* Measuring Dataset Granularity `arXiv` `2019`
+* Objects as Points `arXiv` `2019`
+* On Empirical Comparisons of Optimizers for Deep Learning `Nice` `Google Brain` `arXiv` `2019`
 * Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
-* Energy and policy considerations for deep learning in NLP **#arxiv2019** -- `Nice paper`
+* Energy and policy considerations for deep learning in NLP `arXiv` `2019` -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
 * Semi-supervised Domain Adaptation via Minimax Entropy
 	> Interesting `PI_Reading_Grp`
