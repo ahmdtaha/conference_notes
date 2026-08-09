@@ -23,6 +23,10 @@
 * Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
 * Energy and policy considerations for deep learning in NLP `arXiv` `2019` -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
+
+* Explaining the Ambiguity of Object Detection and 6D Pose From Visual Data `ICCV` `2019` `DE` `UK` `Stanford` `Huawei`	
+	> The paper tackles the problem of 6D pose estimation for objects with ambiguous poses (e.g., symmetric or occluded). Instead of predicting a single pose, the paper predicts M poses. Then, the paper uses PCA to decide if the object has ambiguous poses. For unambiguous  objects, the final pose is computed as a geometric mean of the predicted poses. For ambiguous objects, the M predicted poses are merged into a few poses using the mean-shift clustering algorithm, which doesn't require a prior on the number of clusters K.
+	
 * Semi-supervised Domain Adaptation via Minimax Entropy
 	> Interesting `PI_Reading_Grp`
 * The lottery ticket hypothesis: Finding sparse, trainable neural networks **#iclr2019**
