@@ -100,29 +100,33 @@
 
 * Improving Language Understanding by Generative Pre-Training **2018** -- `GPT-1` `OpenAI`
 * Language Models are Unsupervised Multitask Learners **2019** -- `GPT-2` `OpenAI`
-* Deep Image Prior **#bayes #cvpr2018**
-* CondenseNet: An Efficient DenseNet Using Learned Group Convolutions **#cvpr2018**
-* Neural baby talk **#cvpr2018**
-* Blockdrop: Dynamic inference paths in residual networks **#cvpr2018**
-* Hydranets: Specialized dynamic architectures for efficient inference **#cvpr2018**
-* NISP: Pruning Networks Using Neuron Importance Score Propagation **#cvpr2018**
-* Interpret neural networks by identifying critical data routing paths **#cvpr2018**
-* A Style-Based Generator Architecture for Generative Adversarial Networks **#cvpr2018**
-* Improvements to context based self-supervised learning **#cvpr2018**
-* Large-scale distance metric learning with uncertainty **#cvpr2018**
-* “Zero-Shot” Super-Resolution using Deep Internal Learning **#cvpr2018**
-* Joint optimization framework for learning with noisy labels **#cvpr2018**
-* Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination **#cvpr2018** -- interesting 
-* Squeeze-and-Excitation Networks **#cvpr2018**
-* Data Distillation: Towards Omni-Supervised Learning **#cvpr2018**
-* Between-class learning for image classification **#cvpr2018**
-* MobileNetV2: Inverted Residuals and Linear Bottlenecks **#cvpr2018**
-* Boosting Self-Supervised Learning via Knowledge Transfer **#cvpr2018**
-* Separating Style and Content for Generalized Style Transfer **#cvpr2018**
-* Local descriptors optimized for average precision **#cvpr2018**
-* Cleannet: Transfer learning for scalable image classifier training with label noise. **#cvpr2018**
-* Mining on Manifolds: Metric Learning without Labels **#cvpr2018**
-* Weakly supervised instance segmentation using class peak response -- **cvpr2018** important :hash:code
+* Deep Image Prior **#bayes** `CVPR` `2018`
+
+* A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation `CVPR` `2018` `CH`
+	> The paper propose an algorithm for processing event-based camera events. Event-cameras have large dynamic range, high frequencies, lower power consumption, smaller latency compared to traditional RGB cameras. Despite these advantages, estimaton algorithms (e.g., optical flow) are not mature, or developed, as those for RGB image. So, this paper leverage contrast maximize (CM) to create an image of warped events. Depending on the application, CM optimize a set of hyperparameters (e.g., optical flow 2D vector) to create an optical flow image without blur, i.e., a sharp image. The paper applies their proposal on the following application: optical flow, depth estimation, (rotational) motion estimation.
+	
+* CondenseNet: An Efficient DenseNet Using Learned Group Convolutions `CVPR` `2018`
+* Neural baby talk `CVPR` `2018`
+* Blockdrop: Dynamic inference paths in residual networks `CVPR` `2018`
+* Hydranets: Specialized dynamic architectures for efficient inference `CVPR` `2018`
+* NISP: Pruning Networks Using Neuron Importance Score Propagation `CVPR` `2018`
+* Interpret neural networks by identifying critical data routing paths `CVPR` `2018`
+* A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR` `2018`
+* Improvements to context based self-supervised learning `CVPR` `2018`
+* Large-scale distance metric learning with uncertainty `CVPR` `2018`
+* “Zero-Shot” Super-Resolution using Deep Internal Learning `CVPR` `2018`
+* Joint optimization framework for learning with noisy labels `CVPR` `2018`
+* Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination `CVPR` `2018` `interesting`
+* Squeeze-and-Excitation Networks `CVPR` `2018`
+* Data Distillation: Towards Omni-Supervised Learning `CVPR` `2018`
+* Between-class learning for image classification `CVPR` `2018`
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks `CVPR` `2018`
+* Boosting Self-Supervised Learning via Knowledge Transfer `CVPR` `2018`
+* Separating Style and Content for Generalized Style Transfer `CVPR` `2018`
+* Local descriptors optimized for average precision `CVPR` `2018`
+* Cleannet: Transfer learning for scalable image classifier training with label noise. `CVPR` `2018`
+* Mining on Manifolds: Metric Learning without Labels `CVPR` `2018`
+* Weakly supervised instance segmentation using class peak response -- `CVPR` `2018` important :hash:code
 * Dynamic Deep Neural Networks: Optimizing Accuracy-Efficiency Trade-offs by Selective Execution **aaai2018**
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Rise: Randomized input sampling for explanation of black-box models  **#bmvc2018#**
