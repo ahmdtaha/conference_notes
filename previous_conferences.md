@@ -1,9 +1,17 @@
-* Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering **#aaai2019**
-* Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network **#aaai2019**
-* Augmenting neural networks with first- order logic **#acl2019**
+* Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering `AAAI` `2019`
+
+* Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network `AAAI` `2019`
+
+* Augmenting neural networks with first- order logic `ACL` `2019`
+
 * EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks `ACL2009`
 	> propose simple augmentation approaches for text dataset. This is particularly useful for small datasets (e.g., medical report datasets).
-* Convolutional networks with adaptive inference graphs **#ijcv2019** -- `Nice paper`
+
+* Convolutional networks with adaptive inference graphs `IJCV` `2019` -- `Nice paper`
+
+* DeepIM: Deep Iterative Matching for 6D Pose Estimation `IJCV` `2019` `Pose` `Render&Compare`
+	> The paper proposes DeepIM , the first render-and-compare version integrating a deep learning model. The paper uses the FlowNetSimple network -- with multiple output branches -- to predict a relative pose estimate between rendered and observed images. Both rendered and observed images (along with foreground masks) are fed as multi-channel images to the network. Given an initial pose estimate, DeepIM refines the pose iteratively—through 4 iterations or until convergence—so the observed image closely matches the rendered image.
+	
 * Res2net: A new multi-scale backbone architecture **pami2019**
 * Measuring the Effects of Data Parallelism on Neural Network Training **jmlr2019** `Nice` `Analysis` `Google`
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
