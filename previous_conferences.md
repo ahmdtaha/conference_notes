@@ -289,6 +289,10 @@
 * Rethinking Atrous Convolution for Semantic Image Segmentation `arXiv2017` `Arch_Design`
 * Emotion Detection Using Noninvasive Low Cost Sensors `IT` `ACII2017`
 	> Use non-invasive sensors to classify emotions. The senors used are EEG for Brain waves, EMG for muscle contraction, and GSR for skin conductance. EMG seems to be less effective, but the sensor was attached to the participant arms. Classic classifier models (e.g., SVMs) are used. The dataset is, of course, tiny by today standards.
+	
+* EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real Time `CH` `IEEE` `Odometry` `SLAM` `Tracking` `Event` `ROBOTICS AND AUTOMATION` `Academia`
+	> The paper proposes EVO, an event-based method for visual odometry. Visual odometry is a subset of SLAM problem. VO track the camera pose through time and create a locally -- not global -- consistent map without loop closure. For camera tracking, EVO assumes access to 3D Map (point cloud). This map is projected onto a synthetic image M assuming Pose T. The image M is compared against the event camera observation I -- which serve as the ground-truth. EVO aligns M with I by iteratively updating the initial pose estimate T. The relative pose estimate \delta T is estimated using inverse compositional Lucas-Kanade (LK) method. EVO has other features like creating a 3D point cloud map using a single event-based camera only. EVO also supports intensity image reconstruction.
+	
 * Learning local image descriptors with deep siamese and triplet convolutional networks by minimising global loss functions `CVPR2016`
 * Sketch Me That Shoe `CVPR2016`
 * Convolutional Pose Machines `CVPR2016`
