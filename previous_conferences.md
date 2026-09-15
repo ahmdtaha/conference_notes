@@ -394,7 +394,7 @@ Dynamic Memory Networks for Natural Language Processing `ICML2016`
 * Learning fine-grained image similarity with deep ranking `CVPR` `2014`
 * DeepPose: Human Pose Estimation via Deep Neural Networks `CVPR` `2014`
 * Rich Feature Hierarchies For Accurate Object Detection And Semantic Segmentation `CVPR` `2014` `R-CNN`
-* LSDA: Large Scale Detection Through Adaptation **#nips2014**
+* LSDA: Large Scale Detection Through Adaptation `NIPS` `2014`
 
 * ReferItGame: Referring to Objects in Photographs of Natural Scenes `USA`
 	> The paper builds a game to collect referring expression R for a target object P in a scene S. The game helps collected a RefCOCO dataset where an object is linked with referring expression annotation. The dataset was used to build a primative referring expression generation (REG) model that generates an expression for a give object P in a scene S. Thanks to Escalante et al., the dataset is accompanied by segmentations for each object (region). So, RefCOCO is a good datasets for  referring expression tasks such as generation, comprehension, and segmentation.
@@ -406,7 +406,7 @@ Dynamic Memory Networks for Natural Language Processing `ICML2016`
 * Write a Classifier: Zero-Shot Learning Using Purely Textual Description **#iccv2013**
 	> Heavy numerical optimization
 * Fast dropout training **#icml2013**
-* Adaptive dropout for training deep neural networks **#nips2013**
+* Adaptive dropout for training deep neural networks `NIPS` `2013`
 * Maxout networks **#arvix2013** -- When Goodfellow was young
 * Clinical Experience Sharing by Similar Case Retrieval `Turkey` `ACM` `Workshop` `MIIRH2013`
 	> Create a retrieval-based system for 3D liver volumes. The system uses both image and non-image modality. The paper motivates the system for clinical experience sharing. This can be utilized in for educational purposes and preventing "situations, where lack of medical experience might have negative effects on diagnosis". Unfortunately, the proposed system is never evaluated in a clinical settings. The proposal is evaluated only using a toy retrieval setup.
@@ -459,13 +459,16 @@ Dynamic Memory Networks for Natural Language Processing `ICML2016`
 	
 * Understanding the difficulty of training deep feedforward neural networks **#ai & stats 2010**
 * Why does unsupervised pre-training help deep learning **#jmlr2010**
-* What is the best multi-stage architecture for object recognition? **#iccv2009**
+* What is the best multi-stage architecture for object recognition? `ICCV` `2009`
 * Measuring Invariances in Deep Networks `NIPS2009`
 * Weighted sums of random kitchen sinks: Replacing minimization with randomization in learning `NIPS2008`
 * Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval `ICCV2007`
 * How to Read a Paper `2007`
 	> First pass 5 mins, second pass 1 hr, third pass 4-5 hrs for beginners/1 hr for experienced
-* Greedy Layer-Wise Training of Deep Networks `NIPS2006`
+* Greedy Layer-Wise Training of Deep Networks `NIPS` `2006`
+* High Accuracy Optical Flow Serves 3-D Pose Tracking: Exploiting Contour and Flow Based Constraints `Pose` `SnT` `DE` `MaxPlanck` `ECCV` `2006`
+	> The paper proposes a pose-tracking approach that solves a 2D-3D feature-correspondence optimization problem. The 2D-3D correspondence features are extracted from both contours and optical flow. Each feature has pros and cons. The contour-correspondence features are less accurate but also less susceptible to drift because they are based on the current frame -- and the projection of the 3D object. In contrast, the optical-flow-correspondence features are more accurate, but more susceptible to drift because it depends on the previous pose estimate. The paper uses an interesting trick to solve the correspondence problem more efficiently. Instead of using 1st order gradient to optimize the non-linear objective, the paper linearizes the optimization objective and then uses 2nd order gradient (Hessian) based method -- requires neither lr nor many steps.
+	
 * The development of embodied cognition: Six lessons from babies. **Artificiallife2005**
 * Semi-supervised learning by entropy minimization `NIPS2004` -- A simple and good idea but the notation! 
 * The Dynamic Representation of Scenes **#VisCog2000**
