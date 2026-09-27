@@ -153,20 +153,29 @@
 * Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks `MIDL2018`
 	> Use test-time augmentation for aleatoric uncertainty estimation with application in medical field.
 * Self-Attention with Relative Position Representations **#naacl2018**
-* Sanity checks for saliency maps. **#nips2018**
-* Neighbourhood Consensus Networks. **#nips2018**
-* Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels **#nips2018**
+* Gromov-Wasserstein Alignment of Word Embedding Spaces `EMNLP2018` `MIT` `Academia` `US`
+	> The paper uses an entropy regularized Gromov-Wasserstein (GW) to tackle bilingual lexical induction, i.e., learning a mapping (T) from one language to another. This problem is easy in a supervised setting where words already matched across domains (languages) and the problem is just to learn the mapping T. Yet, the paper tackles the same problem in an unsupervised settings, i.e., one word-matching across languages. The paper uses RegGW to learn a matching across domain (languages) using pairwise distance (cosine sim) within domains. The paper didn't use traditional OT, which is easier to compute, because it assumes same representation basis across domains. Same basis means both same embedding dimension, same order of axes. Monolingual embedding violates this assumption because each embedding is learned independently, i.e., these no sense of absolute distance across domains, just a pairwise cos similarity. While Gromove Wasserstein can handle domains with non-common (different) representations, the formulation is non-linear and non-convex. Surprisinly, this formulation can be optimized using 1st order (gradient) optimization method -- an iterative approach with each step solving a traditional OT method. The recommended hyperparameters for GW: (1) Use L2 loss where matching distance across domains, (2) normalize the cost matrix to reduce the sensitivity of entropy regularizer \lambda.
+	
+	> Traditional optimal transport is called Monge optimal transport where the learned coupling/matching/assignment maps an entire mass from source to target, i.e., no mass (weight splitting). Kantorovich relaxes this constraint, allowing weight splitting. Kantorovich optimal transport is a linear programming problem: A polytope with an optimal solution on a vertex. While Kantorovich enables weight splitting, it usually learn a sharp matching/assignment. Thus, an entropy regularized Kantorovich optimal transport -- another OT variant -- has been proposed to learn a smooth/softer matching. This smooth matching tend to be less accurate but easier (more efficient) to compute. The entropy regularized Kantorovich OT can be solved iteratively using Sinkhorn-Knopp algorithm.
+	
+	> Zipf's law says a word frequency is roughly inversely proportional to its rank.
+	
+	> There are three types of matching: (1) sharp mapping where an entire weight is matching from source to target, (2) soft mapping where a weight can be split into different targets, (3) Barycentric mapping where a weight is mapped to a weighted sum of different targets (hypothetical targets).
+	
+* Sanity checks for saliency maps. `NIPS2018`
+* Neighbourhood Consensus Networks. `NIPS2018`
+* Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels `NIPS2018`
 	> 	Assumes a noisy dataset; propose a loss function that assigns low weights to noisy (hard) samples and high weights to correct (easy) samples.
-* Visualizing the Loss Landscape of Neural Nets **#nips2018** `Nice` `UMD`
+* Visualizing the Loss Landscape of Neural Nets `NIPS2018` `Nice` `UMD`
 	> Run approx 2500 evaluation on the validation set; accordingly better use mpi
-* Mixup: Beyond Empirical Risk Minimization **#iclr2018**
-* Meta-learning for semi-supervised few-shot classification **#iclr2018**
-* Progressive growing of gans for improvedquality, stability, and variation **#iclr2018**
-* Born again neural networks. **#icml2018**
-* Mine: mutual information neural estimation **#icml2018**
-* Similarity of Neural Network Representations Revisited **#icml2018**
-* Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. **#icml2018**
-* Fast decoding in sequence models using discrete latent variables **#icml2018** -- Nice paper
+* Mixup: Beyond Empirical Risk Minimization `ICLR2018`
+* Meta-learning for semi-supervised few-shot classification `ICLR2018`
+* Progressive growing of gans for improvedquality, stability, and variation `ICLR2018`
+* Born again neural networks. `ICML2018`
+* Mine: mutual information neural estimation `ICML2018`
+* Similarity of Neural Network Representations Revisited `ICML2018`
+* Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples. `ICML2018`
+* Fast decoding in sequence models using discrete latent variables `ICML2018` -- Nice paper
 * Stochastic video generation with a learned prior `PMLR2018` `NYU` `Facebook` `PI_Reading_Grp`
 	> The paper propose a stochastic video generation model that depends on a latent variable z. The latent variable is learned during training from future frame "Teacher Forcing". Simultaneously, the model learns an approximation to z -- called z'-- using current/past frames only. During, inference,  z' guides the future frame generation. This learning process help capture the  full distribution of future frames and avoid blurry generations.
 * Accelerating deep metric learning via cross sample similarities transfer ([code](https://github.com/TuSimple/DarkRank/blob/master/PYOP/listmle_loss.py)) **#aaai2018**
