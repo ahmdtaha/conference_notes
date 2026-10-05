@@ -229,6 +229,9 @@
 * Deep Metric Learning with Angular Loss `ICCV2017`
 * Representation Learning by Learning to Count `ICCV2017`
 * Dynamic coattention networks for question answering **#coattention** `ICLR2017`
+* Revisiting Batch Normalization For Practical Domain Adaptation `ICLR2017`
+	> The paper proposes a simple BN trick to reduce the domain gap. The trick is to use independent mini-batches per domain  such that each domain is normalized independently during training. After training, the model weights encode task knowledge, while the BN stats encode domain bias. Accordingly, the paper saves/re-computes the domain BN statistics again before running inference. While this approach is very simple and clearly doesn't solve the domain adaptation problem, the approach helps stabilize training and evaluation while developing new approaches for domain adaptation.
+	  
 * Lossy Image Compression with Compressive Autoencoders `ICLR2017`
 	> The paper proposed an autoencoder (AE) used for compression. While a vanilla AE aims to reduce reconstruction loss (distortion loss) only, a compression AE reduces distortion while minimizing the number of quantization bits. Unlike a vanilla AE that uses a continuous latent embedding, a compression AE learns a discrete code to encode or decode an input (image).
 	 
@@ -239,13 +242,13 @@
 * Sgdr: Stochastic gradient descent with warm restart `ICLR2017`
 * Density Estimation using Real-NVP `Canada` `Mila` `Google` `ICLR2017`
 	> Propose a flow-based generative model that is non-volume preserving with efficient Jacobian determinant computation. The paper propose affine-coupling layers that are invertible. The paper propose and leverage multi-scale and BatchNorm within their layers for better expressivity
-* Split-brain autoencoders: Unsupervised learning by cross-channel prediction **cvpr2017**
-* Universal Adversarial Perturbations **cvpr2017**
-* Feature Pyramid Networks for Object Detection **cvpr2017**
-* YOLO9000: Better, Faster, Stronger **cvpr2017**
-* spatially adaptive computation time for residual networks **cvpr2017**
-* No fuss distance metric learning using proxies **cvpr2017**
-* iCaRL: Incremental classifier and representation learning **cvpr2017**
+* Split-brain autoencoders: Unsupervised learning by cross-channel prediction `CVPR2017`
+* Universal Adversarial Perturbations `CVPR2017`
+* Feature Pyramid Networks for Object Detection `CVPR2017`
+* YOLO9000: Better, Faster, Stronger `CVPR2017`
+* spatially adaptive computation time for residual networks `CVPR2017`
+* No fuss distance metric learning using proxies `CVPR2017`
+* iCaRL: Incremental classifier and representation learning `CVPR2017`
 * Deep Mutual Learning **#nips2017**
 * Runtime neural pruning **#nips2017**
 * Train longer, generalize better: closing the generalization gap in large batch training of neural networks **#nips2017**
