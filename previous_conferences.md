@@ -1,15 +1,15 @@
 * Energy Confused Adversarial Metric Learning for Zero-Shot Image Retrieval and Clustering `AAAI` `2019`
 
-* Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network `AAAI` `2019`
+* Weighted Channel Dropout for Regularization of Deep Convolutional Neural Network `AAAI2019`
 
-* Augmenting neural networks with first- order logic `ACL` `2019`
+* Augmenting neural networks with first- order logic `ACL2019`
 
 * EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks `ACL2009`
 	> propose simple augmentation approaches for text dataset. This is particularly useful for small datasets (e.g., medical report datasets).
 
-* Convolutional networks with adaptive inference graphs `IJCV` `2019` -- `Nice paper`
+* Convolutional networks with adaptive inference graphs `IJCV2019` -- `Nice paper`
 
-* DeepIM: Deep Iterative Matching for 6D Pose Estimation `IJCV` `2019` `Pose` `Render&Compare`
+* DeepIM: Deep Iterative Matching for 6D Pose Estimation `IJCV2019` `Pose` `Render&Compare`
 	> The paper proposes DeepIM , the first render-and-compare version integrating a deep learning model. The paper uses the FlowNetSimple network -- with multiple output branches -- to predict a relative pose estimate between rendered and observed images. Both rendered and observed images (along with foreground masks) are fed as multi-channel images to the network. Given an initial pose estimate, DeepIM refines the pose iteratively—through 4 iterations or until convergence—so the observed image closely matches the rendered image.
 	
 * Res2net: A new multi-scale backbone architecture **pami2019**
@@ -27,12 +27,12 @@
 * Faster Neural Network Training with Data Echoing `arXiv` `2019` -- `Nice paper`
 * Measuring Dataset Granularity `arXiv` `2019`
 * Objects as Points `arXiv` `2019`
-* On Empirical Comparisons of Optimizers for Deep Learning `Nice` `Google Brain` `arXiv` `2019`
+* On Empirical Comparisons of Optimizers for Deep Learning `Nice` `Google Brain` `arXiv2019`
 * Gacnn: Training Deep Convolutional Neural Networks With Genetic Algorithm **#NeuralEvolutionaryComputing2019**
 * Energy and policy considerations for deep learning in NLP `arXiv` `2019` -- `Nice paper`
 * Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing **#crv2019** -- `Nice paper`
 
-* Explaining the Ambiguity of Object Detection and 6D Pose From Visual Data `ICCV` `2019` `DE` `UK` `Stanford` `Huawei`	
+* Explaining the Ambiguity of Object Detection and 6D Pose From Visual Data `ICCV2019` `DE` `UK` `Stanford` `Huawei`	
 	> The paper tackles the problem of 6D pose estimation for objects with ambiguous poses (e.g., symmetric or occluded). Instead of predicting a single pose, the paper predicts M poses. Then, the paper uses PCA to decide if the object has ambiguous poses. For unambiguous  objects, the final pose is computed as a geometric mean of the predicted poses. For ambiguous objects, the M predicted poses are merged into a few poses using the mean-shift clustering algorithm, which doesn't require a prior on the number of clusters K.
 	
 * Semi-supervised Domain Adaptation via Minimax Entropy
@@ -113,28 +113,28 @@
 * A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth, and Optical Flow Estimation `CVPR` `2018` `CH`
 	> The paper propose an algorithm for processing event-based camera events. Event-cameras have large dynamic range, high frequencies, lower power consumption, smaller latency compared to traditional RGB cameras. Despite these advantages, estimaton algorithms (e.g., optical flow) are not mature, or developed, as those for RGB image. So, this paper leverage contrast maximize (CM) to create an image of warped events. Depending on the application, CM optimize a set of hyperparameters (e.g., optical flow 2D vector) to create an optical flow image without blur, i.e., a sharp image. The paper applies their proposal on the following application: optical flow, depth estimation, (rotational) motion estimation.
 	
-* CondenseNet: An Efficient DenseNet Using Learned Group Convolutions `CVPR` `2018`
-* Neural baby talk `CVPR` `2018`
-* Blockdrop: Dynamic inference paths in residual networks `CVPR` `2018`
-* Hydranets: Specialized dynamic architectures for efficient inference `CVPR` `2018`
-* NISP: Pruning Networks Using Neuron Importance Score Propagation `CVPR` `2018`
-* Interpret neural networks by identifying critical data routing paths `CVPR` `2018`
-* A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR` `2018`
-* Improvements to context based self-supervised learning `CVPR` `2018`
-* Large-scale distance metric learning with uncertainty `CVPR` `2018`
-* “Zero-Shot” Super-Resolution using Deep Internal Learning `CVPR` `2018`
-* Joint optimization framework for learning with noisy labels `CVPR` `2018`
-* Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination `CVPR` `2018` `interesting`
-* Squeeze-and-Excitation Networks `CVPR` `2018`
-* Data Distillation: Towards Omni-Supervised Learning `CVPR` `2018`
-* Between-class learning for image classification `CVPR` `2018`
-* MobileNetV2: Inverted Residuals and Linear Bottlenecks `CVPR` `2018`
-* Boosting Self-Supervised Learning via Knowledge Transfer `CVPR` `2018`
-* Separating Style and Content for Generalized Style Transfer `CVPR` `2018`
-* Local descriptors optimized for average precision `CVPR` `2018`
-* Cleannet: Transfer learning for scalable image classifier training with label noise. `CVPR` `2018`
-* Mining on Manifolds: Metric Learning without Labels `CVPR` `2018`
-* Weakly supervised instance segmentation using class peak response -- `CVPR` `2018` important :hash:code
+* CondenseNet: An Efficient DenseNet Using Learned Group Convolutions `CVPR2018`
+* Neural baby talk `CVPR2018`
+* Blockdrop: Dynamic inference paths in residual networks `CVPR2018`
+* Hydranets: Specialized dynamic architectures for efficient inference `CVPR2018`
+* NISP: Pruning Networks Using Neuron Importance Score Propagation `CVPR2018`
+* Interpret neural networks by identifying critical data routing paths `CVPR2018`
+* A Style-Based Generator Architecture for Generative Adversarial Networks `CVPR2018`
+* Improvements to context based self-supervised learning `CVPR2018`
+* Large-scale distance metric learning with uncertainty `CVPR2018`
+* “Zero-Shot” Super-Resolution using Deep Internal Learning `CVPR2018`
+* Joint optimization framework for learning with noisy labels `CVPR2018`
+* Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination `CVPR2018` `interesting`
+* Squeeze-and-Excitation Networks `CVPR2018`
+* Data Distillation: Towards Omni-Supervised Learning `CVPR2018`
+* Between-class learning for image classification `CVPR2018`
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks `CVPR2018`
+* Boosting Self-Supervised Learning via Knowledge Transfer `CVPR2018`
+* Separating Style and Content for Generalized Style Transfer `CVPR2018`
+* Local descriptors optimized for average precision `CVPR2018`
+* Cleannet: Transfer learning for scalable image classifier training with label noise. `CVPR2018`
+* Mining on Manifolds: Metric Learning without Labels `CVPR2018`
+* Weakly supervised instance segmentation using class peak response -- `CVPR2018` important :hash:code
 * Dynamic Deep Neural Networks: Optimizing Accuracy-Efficiency Trade-offs by Selective Execution **aaai2018**
 * VSE++: Improved visual-semantic embeddings. **#bmvc2018#**
 * Rise: Randomized input sampling for explanation of black-box models  **#bmvc2018#**
@@ -249,15 +249,19 @@
 * spatially adaptive computation time for residual networks `CVPR2017`
 * No fuss distance metric learning using proxies `CVPR2017`
 * iCaRL: Incremental classifier and representation learning `CVPR2017`
-* Deep Mutual Learning **#nips2017**
-* Runtime neural pruning **#nips2017**
-* Train longer, generalize better: closing the generalization gap in large batch training of neural networks **#nips2017**
-* Dynamic Routing Between Capsules **#nips2017**
-* Dual Discriminator Generative Adversarial Nets **#nips2017**
-* VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning **#nips2017**
-* Dual Path Networks **#nips2017**
-* The Reversible Residual Network: Backpropagation Without Storing Activations **#nips2017**
-* Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples **#nips2017**
+
+* Joint distribution optimal transportation for domain adaptation `NIPS2017`
+	> The paper uses optimal transport for domain adaptation. The key novelty is using a loss function that depends on both the input features (covariate) x and the output labels y. Accordingly, the proposal (JDOT) performs joint (marginal+conditional) distribution alignment simultaneously. Since the target dataset is unlabeled, JDOT uses the model (f) predictions as pseudo-labels when computing the transportation plan.
+	
+* Deep Mutual Learning `NIPS2017`
+* Runtime neural pruning `NIPS2017`
+* Train longer, generalize better: closing the generalization gap in large batch training of neural networks `NIPS2017`
+* Dynamic Routing Between Capsules `NIPS2017`
+* Dual Discriminator Generative Adversarial Nets `NIPS2017`
+* VEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning `NIPS2017`
+* Dual Path Networks `NIPS2017`
+* The Reversible Residual Network: Backpropagation Without Storing Activations `NIPS2017`
+* Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples`NIPS2017`
 * Learning Spread-out Local Feature Descriptors **#iccv2017**
 * Thinet: A filter level pruning method for deep neural network compression. **#iccv2017**
 * Channel pruning for accelerating very deep neural networks. **#iccv2017**
