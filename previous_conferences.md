@@ -13,6 +13,10 @@
 	> The paper proposes DeepIM , the first render-and-compare version integrating a deep learning model. The paper uses the FlowNetSimple network -- with multiple output branches -- to predict a relative pose estimate between rendered and observed images. Both rendered and observed images (along with foreground masks) are fed as multi-channel images to the network. Given an initial pose estimate, DeepIM refines the pose iteratively—through 4 iterations or until convergence—so the observed image closely matches the rendered image.
 	
 * Res2net: A new multi-scale backbone architecture **pami2019**
+
+* On Learning Invariant Representation for Domain Adaptation `ICML2019` `CA` `US` `Microsoft`
+	> Previous work (Ben David) led to a focus on marginal alignment as sufficient for domain adaptation. The paper shows that marginal alignment is insufficient and can be harmful. The paper doesn't disagree with the Ben David Theorem, but it says that the third terms (joint-error) shouldn't be ignored or at least lower bounded. The paper shows that joint-error can grow larger as alignment increases. Instead, the paper adds a term to measure the distance between the true-labeling function on source and target domains. One key idea is that it is possible, in certain situations, that pushing invariance harder while minimizing source error causes a target-error increase.
+	
 * Measuring the Effects of Data Parallelism on Neural Network Training **jmlr2019** `Nice` `Analysis` `Google`
 * Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization **asplos2019**
 * Micro-Batch Training with Batch-Channel Normalization and Weight Standardization `arXiv` `2019` `WS` `BCN`
